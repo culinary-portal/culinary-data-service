@@ -1,10 +1,11 @@
 import requests
 
+
 class CulinaryDataService:
-    def __init__(self, base_url) :
+    def __init__(self, base_url):
         self.base_url = base_url
 
-    def combine_url(self, endpoint) :
+    def combine_url(self, endpoint):
         return f"{self.base_url}/{endpoint}"
 
     def get_method(self, endpoint):
@@ -15,6 +16,3 @@ class CulinaryDataService:
         else:
             print(response.status_code)
             print("Error while getting the response")
-
-
-

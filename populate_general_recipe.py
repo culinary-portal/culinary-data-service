@@ -10,7 +10,7 @@ class PopulateGeneralRecipe:
         self.cursor = self.connection.cursor()
         self.starting_id = 52767
         self.number_of_meals = 317
-        self.table_name = None
+        self.table_name = "generalrecipe"
         self.row = ""
 
     def transform_data(self, iterator):
@@ -21,15 +21,14 @@ class PopulateGeneralRecipe:
             print("No data")
             return None
         else:
-            name = f"{json_response['meals'][0]['strMeal']}".replace("","")
+            name = f"{json_response['meals'][0]['strMeal']}"
             self.row += name.replace("'","")
             self.row = "'" + self.row + "'"
             return True
 
-    def populate(self, table_name):
+    def populate(self):
         for i in range(self.number_of_meals):
             if self.transform_data(i) is not None:
-                self.table_name = table_name
                 try:
                     query = f"INSERT INTO {self.table_name}(name) VALUES ({self.row});"
                     print(query)
