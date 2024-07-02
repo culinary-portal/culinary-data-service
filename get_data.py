@@ -1,9 +1,14 @@
+import os
+
 import requests
 
 
 class CulinaryDataService:
     def __init__(self, base_url):
         self.base_url = base_url
+        self.number_of_meals = 317
+        self.starting_id = 52767
+        self.file_name = 'mealdb_data'
 
     def combine_url(self, endpoint):
         return f"{self.base_url}/{endpoint}"
@@ -16,3 +21,10 @@ class CulinaryDataService:
         else:
             print(response.status_code)
             print("Error while getting the response")
+
+    def save_to_file(self):
+        f = open(self.file_name, 'w')
+        for i in range(self.number_of_meals):
+            response = requests.get(f'https://www.themealdb.com/api/json/v1/1/lookup.php?i={self.starting_id + i}')
+            f.write(response.text)
+        f.close()
