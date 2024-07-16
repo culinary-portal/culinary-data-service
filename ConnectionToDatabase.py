@@ -2,7 +2,7 @@ import psycopg2
 from psycopg2 import OperationalError
 
 
-class Database:
+class ConnectionToDatabase:
     def __init__(self, dbname, username, password, host, port):
         self.dbname = dbname
         self.username = username
@@ -25,4 +25,3 @@ class Database:
             print("Connection to postgres unsuccessful")
             self.conn = None
             self.cursor = None
-

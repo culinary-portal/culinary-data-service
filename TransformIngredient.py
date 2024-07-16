@@ -1,6 +1,5 @@
-from connection_to_db import Database
+from ConnectionToDatabase import Database
 from psycopg2 import Error
-from get_data import CulinaryDataService
 import requests
 
 
@@ -31,7 +30,7 @@ class PopulateIngredient:
                 self.row.append(ingredient)
             return True
 
-    def micro_elements(self, ingredient):
+    def get_micro_elements(self, ingredient):
         url = f"https://api.api-ninjas.com/v1/nutrition?query={ingredient}"
         response = requests.get(url, headers={'X-Api-Key': self.ninja_api_key}).json()
         print(response)
@@ -46,7 +45,7 @@ class PopulateIngredient:
             if self.transform_data(i) is not None:
                 for ingredient in self.row:
                     try:
-                        fat, protein, carbohydrate, kcal = self.micro_elements(ingredient)
+                        fat, protein, carbohydrate, kcal = self.get_micro_elements(ingredient)
                         ingredient = "'" + ingredient + "'"
                         query = f'INSERT INTO {self.table_name} VALUES (DEFAULT,{ingredient},{fat},{protein},{carbohydrate},{kcal});'
                         print(query)

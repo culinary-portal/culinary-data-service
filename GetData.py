@@ -1,9 +1,7 @@
-import os
-
 import requests
 
 
-class CulinaryDataService:
+class GetData:
     def __init__(self, base_url):
         self.base_url = base_url
         self.number_of_meals = 317
@@ -28,3 +26,13 @@ class CulinaryDataService:
             response = requests.get(f'https://www.themealdb.com/api/json/v1/1/lookup.php?i={self.starting_id + i}')
             f.write(response.text)
         f.close()
+
+    def get_one(self, iterator):
+        current_response = self.get_method(f"json/v1/1/lookup.php?i={self.starting_id + iterator}")
+        print(current_response)
+        one_meal = ""
+        if current_response['meals'] is None:
+            print("No data")
+            return None
+        else:
+            return one_meal
