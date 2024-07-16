@@ -11,5 +11,5 @@ class TransformGeneralRecipe:
     def transform_data(self, response):
         name = response['strMeal']
         self.row += name.replace("'","")
-        self.row = "'" + self.row + "'"
+        self.row = "DEFAULT," "'" + self.row + "'"
         return self.row

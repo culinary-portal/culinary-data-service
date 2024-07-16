@@ -17,7 +17,7 @@ class TransformIngredient:
         print(ingredient)
         ingredient = ingredient.replace("'", "")
         fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
-        self.row = "'" + ingredient + "'" + "," + fats + "," + proteins + "," + carbs + "," + kcal
+        self.row = "DEFAULT," + "'" + ingredient + "'" + "," + fats + "," + proteins + "," + carbs + "," + kcal
         self.last_ingredient_id += 1
         return self.row
 
@@ -32,7 +32,7 @@ class TransformIngredient:
         }
         response = requests.post('https://trackapi.nutritionix.com/v2/natural/nutrients', headers=headers,data=json.dumps(body)).json()
         print(response)
-        grams = response["foods"][0]["alt_measures"][0]["serving_weight"]
+        grams = response["foods"][0]["serving_weight_grams"]
         kcal = str(int(response["foods"][0]["nf_calories"]) / grams * 100)
         proteins = str(int(response["foods"][0]["nf_protein"]) / grams * 100)
         fats = str(int(response["foods"][0]["nf_total_fat"]) / grams * 100)

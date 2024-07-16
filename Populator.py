@@ -10,7 +10,7 @@ class Populator():
 
     def insert_row(self, table_name, row):
         try:
-            query = f"INSERT INTO {table_name}(name) VALUES ({row});"
+            query = f"INSERT INTO {table_name} VALUES ({row});"
             print(query)
             self.cursor.execute(query)
             self.connection.commit()
