@@ -1,9 +1,8 @@
 import requests
 
-
 class GetData:
     def __init__(self, base_url):
-        self.base_url = base_url
+        self.base_url = "https://www.themealdb.com/api"
         self.number_of_meals = 317
         self.starting_id = 52767
         self.file_name = 'mealdb_data'
@@ -30,9 +29,8 @@ class GetData:
     def get_one(self, iterator):
         current_response = self.get_method(f"json/v1/1/lookup.php?i={self.starting_id + iterator}")
         print(current_response)
-        one_meal = ""
         if current_response['meals'] is None:
             print("No data")
             return None
         else:
-            return one_meal
+            return current_response['meals'][0]

@@ -1,62 +1,60 @@
-from ConnectionToDatabase import Database
 from psycopg2 import Error
 import requests
+import json
 
-
-class PopulateIngredient:
+class TransformIngredient:
     def __init__(self):
-        self.database = Database("postgres", "postgres", "postgres", "localhost", 5432)
-        self.connection = self.database.connect()
-        self.cursor = self.connection.cursor()
         self.starting_id = 52767
         self.number_of_meals = 317
         self.table_name = "ingredient"
-        self.row = []
+        self.row = ""
         self.ingredients_size = 20
+        self.last_ingredient_id = 0
         self.ninja_api_key = '0vZpAVmpN3ZDYCbMyvsPDQ==86dLn8e6GhCQXOIJ'
 
-    def transform_data(self, iterator):
-        data_service = CulinaryDataService("https://www.themealdb.com/api")
-        json_response = data_service.get_method(f"json/v1/1/lookup.php?i={self.starting_id + iterator}")
-
-        if json_response['meals'] is None:
-            print("No data")
-            return None
-        else:
-            for i in range(self.ingredients_size):
-                ingredient = f"{json_response['meals'][0][f'strIngredient{i + 1}']}"
-                print(ingredient)
-                ingredient = ingredient.replace("'", "")
-                self.row.append(ingredient)
-            return True
+    def transform_data(self, response):
+        ingredient = f"{response[f'strIngredient{self.last_ingredient_id + 1}']}"
+        print(ingredient)
+        ingredient = ingredient.replace("'", "")
+        fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
+        self.row = "'" + ingredient + "'" + "," + fats + "," + proteins + "," + carbs + "," + kcal
+        self.last_ingredient_id += 1
+        return self.row
 
     def get_micro_elements(self, ingredient):
-        url = f"https://api.api-ninjas.com/v1/nutrition?query={ingredient}"
-        response = requests.get(url, headers={'X-Api-Key': self.ninja_api_key}).json()
+        headers = {
+            'Content-Type': 'application/json',
+            'x-app-id': '02cd2118',
+            'x-app-key': 'e6d09e67fb32c4dde191663580baa2b1'
+        }
+        body = {
+            "query": f"{ingredient}"
+        }
+        response = requests.post('https://trackapi.nutritionix.com/v2/natural/nutrients', headers=headers,data=json.dumps(body)).json()
         print(response)
-        fat = response[0]['fat_total_g']
-        protein = response[0]['protein_g']
-        carbohydrate = response[0]['carbohydrates_total_g']
-        kcal = response[0]['calories']
-        return fat, protein, carbohydrate, kcal
+        grams = response["foods"][0]["alt_measures"][0]["serving_weight"]
+        kcal = str(int(response["foods"][0]["nf_calories"]) / grams * 100)
+        proteins = str(int(response["foods"][0]["nf_protein"]) / grams * 100)
+        fats = str(int(response["foods"][0]["nf_total_fat"]) / grams * 100)
+        carbs = str(int(response["foods"][0]["nf_total_carbohydrate"]) / grams * 100)
+        print(grams)
+        return kcal, proteins, fats, carbs
 
-    def populate(self):
-        for i in range(self.number_of_meals):
-            if self.transform_data(i) is not None:
-                for ingredient in self.row:
-                    try:
-                        fat, protein, carbohydrate, kcal = self.get_micro_elements(ingredient)
-                        ingredient = "'" + ingredient + "'"
-                        query = f'INSERT INTO {self.table_name} VALUES (DEFAULT,{ingredient},{fat},{protein},{carbohydrate},{kcal});'
-                        print(query)
-                        self.cursor.execute(query)
-                        self.connection.commit()
-                    except Error as e:
-                        print("Error while inserting")
-                        self.cursor.close()
-                        self.connection.close()
-            else:
-                print(f"missing data for  id{self.starting_id + i}")
-            self.row = []
-        self.cursor.close()
-        self.connection.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,14 +1,14 @@
 from psycopg2 import Error
-from ConnectionToDatabase import Database
+import ConnectionToDatabase
 
 
 class Populator():
     def __init__(self):
-        self.database = Database("postgres", "postgres", "postgres", "localhost", 5432)
+        self.database = ConnectionToDatabase.ConnectionToDatabase("postgres", "postgres", "postgres", "localhost", 5432)
         self.connection = self.database.connect()
         self.cursor = self.connection.cursor()
 
-    def populate(self, table_name, row):
+    def insert_row(self, table_name, row):
         try:
             query = f"INSERT INTO {table_name}(name) VALUES ({row});"
             print(query)
