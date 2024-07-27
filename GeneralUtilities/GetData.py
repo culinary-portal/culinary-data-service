@@ -3,6 +3,7 @@ import requests
 class GetData:
     def __init__(self, base_url):
         self.base_url = "https://www.themealdb.com/api"
+        self.max_ingredients = 20
         self.number_of_meals = 317
         self.starting_id = 52767
         self.file_name = 'mealdb_data'
@@ -34,3 +35,10 @@ class GetData:
             return None
         else:
             return current_response['meals'][0]
+
+    def get_number_of_max_ingredients(self, response):
+        for i in range(1,self.max_ingredients):
+            if response[f'strIngredient{i}'] is None or response[f'strIngredient{i}'] == '':
+                print(i)
+                return i
+
