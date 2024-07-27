@@ -1,0 +1,11 @@
+truncate table Diet_type;
+truncate table Specific;
+truncate table Favorites;
+truncate table Review;
+truncate table Substitute;
+truncate table Contains;
+truncate table Recipe;
+truncate table Ingredient;
+truncate table Roles;
+truncate table "User";
+truncate table GeneralRecipe;
