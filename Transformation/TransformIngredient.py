@@ -14,46 +14,30 @@ class TransformIngredient:
         print(ingredient)
         ingredient = ingredient.replace("'", "")
         fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
-        self.row = "DEFAULT," + "'" + ingredient + "'" + "," + fats + "," + proteins + "," + carbs + "," + kcal + ",NULL,NULL"
+        self.row = f"DEFAULT, {fats}, {proteins}, {carbs}, {kcal},NULL,NULL"
         return self.row
 
     def get_micro_elements(self, ingredient):
-        headers = {
-            'Content-Type': 'application/json',
-            'x-app-id': '02cd2118',
-            'x-app-key': 'e6d09e67fb32c4dde191663580baa2b1'
-        }
-        body = {
-            "query": f"{ingredient}"
-        }
-        response = requests.post('https://trackapi.nutritionix.com/v2/natural/nutrients', headers=headers,data=json.dumps(body)).json()
-        print(response)
+        # for now dummy values, then we will get real data from API, keep in mind number of calls per day for the API
+        # headers = {
+        #     'Content-Type': 'application/json',
+        #     'x-app-id': '02cd2118',
+        #     'x-app-key': 'e6d09e67fb32c4dde191663580baa2b1'
+        # }
+        # body = {
+        #     "query": f"{ingredient}"
+        # }
+        # response = requests.post('https://trackapi.nutritionix.com/v2/natural/nutrients', headers=headers,
+        #                          data=json.dumps(body)).json()
+        # print(response)
         try:
-            grams = response["foods"][0]["serving_weight_grams"]
-            kcal = str(int(response["foods"][0]["nf_calories"]) / grams * 100)
-            proteins = str(int(response["foods"][0]["nf_protein"]) / grams * 100)
-            fats = str(int(response["foods"][0]["nf_total_fat"]) / grams * 100)
-            carbs = str(int(response["foods"][0]["nf_total_carbohydrate"]) / grams * 100)
-            return kcal, proteins, fats, carbs
+            # grams = response["foods"][0]["serving_weight_grams"]
+            # kcal = str(int(response["foods"][0]["nf_calories"]) * 100 / grams)
+            # proteins = str(int(response["foods"][0]["nf_protein"]) * 100 / grams)
+            # fats = str(int(response["foods"][0]["nf_total_fat"]) * 100 / grams)
+            # carbs = str(int(response["foods"][0]["nf_total_carbohydrate"]) * 100 / grams)
+
+            return 5, 10, 15, 220
         except Exception as e:
             kcal, proteins, fats, carbs = "NULL", "NULL", "NULL", "NULL"
             return fats, proteins, carbs, kcal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

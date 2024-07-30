@@ -2,12 +2,11 @@ import psycopg2
 
 
 def save_query_to_file(query, table):
-
-    with open(f'inserts/inserts_{table}.sql', 'a') as file:
+    with open(f'Insert/inserts_{table}.sql', 'a', encoding="utf-8") as file:
         file.write(query + '\n')
 
 
-class Populator():
+class Populator:
     def __init__(self):
         self.params = {
             'dbname': 'postgres',
@@ -27,6 +26,7 @@ class Populator():
                 connection.commit()
 
                 print("Row inserted successfully")
+                #to save the query to a seperate file
                 save_query_to_file(query, table_name)
             except (Exception, psycopg2.DatabaseError) as error:
                 print(f"Error while inserting: {error}")
