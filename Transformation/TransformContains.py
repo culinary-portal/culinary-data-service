@@ -24,7 +24,7 @@ class TransformContains:
         quantity_match = quantity_pattern.match(how_much)
         unit_match = unit_pattern.search(how_much)
         # assigning the result
-        quantity = quantity_match.group('quantity').strip() if quantity_match else "N/A"
+        quantity = quantity_match.group('quantity').strip() if quantity_match else -1
         unit = unit_match.group('unit').strip() if unit_match else "N/A"
 
         print(quantity, unit)
