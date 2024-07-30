@@ -14,7 +14,7 @@ class TransformIngredient:
         print(ingredient)
         ingredient = ingredient.replace("'", "")
         fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
-        self.row = f"DEFAULT, {fats}, {proteins}, {carbs}, {kcal},NULL,NULL"
+        self.row = f"DEFAULT, '{ingredient}',{fats}, {proteins}, {carbs}, {kcal},NULL,NULL"
         return self.row
 
     def get_micro_elements(self, ingredient):
@@ -22,7 +22,7 @@ class TransformIngredient:
         # headers = {
         #     'Content-Type': 'application/json',
         #     'x-app-id': '02cd2118',
-        #     'x-app-key': 'e6d09e67fb32c4dde191663580baa2b1'
+        #     'x-app-key': 'x-app-key'
         # }
         # body = {
         #     "query": f"{ingredient}"

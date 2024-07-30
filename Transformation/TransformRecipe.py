@@ -4,7 +4,7 @@ import json
 
 class TransformGeneralRecipe:
     def __init__(self):
-        self.table_name = "general_recipe"
+        self.table_name = "recipe"
 
     def transform_data(self, response):
         if response['strMeal'] is not None:
