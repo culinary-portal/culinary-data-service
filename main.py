@@ -23,10 +23,10 @@ def main():
             # populate_database.insert_row(general_recipe.table_name, row)
             max_ingredients_for_recipe = int(data_service.get_number_of_max_ingredients(response)) - 1
             for i in range(MAX_INGREDIENTS):
-            #     # row = ingredients.transform_data(response, i)
-            #     # populate_database.insert_row(ingredients.table_name, row)
-            #     # print(row)
-            #     # print(f"i {i}", max_ingredients_for_recipe)
+                row = ingredients.transform_data(response, i)
+                populate_database.insert_row(ingredients.table_name, row)
+                print(row)
+                print(f"i {i}", max_ingredients_for_recipe)
                 row = contains.transform_data(response, i)
                 populate_database.insert_row(contains.table_name, row)
                 if i == max_ingredients_for_recipe:

@@ -26,7 +26,7 @@ class Populator:
                 connection.commit()
 
                 print("Row inserted successfully")
-                #to save the query to a seperate file
+                # to save the query to a seperate file
                 save_query_to_file(query, table_name)
             except (Exception, psycopg2.DatabaseError) as error:
                 print(f"Error while inserting: {error}")

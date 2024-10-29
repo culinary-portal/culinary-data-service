@@ -1,4 +1,5 @@
-select * from ingredient;
+select * from ingredient where fat <> 5;
+truncate table ingredient;
 
 select * from general_recipe;
 
