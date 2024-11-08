@@ -4,7 +4,7 @@ import requests
 class GetData:
     def __init__(self, base_url):
         self.base_url = base_url
-        self.max_ingredients = 21
+        self.max_ingredients = 20
         self.number_of_meals = 317
         self.starting_id = 52767
         self.file_name = 'mealdb_data'
@@ -22,7 +22,7 @@ class GetData:
             print("Error while getting the response")
 
     def save_to_file(self):
-        f = open(self.file_name, 'w')
+        f = open(self.file_name, 'a')
         for i in range(self.number_of_meals):
             response = requests.get(f'https://www.themealdb.com/api/json/v1/1/lookup.php?i={self.starting_id + i}')
             f.write(response.text)
