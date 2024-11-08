@@ -1,7 +1,5 @@
-from psycopg2 import Error
-import json
 import psycopg2
-
+from psycopg2 import Error
 
 class TransformRecipe:
     def __init__(self):
@@ -11,41 +9,43 @@ class TransformRecipe:
             'user': 'postgres',
             'password': 'postgres',
             'host': 'localhost',
-            'port': '5432'}
+            'port': '5432'
+        }
 
     def transform_data(self, response):
-        if response['strMeal'] is not None:
+        if response.get('strMeal') is not None:
             name = response['strMeal'].replace("'", "")
-            id_general_recipe = self.get_id_recipe(name)[0]
-            row = f"DEFAULT, '{id_general_recipe}' ,'{name}' , 'NULL' , NULL"
-            return row
-        else:
-            return False
+            id_general_recipe = self.get_id_recipe(name)
+            if id_general_recipe is not None:
+                row = f"DEFAULT, '{id_general_recipe}', '{name}', 'NULL', NULL"
+                return row
+        return False
 
     def get_id_recipe(self, recipe_name):
-        try:
-            connection = psycopg2.connect(**self.params)
-            cursor = connection.cursor()
-            try:
-                cursor.execute(f"SELECT general_recipe_id from general_recipe WHERE name = '{recipe_name}'")
-                row = cursor.fetchone()
-                return row
-            except:
-                cursor.close()
-                connection.close()
-        except:
-            print("Error while fetching the data")
+        """
+        Fetches the general_recipe_id from the general_recipe table by recipe name.
+        """
+        query = "SELECT general_recipe_id FROM general_recipe WHERE name = %s"
+        result = self._fetch_single_result(query, (recipe_name,))
+        return result[0] if result else None
 
     def get_id_diet_type(self, diet_type):
+        """
+        Fetches the general_recipe_id from the general_recipe table by diet type.
+        """
+        query = "SELECT general_recipe_id FROM general_recipe WHERE name = %s"
+        result = self._fetch_single_result(query, (diet_type,))
+        return result[0] if result else None
+
+    def _fetch_single_result(self, query, params):
+        """
+        Executes a query with parameters and fetches a single result.
+        """
         try:
-            connection = psycopg2.connect(**self.params)
-            cursor = connection.cursor()
-            try:
-                cursor.execute(f"SELECT general_recipe_id from general_recipe WHERE name = '{diet_type}'")
-                row = cursor.fetchone()
-                return row
-            except:
-                cursor.close()
-                connection.close()
-        except:
-            print("Error while fetching the data")
+            with psycopg2.connect(**self.params) as connection:
+                with connection.cursor() as cursor:
+                    cursor.execute(query, params)
+                    return cursor.fetchone()
+        except Error as e:
+            print(f"Database error occurred: {e}")
+            return None

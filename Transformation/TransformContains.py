@@ -50,7 +50,7 @@ class TransformContains:
         try:
             connection = psycopg2.connect(**self.params)
             cursor = connection.cursor()
-            cursor.execute("SELECT general_recipe_id FROM recipe WHERE name = %s", (recipe_name,))
+            cursor.execute("SELECT recipe_id FROM recipe WHERE name = %s", (recipe_name,))
             row = cursor.fetchone()
             cursor.close()
             connection.close()
