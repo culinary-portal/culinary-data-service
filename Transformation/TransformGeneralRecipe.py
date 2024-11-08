@@ -14,10 +14,10 @@ class TransformGeneralRecipe:
 
         # Extract and clean fields
         name = name.replace("'", "")
-        instructions = response.get('strInstructions', "").replace("'", "")
+        instructions = response.get('strInstructions', "").replace("'", "").replace("\n", " ")
         pho_url = response.get('strMealThumb', "").replace("'", "")
 
         # Construct row with formatted string for better readability
-        row = f"DEFAULT, '{name}', '{pho_url}', NULL, NULL, '{instructions}', NULL"
+        row = f"DEFAULT, '{name}', '{pho_url}', 'BREAKFAST', NULL, '{instructions}', NULL"
 
         return row

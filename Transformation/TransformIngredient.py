@@ -10,15 +10,16 @@ class TransformIngredient:
         self.row = ""
 
     def transform_data(self, response, iterator):
-        ingredient = response.get(f'strIngredient{iterator + 1}', "").replace("'", "")
+        ingredient = response.get(f'strIngredient{iterator + 1}', None)
+        if ingredient is None or ingredient.strip() == "":  # Check for None or empty string
+            print(f"No ingredient found for iterator {iterator + 1}")
+            return None
 
-        if not ingredient:
-            return None  # Skip if no ingredient is found
+        ingredient = ingredient.replace("'", "")
 
-        # Fetch nutritional values
+        # Get the macronutrient data
         fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
 
-        # Create the SQL row format
         self.row = f"DEFAULT, '{ingredient}', {fats}, {proteins}, {carbs}, {kcal}, NULL, NULL"
         return self.row
 
@@ -26,7 +27,7 @@ class TransformIngredient:
         headers = {
             'Content-Type': 'application/json',
             'x-app-id': '02cd2118',
-            'x-app-key': 'your-app-key'
+            'x-app-key': '72b52f538fcc03c90ef4d9fa90ffd1b8'
         }
 
         body = {
@@ -59,4 +60,3 @@ class TransformIngredient:
         except Exception as e:
             print(f"Error fetching nutrient data for {ingredient}: {e}")
             return dummy_values  # Use placeholder values on error
-

@@ -17,7 +17,7 @@ class TransformRecipe:
             name = response['strMeal'].replace("'", "")
             id_general_recipe = self.get_id_recipe(name)
             if id_general_recipe is not None:
-                row = f"DEFAULT, '{id_general_recipe}', '{name}', 'NULL', NULL"
+                row = f"DEFAULT, '{id_general_recipe}', '{name}', NULL, NULL"
                 return row
         return False
 

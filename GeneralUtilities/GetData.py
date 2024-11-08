@@ -1,5 +1,5 @@
 import requests
-
+import time
 
 class GetData:
     def __init__(self, base_url):
@@ -13,6 +13,7 @@ class GetData:
         return f"{self.base_url}/{endpoint}"
 
     def get_method(self, endpoint):
+        time.sleep(4)
         url = self.combine_url(endpoint)
         response = requests.get(url)
         if response.status_code == 200:

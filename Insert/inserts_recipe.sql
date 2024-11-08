@@ -2433,3 +2433,4 @@ Meanwhile, stir together the corn starch and 2 tablespoons of water in a separat
 Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks.
 *Meanwhile, steam or cook the vegetables according to package directions.
 Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!' , NULL);
+INSERT INTO recipe VALUES (DEFAULT, '302', 'Bakewell tart', 'NULL', NULL);

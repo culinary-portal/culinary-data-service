@@ -2401,3 +2401,10 @@ Meanwhile, stir together the corn starch and 2 tablespoons of water in a separat
 Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks.
 *Meanwhile, steam or cook the vegetables according to package directions.
 Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!');
+INSERT INTO general_recipe VALUES (DEFAULT, 'Bakewell tart', 'https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg', 'BREAKFAST', NULL, 'To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add the water, mixing to form a soft dough.
+Roll out the dough on a lightly floured work surface and use to line a 20cm/8in flan tin. Leave in the fridge to chill for 30 minutes.
+Preheat the oven to 200C/400F/Gas 6 (180C fan).
+Line the pastry case with foil and fill with baking beans. Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base.
+For the filing, spread the base of the flan generously with raspberry jam.
+Melt the butter in a pan, take off the heat and then stir in the sugar. Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.
+Bake for about 35 minutes. If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning.', NULL);
