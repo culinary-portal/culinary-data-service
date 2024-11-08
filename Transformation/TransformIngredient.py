@@ -23,10 +23,6 @@ class TransformIngredient:
         return self.row
 
     def get_micro_elements(self, ingredient):
-        """
-        Retrieves the macronutrient information for an ingredient.
-        Currently returns dummy values to reduce API calls during testing.
-        """
         headers = {
             'Content-Type': 'application/json',
             'x-app-id': '02cd2118',

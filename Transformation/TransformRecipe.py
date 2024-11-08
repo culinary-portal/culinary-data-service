@@ -22,25 +22,16 @@ class TransformRecipe:
         return False
 
     def get_id_recipe(self, recipe_name):
-        """
-        Fetches the general_recipe_id from the general_recipe table by recipe name.
-        """
         query = "SELECT general_recipe_id FROM general_recipe WHERE name = %s"
         result = self._fetch_single_result(query, (recipe_name,))
         return result[0] if result else None
 
     def get_id_diet_type(self, diet_type):
-        """
-        Fetches the general_recipe_id from the general_recipe table by diet type.
-        """
         query = "SELECT general_recipe_id FROM general_recipe WHERE name = %s"
         result = self._fetch_single_result(query, (diet_type,))
         return result[0] if result else None
 
     def _fetch_single_result(self, query, params):
-        """
-        Executes a query with parameters and fetches a single result.
-        """
         try:
             with psycopg2.connect(**self.params) as connection:
                 with connection.cursor() as cursor:
