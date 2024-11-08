@@ -16,9 +16,8 @@ class TransformRecipe:
     def transform_data(self, response):
         if response['strMeal'] is not None:
             name = response['strMeal'].replace("'", "")
-            id_recipe = self.get_id_recipe(name)[0]
-            description = response['strInstructions'].replace("'", "")
-            row = f"DEFAULT, '{id_recipe}' ,'{name}' , '{description}' , NULL"
+            id_general_recipe = self.get_id_recipe(name)[0]
+            row = f"DEFAULT, '{id_general_recipe}' ,'{name}' , 'NULL' , NULL"
             return row
         else:
             return False

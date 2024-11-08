@@ -7,6 +7,7 @@ drop table contains;
 drop table recipe;
 drop table ingredient;
 drop table roles;
-drop table customer;
+drop table user_diet_type;
+drop table users;
 drop table general_recipe;
 drop table diet_type CASCADE ;
