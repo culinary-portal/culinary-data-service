@@ -14,7 +14,7 @@ class TransformGeneralRecipe:
 
         # Extract and clean fields
         name = name.replace("'", "")
-        instructions = response.get('strInstructions', "").replace("'", "").replace("\n", " ")
+        instructions = response.get('strInstructions', "").replace("'", "").replace("\n", " ").replace('\r', " ")
         pho_url = response.get('strMealThumb', "").replace("'", "")
 
         # Construct row with formatted string for better readability

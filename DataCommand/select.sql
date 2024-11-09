@@ -1,7 +1,7 @@
 select * from ingredient where fat <> 5;
 
 
-select * from general_recipe;
+select count(*) from recipe;
 
 select * from contains;
 

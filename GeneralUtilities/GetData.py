@@ -13,7 +13,7 @@ class GetData:
         return f"{self.base_url}/{endpoint}"
 
     def get_method(self, endpoint):
-        time.sleep(4)
+        time.sleep(1)
         url = self.combine_url(endpoint)
         response = requests.get(url)
         if response.status_code == 200:
