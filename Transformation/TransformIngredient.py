@@ -1,6 +1,6 @@
 import requests
 import json
-
+import time
 
 class TransformIngredient:
     def __init__(self):
@@ -26,8 +26,8 @@ class TransformIngredient:
     def get_micro_elements(self, ingredient):
         headers = {
             'Content-Type': 'application/json',
-            'x-app-id': '02cd2118',
-            'x-app-key': '72b52f538fcc03c90ef4d9fa90ffd1b8'
+            'x-app-id': 'df854fb1   ',
+            'x-app-key': '372bc7c57fb7fa88021e943b8a3e3ad2'
         }
 
         body = {
@@ -38,6 +38,7 @@ class TransformIngredient:
         dummy_values = ("5", "10", "15", "220")
 
         try:
+            time.sleep(1)
             response = requests.post(
                 'https://trackapi.nutritionix.com/v2/natural/nutrients',
                 headers=headers,

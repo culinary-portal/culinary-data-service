@@ -31,17 +31,18 @@ def main():
 
                 # Transform and save the recipe row
 
-                recipe_row = recipe.transform_data(response)
-                print(recipe_row)
-                recipe_file.write(f"{recipe_row}\n")
+                # recipe_row = recipe.transform_data(response)
+                # print(recipe_row)
+                # recipe_file.write(f"{recipe_row}\n")
 
-                # max_ingredients_for_recipe = int(data_service.get_number_of_max_ingredients(response)) - 1
-                #
-                # for i in range(MAX_INGREDIENTS):
-                #     # Transform and save ingredient row
-                #     ingredient_row = ingredients.transform_data(response, i)
-                #     print(f"Writing Ingredient Row (Iterator {iterator}, Ingredient {i}): {ingredient_row}")
-                #     ingredient_file.write(f"{ingredient_row}\n")
+                max_ingredients_for_recipe = int(data_service.get_number_of_max_ingredients(response)) - 1
+
+                for i in range(MAX_INGREDIENTS):
+                    # Transform and save ingredient row
+                    ingredient_row = ingredients.transform_data(response, i)
+                    print(f"Writing Ingredient Row (Iterator {iterator}, Ingredient {i}): {ingredient_row}")
+                    if ingredient_row is not None and ingredient_row != "":
+                        ingredient_file.write(f"{ingredient_row}\n")
 
                 # # Transform and save "contains" row
                 # contains_row = contains.transform_data(response, i)
