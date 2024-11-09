@@ -26,7 +26,7 @@ def main():
             if response is not None:
                 #         # Transform and save the general recipe row
                 #         row = general_recipe.transform_data(response)
-                #         print(f"Writing General Recipe Row for Iterator {iterator}: {row}")
+                #         print(f"Writing General Recipe Row for Iterat or {iterator}: {row}")
                 #         general_recipe_file.write(f"{row}\n")
 
                 # Transform and save the recipe row

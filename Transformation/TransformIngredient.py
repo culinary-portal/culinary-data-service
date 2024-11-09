@@ -38,7 +38,6 @@ class TransformIngredient:
         dummy_values = ("5", "10", "15", "220")
 
         try:
-            time.sleep(1)
             response = requests.post(
                 'https://trackapi.nutritionix.com/v2/natural/nutrients',
                 headers=headers,

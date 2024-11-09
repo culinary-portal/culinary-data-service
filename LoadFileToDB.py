@@ -1,7 +1,7 @@
 import psycopg2
 
-FILE_NAME = 'Transformation/ClearData/recipe_data_0811.txt'
-TABLE_NAME = 'recipe'
+FILE_NAME = 'Transformation/ClearData/ingredient_data_0811.txt'
+TABLE_NAME = 'ingredient'
 PARAMS = {
     'dbname': 'postgres',
     'user': 'postgres',
