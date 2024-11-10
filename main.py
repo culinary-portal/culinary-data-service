@@ -39,18 +39,18 @@ def main():
 
                 for i in range(max_ingredients_for_recipe):
                     # Transform and save ingredient row
-                    # ingredient_row = ingredients.transform_data(response, i)
-                    # print(f"Writing Ingredient Row (Iterator {iterator}, Ingredient {i}): {ingredient_row}")
-                    # if ingredient_row is not None and ingredient_row != "":
-                    #     ingredient_file.write(f"{ingredient_row}\n")
-
-                    # Transform and save "contains" row
-                    contains_row = contains.transform_data(response, i)
-                    if contains_row:
-                        print(f"Writing Contains Row (Iterator {iterator}, Ingredient {i}): {contains_row}")
-                        contains_file.write(f"{contains_row}\n")
-                    else:
-                        print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
+                    ingredient_row = ingredients.transform_data(response, i)
+                    print(f"Writing Ingredient Row (Iterator {iterator}, Ingredient {i}): {ingredient_row}")
+                    if ingredient_row is not None and ingredient_row != "":
+                        ingredient_file.write(f"{ingredient_row}\n")
+                    #
+                    # # Transform and save "contains" row
+                    # contains_row = contains.transform_data(response, i)
+                    # if contains_row:
+                    #     print(f"Writing Contains Row (Iterator {iterator}, Ingredient {i}): {contains_row}")
+                    #     contains_file.write(f"{contains_row}\n")
+                    # else:
+                    #     print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
 
 
 
