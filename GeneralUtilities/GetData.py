@@ -6,8 +6,8 @@ class GetData:
         self.base_url = base_url
         self.max_ingredients = 20
         self.number_of_meals = 317
-        self.starting_id = 52879
-        #self.starting_id = 52767
+        #self.starting_id = 52918
+        self.starting_id = 52767
         self.file_name = 'mealdb_data'
 
     def combine_url(self, endpoint):

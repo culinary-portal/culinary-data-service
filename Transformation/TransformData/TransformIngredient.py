@@ -24,10 +24,15 @@ class TransformIngredient:
         return self.row
 
     def get_micro_elements(self, ingredient):
+        # headers = {
+        #     'Content-Type': 'application/json',
+        #     'x-app-id': 'df854fb1   ',
+        #     'x-app-key': '372bc7c57fb7fa88021e943b8a3e3ad2'
+        # }
         headers = {
             'Content-Type': 'application/json',
-            'x-app-id': 'df854fb1   ',
-            'x-app-key': '372bc7c57fb7fa88021e943b8a3e3ad2'
+            'x-app-id': '02cd2118',
+            'x-app-key': '72b52f538fcc03c90ef4d9fa90ffd1b8'
         }
 
         body = {
