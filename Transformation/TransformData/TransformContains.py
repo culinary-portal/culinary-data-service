@@ -1,6 +1,8 @@
 import psycopg2
 import re
 
+
+
 class TransformContains:
     def __init__(self):
         self.table_name = "contains"
@@ -55,8 +57,59 @@ class TransformContains:
         quantity_match = quantity_pattern.match(how_much)
         unit_match = unit_pattern.search(how_much)
 
+        unit_to_grams = {
+            "g": 1,
+            "grams": 1,
+            "tsp": 5,
+            "teaspoon": 5,
+            "tblsp": 15,
+            "tbsp": 15,
+            "Tbs": 15,
+            "tablespoon": 15,
+            "cup": 240,
+            "cups": 240,
+            "ml": 1,
+            "mL": 1,
+            "pinch": 0.36,
+            "dash": 0.6,
+            "kg": 1000,
+            "lb": 454,
+            "pounds": 454,
+            "oz": 28.35,
+            "ounces": 28.35,
+            "L": 1000,
+            "litre": 1000,
+            "liter": 1000,
+            "can": 400,
+            "clove": 4,
+            "cloves": 4,
+            "large": 150,
+            "medium": 100,
+            "small": 50,
+            "sprigs": 5,
+            "bunch": 100,
+            "packet": 200,
+            "bag": 200,
+            "scoop": 30,
+            "handful": 30,
+            "stick": 113,
+            "knob": 10,
+            "slice": 20,
+            "head": 500,
+            "pod": 0.5,
+            "stalk": 30,
+            "rashers": 15,
+            "drops": 0.05,
+            "quarts": 946,
+            "qt": 946,
+            "yolk": 17,
+            "yolkes": 17,
+            "N/A": 0
+        }
+
         # Parse the quantity and unit
         quantity = quantity_match.group('quantity').strip() if quantity_match else -1
         unit = unit_match.group('unit').strip() if unit_match else "N/A"
-
-        return quantity, unit
+        #map unit to grams
+        unit_to_grams = unit_to_grams.get(unit)
+        return quantity, unit_to_grams
