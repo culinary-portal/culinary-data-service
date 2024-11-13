@@ -10,13 +10,12 @@ class TransformIngredient:
         self.row = ""
 
     def transform_data(self, response, iterator):
-        ingredient = response.get(f'strIngredient{iterator + 1}', None)
-        if ingredient is None or ingredient.strip() == "":  # Check for None or empty string
-            print(f"No ingredient found for iterator {iterator + 1}")
-            return None
-
-        ingredient = ingredient.replace("'", "")
-
+        # ingredient = response.get(f'strIngredient{iterator + 1}', None)
+        # if ingredient is None or ingredient.strip() == "":  # Check for None or empty string
+        #     print(f"No ingredient found for iterator {iterator + 1}")
+        #     return None
+        # ingredient = ingredient.replace("'", "")
+        ingredient = response.replace("'", "")
         # Get the macronutrient data
         fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
 
@@ -32,7 +31,7 @@ class TransformIngredient:
         headers = {
             'Content-Type': 'application/json',
             'x-app-id': '02cd2118',
-            'x-app-key': '72b52f538fcc03c90ef4d9fa90ffd1b8'
+            'x-app-key': '72b52f538fcc03c90ef4d9fa90ffd1b8x'
         }
 
         body = {

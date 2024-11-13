@@ -1,7 +1,7 @@
 import psycopg2
 
-FILE_NAME = 'contains_data.txt'
-TABLE_NAME = 'contains'
+FILE_NAME = 'Transformation/ClearData/ingredient_empty.txt'
+TABLE_NAME = 'ingredient_empty'
 PARAMS = {
     'dbname': 'postgres',
     'user': 'postgres',
