@@ -4,6 +4,8 @@ from Transformation.TransformData.TransformIngredient import TransformIngredient
 from Transformation.TransformData.TransformContains import TransformContains
 from Transformation.TransformData.TransformRecipe import TransformRecipe
 import csv
+
+
 class Config:
     # Configuration flags for enabling/disabling specific parts of the code
     ENABLE_GENERAL_RECIPE = False
@@ -13,15 +15,16 @@ class Config:
     MAX_ITERATOR = 300
     MAX_INGREDIENTS = 20
 
+
 def get_ingredient_name_list(file_path):
     ingredient_names = []
     with open(file_path, mode="r", encoding="utf-8") as file:
         csv_reader = csv.reader(file)
-        next(csv_reader)  # Skip the header
         for row in csv_reader:
             if len(row) > 1:
                 ingredient_names.append(row[1])  # Second column
     return ingredient_names
+
 
 def main():
     data_service = GetData.GetData("https://www.themealdb.com/api")
@@ -75,7 +78,6 @@ def main():
                         contains_file.write(f"{contains_row}\n")
                     else:
                         print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
-
 
 
 if __name__ == "__main__":
