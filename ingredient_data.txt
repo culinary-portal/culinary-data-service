@@ -596,7 +596,8 @@ DEFAULT, 'vegetable stock', 0.07, 0.23, 1.02, 6.0, NULL, NULL
 DEFAULT, 'turnips', 0.08, 0.71, 5.06, 22.0, NULL, NULL
 DEFAULT, 'flaked almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
 DEFAULT, 'lean minced beef', 17.36, 27.0, 0.0, 272.0, NULL, NULL
-DEFAULT, 'Green Olives', 15.19, 1.11, 3.7, 145.19, NULL, NULLDEFAULT, 'Bramley apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+DEFAULT, 'Green Olives', 15.19, 1.11, 3.7, 145.19, NULL, NULL
+DEFAULT, 'Bramley apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
 DEFAULT, 'Mirin', 0.0, 0.27, 47.42, 247.01, NULL, NULL
 DEFAULT, 'tuna', 0.59, 29.15, 0.0, 130.0, NULL, NULL
 DEFAULT, 'penne rigate', 0.93, 5.8, 30.86, 158.0, NULL, NULL
@@ -720,3 +721,4 @@ DEFAULT, 'Tamarind Paste', 0.6, 2.8, 62.5, 239.0, NULL, NULL
 DEFAULT, 'Brown Lentils', 0.38, 9.02, 20.13, 116.0, NULL, NULL
 DEFAULT, 'Pink Food Colouring', 0.0, 0.0, 0.0, 0.0, NULL, NULL
 DEFAULT, 'Bramley apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+
