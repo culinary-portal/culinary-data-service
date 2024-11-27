@@ -1,103 +1,103 @@
-DEFAULT    Smoked Haddock              0.95    25.22       0.0      116.01       0        0            1             1               0
-DEFAULT    Quinoa                      1.92     4.4       21.3      120.0       1        1            1             1               0
-DEFAULT    Cider                       0.13     0.1       11.3       46.0       1        1            1             1               0
-DEFAULT    Lasagne Sheets              8.42    11.4        9.01     156.41      1        1            0             1               0
-DEFAULT    Egg White                   0.18    10.91       0.73      52.0       0        1            1             1               0
-DEFAULT    Squash                      0.39     1.04       3.79      23.0       1        1            1             1               0
-DEFAULT    Paella Rice                 9.31    10.32      14.07     183.25      1        1            1             1               1
-DEFAULT    Wholegrain Bread            3.5     12.44      42.72     252.0       1        1            0             1               0
-DEFAULT    Desiccated Coconut         27.99     3.13      51.85     456.0       1        1            1             1               0
-DEFAULT    Naan Bread                  5.66     9.62      50.43     291.0       1        1            0             1               0
-DEFAULT    Mixed Grain                 0.0      0.0        0.0        0.0       1        1            1             1               0
-DEFAULT    Garam Masala               12.93    10.88      57.82     315.65      1        1            1             1               0
-DEFAULT    Filo Pastry                22.24     8.13      47.74     424.43      1        1            0             1               0
-DEFAULT    Thai Green Curry Paste      0.92     3.46      23.86     107.06      1        1            1             1               0
-DEFAULT    Bun                         3.75     9.86      50.16     278.0       1        1            0             1               0
-DEFAULT    Duck Sauce                  0.12     0.36      60.61     245.0       1        1            1             1               0
-DEFAULT    Coconut Milk               21.33     2.02       2.81     197.0       1        1            1             1               1
-DEFAULT    Rice Noodles                0.2      1.79      24.01     108.0       1        1            1             1               0
-DEFAULT    Vegetable Oil             100.0      0.0        0.0      883.97      1        1            1             1               1
-DEFAULT    Cherry Tomatoes             0.18     0.88       3.88      18.0       1        1            1             1               0
-DEFAULT    Corn Tortillas             2.83     5.71      44.62     218.0       1        1            0             1               0
-DEFAULT    Chilli                     7.1      7.53       6.1      118.0       1        1            1             1               0
-DEFAULT    Garlic Clove               0.67     6.33      33.0      149.0       1        1            1             1               0
-DEFAULT    Cooking Wine               0.0      0.07       2.6       83.0       1        1            1             1               0
-DEFAULT    Lamb Kidney                3.61    23.64       1.0      137.0       0        0            1             1               1
-DEFAULT    Farfalle                   0.93     5.8       30.86     158.0       1        1            0             1               0
-DEFAULT    Oyster Sauce               0.28     1.33      10.94      51.0       0        1            1             1               0
-DEFAULT    Lard                     100.0      0.0        0.0      902.03      1        1            1             1               1
-DEFAULT    Egg                        9.52    12.56       0.72     143.0       0        1            1             1               1
-DEFAULT    Cannellini Beans           0.35     9.73      25.09     139.0       1        1            1             1               0
-DEFAULT    Cinnamon                   1.15     3.85      80.77     246.92      1        1            1             1               0
-DEFAULT    Cornstarch                 0.0      0.25      91.25     381.0       1        1            1             1               0
-DEFAULT    Self-Raising Flour         0.97     9.89      74.22     354.0       1        1            0             1               0
-DEFAULT    Pickle Juice               0.19     0.23      19.1       80.06      1        1            1             1               0
-DEFAULT    Orange Zest                0.17     1.5       25.0       97.0       1        1            1             1               0
-DEFAULT    Broad Beans                0.4      7.6       19.65     110.0       1        1            1             1               0
-DEFAULT    Pitted Black Olives       10.79     0.79       6.32     115.0       1        1            1             1               1
-DEFAULT    Lime                       0.19     0.7       10.54      30.0       1        1            1             1               0
-DEFAULT    Salt                       0.0      0.0        0.0        0.0       1        1            1             1               0
-DEFAULT    White Chocolate Chips     32.1      5.88      59.24     539.0       0        1            1             0               0
-DEFAULT    Miniature Marshmallows     0.14     1.81      81.25     318.06      1        1            1             1               0
-DEFAULT    Rice Krispies              2.03     6.76      85.03     381.0       1        1            0             1               0
-DEFAULT    Ginger                     1.0      2.0       18.0       80.0       1        1            1             1               0
-DEFAULT    Oysters                    4.6     18.88       9.92     163.0       0        0            1             1               1
-DEFAULT    Cayenne Pepper            17.22    12.22      56.67     317.78      1        1            1             1               0
-DEFAULT    Green Beans                0.28     1.89       7.88      35.0       1        1            1             1               0
-DEFAULT    Sweetcorn                  1.51     3.4       20.98      96.0       1        1            1             1               0
-DEFAULT    Double Cream              36.07     2.85       2.75     340.0       0        1            1             0               1
-cayenne pepper
-DEFAULT    Almond Milk                1.0      0.43       3.25      22.52      1        1            1             1               1
-DEFAULT    Red Snapper                1.72    26.3        0.0      128.0       0        0            1             1               1
-DEFAULT    Toffee Popcorn            12.8      3.81      79.08     431.01      1        1            1             1               0
-DEFAULT    Water                      0.0      0.0        0.0        0.0       1        1            1             1               0
-DEFAULT    Stir-Fry Vegetables        4.58     2.54       6.47      71.71      1        1            1             1               0
-DEFAULT    Maple Syrup                0.05     0.05      67.05     260.0       1        1            1             1               0
-DEFAULT    Egg Rolls                 11.94     8.28      27.29     250.0       0        1            0             1               0
-DEFAULT    Custard Powder             4.0      3.99      17.6      122.0       1        1            1             1               0
-DEFAULT    Free-Range Egg, Beaten     9.52    12.56       0.72     143.0       0        1            1             1               1
-DEFAULT    Meringue Nests             0.05     3.41      68.64     283.0       1        1            1             1               0
-DEFAULT    Fajita Seasoning           0.0      4.56      58.07     321.93      1        1
-DEFAULT    Clotted Cream             58.01     1.86       1.44     523.69      0        1            1             0               1
-DEFAULT    Green Pepper               0.2      0.92       6.7       28.0       1        1            1             1               0
-DEFAULT    Bouquet Garni              4.32    14.32      43.24     212.7       1        1            1             1               0
-DEFAULT    Sherry                     0.0      0.48       6.31      50.0       1        1            1             1               0
-DEFAULT    Gruyère                   32.34    29.81       0.36     413.0       0        1            1             0               1
-DEFAULT    Fish Sauce                 0.0      5.06       3.67      35.0       0        0            1             1               0
-DEFAULT    Pepper                     3.04    10.43      63.91     250.87      1        1            1             1               0
-DEFAULT    Tomato Puree               0.21     1.65       8.98      38.0       1        1            1             1               0
-DEFAULT    Shallots                   0.09     2.49      16.81      72.0       1        1            1             1               0
-DEFAULT    Cornstarch                 0.0      0.25      91.25     381.0       1        1            1             1               0
-DEFAULT    Nutmeg                    36.36     5.91      49.09     525.0       1        1            1             1               0
-DEFAULT    Mustard                    3.4      3.8        5.8       60.0       1        1            1             1               0
-DEFAULT    Worcestershire Sauce       0.0      0.0       19.47      78.0       0        0            1             1               0
-DEFAULT    Malt Vinegar               0.0      6.19      71.29     318.0       1        1            1             1               0
-DEFAULT    Demerara Sugar             0.0      0.0      100.0      386.9       1        1            1             1               0
-DEFAULT    Chives                     0.67     3.33       4.33      30.0       1        1            1             1               0
-DEFAULT    Soy Sauce                  0.56     8.12       4.94      53.0       1        1            1             1               0
-DEFAULT    Dried Oregano              4.0      9.0       69.0      265.0       1        1            1             1               0
-DEFAULT    Sun-Dried Tomatoes         3.0     14.0       56.0      258.0       1        1            1             1               0
-DEFAULT    Rosemary                  15.0      5.0       64.17     330.83      1        1            1             1               0
-DEFAULT    Eggs                       9.52    12.56       0.72     143.0       0        1            1             1               1
-DEFAULT    Cabbage                    0.07     1.27       5.51      23.0       1        1            1             1               0
-DEFAULT    Cold Water                 0.0      0.0        0.0        0.0       1        1            1             1               0
-DEFAULT    Granulated Sugar           0.0      0.0      100.0      387.14      1        1            1             1               0
-DEFAULT    Garlic Powder              0.65    16.45      72.58     330.97      1        1            1             1               0
-DEFAULT    Fenugreek                  6.49    22.97      58.38     322.97      1        1            1             1               0
-DEFAULT    Beef Shin                 16.59    26.11       0.0      259.0       0        0            1             1               1
-DEFAULT    Dark Rum                   0.0      0.0        0.0      231.0       1        1            1             1               0
-DEFAULT    Broccoli                   0.4      2.4        7.2       35.0       1        1            1             1               0
-DEFAULT    Hard Taco Shells          21.8      6.39      63.46     476.02      1        1            1             1               0
-DEFAULT    Red Wine Vinegar           0.0      0.07       0.27      18.99      1        1            1             1               0
-DEFAULT    Grand Marnier              0.0      0.0        0.0        0.0       1        1            1             1               0
-DEFAULT    Egg Yolks                 26.53    15.88       3.59     322.0       0        1            1             1               1
-DEFAULT    Mustard Seeds             36.0     26.0       28.0      508.0       1        1            1             1               1
-DEFAULT    Vegetable Stock Cube       0.07     0.23       1.02       6.0       1        1            1             1               0
-DEFAULT    Celery Salt                6.19     4.52      10.24      97.14      1        1            1             1               0
-DEFAULT    Salted Butter             81.13     0.85       0.07     716.97      0        1            1             0               1
-DEFAULT    Veal                      11.39    30.11       0.0      231.0       0        0            1             1               1
-DEFAULT    Full-Fat Yogurt            1.55     5.25       7.04      63.0       0        1            1             0               0
-DEFAULT    Scallions                  0.2      1.8        7.33      32.0       1        1            1             1               0
+DEFAULT,Smoked Haddock,0.95,25.22,0.0,116.01,0,0,1,1,0
+DEFAULT,Quinoa,1.92,4.4,21.3,120.0,1,1,1,1,0
+DEFAULT,Cider,0.13,0.1,11.3,46.0,1,1,1,1,0
+DEFAULT,Lasagne Sheets,8.42,11.4,9.01,156.41,1,1,0,1,0
+DEFAULT,Egg White,0.18,10.91,0.73,52.0,0,1,1,1,0
+DEFAULT,Squash,0.39,1.04,3.79,23.0,1,1,1,1,0
+DEFAULT,Paella Rice,9.31,10.32,14.07,183.25,1,1,1,1,1
+DEFAULT,Wholegrain Bread,3.5,12.44,42.72,252.0,1,1,0,1,0
+DEFAULT,Desiccated Coconut,27.99,3.13,51.85,456.0,1,1,1,1,0
+DEFAULT,Naan Bread,5.66,9.62,50.43,291.0,1,1,0,1,0
+DEFAULT,Mixed Grain,0.0,0.0,0.0,0.0,1,1,1,1,0
+DEFAULT,Garam Masala,12.93,10.88,57.82,315.65,1,1,1,1,0
+DEFAULT,Filo Pastry,22.24,8.13,47.74,424.43,1,1,0,1,0
+DEFAULT,Thai Green Curry Paste,0.92,3.46,23.86,107.06,1,1,1,1,0
+DEFAULT,Bun,3.75,9.86,50.16,278.0,1,1,0,1,0
+DEFAULT,Duck Sauce,0.12,0.36,60.61,245.0,1,1,1,1,0
+DEFAULT,Coconut Milk,21.33,2.02,2.81,197.0,1,1,1,1,1
+DEFAULT,Rice Noodles,0.2,1.79,24.01,108.0,1,1,1,1,0
+DEFAULT,Vegetable Oil,100.0,0.0,0.0,883.97,1,1,1,1,1
+DEFAULT,Cherry Tomatoes,0.18,0.88,3.88,18.0,1,1,1,1,0
+DEFAULT,Corn Tortillas,2.83,5.71,44.62,218.0,1,1,0,1,0
+DEFAULT,Chilli,7.1,7.53,6.1,118.0,1,1,1,1,0
+DEFAULT,Garlic Clove,0.67,6.33,33.0,149.0,1,1,1,1,0
+DEFAULT,Cooking Wine,0.0,0.07,2.6,83.0,1,1,1,1,0
+DEFAULT,Lamb Kidney,3.61,23.64,1.0,137.0,0,0,1,1,1
+DEFAULT,Tamarind Paste,0,0,0,0,1,1,1,1,1
+DEFAULT,Farfalle,0.93,5.8,30.86,158.0,1,1,0,1,0
+DEFAULT,Oyster Sauce,0.28,1.33,10.94,51.0,0,1,1,1,0
+DEFAULT,Lard,100.0,0.0,0.0,902.03,1,1,1,1,1
+DEFAULT,Egg,9.52,12.56,0.72,143.0,0,1,1,1,1
+DEFAULT,Cannellini Beans,0.35,9.73,25.09,139.0,1,1,1,1,0
+DEFAULT,Cinnamon,1.15,3.85,80.77,246.92,1,1,1,1,0
+DEFAULT,Cornstarch,0.0,0.25,91.25,381.0,1,1,1,1,0
+DEFAULT,Self-Raising Flour,0.97,9.89,74.22,354.0,1,1,0,1,0
+DEFAULT,Pickle Juice,0.19,0.23,19.1,80.06,1,1,1,1,0
+DEFAULT,Orange Zest,0.17,1.5,25.0,97.0,1,1,1,1,0
+DEFAULT,Broad Beans,0.4,7.6,19.65,110.0,1,1,1,1,0
+DEFAULT,Pitted Black Olives,10.79,0.79,6.32,115.0,1,1,1,1,1
+DEFAULT,Lime,0.19,0.7,10.54,30.0,1,1,1,1,0
+DEFAULT,Salt,0.0,0.0,0.0,0.0,1,1,1,1,0
+DEFAULT,White Chocolate Chips,32.1,5.88,59.24,539.0,0,1,1,0,0
+DEFAULT,Miniature Marshmallows,0.14,1.81,81.25,318.06,1,1,1,1,0
+DEFAULT,Rice Krispies,2.03,6.76,85.03,381.0,1,1,0,1,0
+DEFAULT,Ginger,1.0,2.0,18.0,80.0,1,1,1,1,0
+DEFAULT,Oysters,4.6,18.88,9.92,163.0,0,0,1,1,1
+DEFAULT,Cayenne Pepper,17.22,12.22,56.67,317.78,1,1,1,1,0
+DEFAULT,Green Beans,0.28,1.89,7.88,35.0,1,1,1,1,0
+DEFAULT,Sweetcorn,1.51,3.4,20.98,96.0,1,1,1,1,0
+DEFAULT,Double Cream,36.07,2.85,2.75,340.0,0,1,1,0,1
+DEFAULT,Cayenne Pepper,0,0,0,0,1,1,1,1,1
+DEFAULT,Almond Milk,1.0,0.43,3.25,22.52,1,1,1,1,1
+DEFAULT,Red Snapper,1.72,26.3,0.0,128.0,0,0,1,1,1
+DEFAULT,Toffee Popcorn,12.8,3.81,79.08,431.01,1,1,1,1,0
+DEFAULT,Water,0.0,0.0,0.0,0.0,1,1,1,1,0
+DEFAULT,Stir-Fry Vegetables,4.58,2.54,6.47,71.71,1,1,1,1,0
+DEFAULT,Maple Syrup,0.05,0.05,67.05,260.0,1,1,1,1,0
+DEFAULT,Egg Rolls,11.94,8.28,27.29,250.0,0,1,0,1,0
+DEFAULT,Custard Powder,4.0,3.99,17.6,122.0,1,1,1,1,0
+DEFAULT,Free-Range Egg, Beaten,9.52,12.56,0.72,143.0,0,1,1,1,1
+DEFAULT,Meringue Nests,0.05,3.41,68.64,283.0,1,1,1,1,0
+DEFAULT,Fajita Seasoning,0.0,4.56,58.07,321.93,1,1,1,1,0
+DEFAULT,Clotted Cream,58.01,1.86,1.44,523.69,0,1,1,0,1
+DEFAULT,Green Pepper,0.2,0.92,6.7,28.0,1,1,1,1,0
+DEFAULT,Bouquet Garni,4.32,14.32,43.24,212.7,1,1,1,1,0
+DEFAULT,Sherry,0.0,0.48,6.31,50.0,1,1,1,1,0
+DEFAULT,Gruyère,32.34,29.81,0.36,413.0,0,1,1,0,1
+DEFAULT,Fish Sauce,0.0,5.06,3.67,35.0,0,0,1,1,0
+DEFAULT,Pepper,3.04,10.43,63.91,250.87,1,1,1,1,0
+DEFAULT,Tomato Puree,0.21,1.65,8.98,38.0,1,1,1,1,0
+DEFAULT,Shallots,0.09,2.49,16.81,72.0,1,1,1,1,0
+DEFAULT,Cornstarch,0.0,0.25,91.25,381.0,1,1,1,1,0
+DEFAULT,Nutmeg,36.36,5.91,49.09,525.0,1,1,1,1,0
+DEFAULT,Mustard,3.4,3.8,5.8,60.0,1,1,1,1,0
+DEFAULT,Worcestershire Sauce,0.0,0.0,19.47,78.0,0,0,1,1,0
+DEFAULT,Malt Vinegar,0.0,6.19,71.29,318.0,1,1,1,1,0
+DEFAULT,Demerara Sugar,0.0,0.0,100.0,386.9,1,1,1,1,0
+DEFAULT,Chives,0.67,3.33,4.33,30.0,1,1,1,1,0
+DEFAULT,Soy Sauce,0.56,8.12,4.94,53.0,1,1,1,1,0
+DEFAULT,Dried Oregano,4.0,9.0,69.0,265.0,1,1,1,1,0
+DEFAULT,Sun-Dried Tomatoes,3.0,14.0,56.0,258.0,1,1,1,1,0
+DEFAULT,Rosemary,15.0,5.0,64.17,330.83,1,1,1,1,0
+DEFAULT,Eggs,9.52,12.56,0.72,143.0,0,1,1,1,1
+DEFAULT,Cabbage,0.07,1.27,5.51,23.0,1,1,1,1,0
+DEFAULT,Cold Water,0.0,0.0,0.0,0.0,1,1,1,1,0
+DEFAULT,Granulated Sugar,0.0,0.0,100.0,387.14,1,1,1,1,0
+DEFAULT,Garlic Powder,0.65,16.45,72.58,330.97,1,1,1,1,0
+DEFAULT,Fenugreek,6.49,22.97,58.38,322.97,1,1,1,1,0
+DEFAULT,Beef Shin,16.59,26.11,0.0,259.0,0,0,1,1,1
+DEFAULT,Dark Rum,0.0,0.0,0.0,231.0,1,1,1,1,0
+DEFAULT,Broccoli,0.4,2.4,7.2,35.0,1,1,1,1,0
+DEFAULT,Hard Taco Shells,21.8,6.39,63.46,476.02,1,1,1,1,0
+DEFAULT,Red Wine Vinegar,0.0,0.07,0.27,18.99,1,1,1,1,0
+DEFAULT,Grand Marnier,0.0,0.0,0.0,0.0,1,1,1,1,0
+DEFAULT,Egg Yolks,26.53,15.88,3.59,322.0,0,1,1,1,1
+DEFAULT,Mustard Seeds,36.0,26.0,28.0,508.0,1,1,1,1,1
+DEFAULT,Vegetable Stock Cube,0.07,0.23,1.02,6.0,1,1,1,1,0
+DEFAULT,Celery Salt,6.19,4.52,10.24,97.14,1,1,1,1,0
+DEFAULT,Salted Butter,81.13,0.85,0.07,716.97,0,1,1,0,1
+DEFAULT,Veal,11.39,30.11,0.0,231.0,0,0,1,1,1
+DEFAULT,Full-Fat Yogurt,1.55,5.25,7.04,63.0,0,1,1,0,0
 DEFAULT,Scallions,0.2,1.8,7.33,32.0,1,1,1,1,0
 DEFAULT,Oxtail,14.23,26.96,0.0,243.0,1,1,1,1,1
 DEFAULT,Sake,0.0,0.5,5.0,134.0,1,1,1,1,0
