@@ -1,8 +1,6 @@
 import psycopg2
 import re
 
-
-
 class TransformContains:
     def __init__(self):
         self.table_name = "contains"
