@@ -3,6 +3,7 @@ from Transformation.TransformData.TransformGeneralRecipe import TransformGeneral
 from Transformation.TransformData.TransformIngredient import TransformIngredient
 from Transformation.TransformData.TransformContains import TransformContains
 from Transformation.TransformData.TransformRecipe import TransformRecipe
+from Transformation.TransformData.TransformSubstitutes import TransformSubstitutes
 import csv
 
 
@@ -12,6 +13,7 @@ class Config:
     ENABLE_RECIPE = False
     ENABLE_INGREDIENTS = True
     ENABLE_CONTAINS = False
+    ENABLE_SUBSTITUTES = True
     MAX_ITERATOR = 300
     MAX_INGREDIENTS = 20
 
@@ -32,6 +34,7 @@ def main():
     ingredients = TransformIngredient()
     recipe = TransformRecipe()
     contains = TransformContains()
+    substitutes = TransformSubstitutes()
 
     # Open files for each table
     with open("general_recipe_data.txt", "w", encoding='utf-8') as general_recipe_file, \
@@ -78,6 +81,8 @@ def main():
                         contains_file.write(f"{contains_row}\n")
                     else:
                         print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
+        if Config.ENABLE_CONTAINS: # creates a new file with all combinations of ids from the substitutes_map
+            substitutes.transform_data()
 
 
 if __name__ == "__main__":

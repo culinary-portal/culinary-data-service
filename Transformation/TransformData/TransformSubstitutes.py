@@ -14,26 +14,28 @@ class TransformSubstitutes(object):
         }
         self.substitutes_map = 'Transformation/ClearData/substitutes_map.txt.txt'
 
-    def transform_data(self, response, iterator):
+    def transform_data(self):
         # fetch the ingredients ids
-        with open(self.substitutes_map, mode='r') as file:
+        with open(self.substitutes_map, mode='r', encoding='utf-8') as file:
             csvFile = csv.reader(file)
             ingredient_1 = ''
             ingredient_2 = ''
-            for lines in csvFile:
-                ingredient_1 = lines[0]
-                ingredient_2 = lines[1]
+            with open("substitutes.txt", "w", encoding='utf-8') as substitutes_file:
+                for lines in csvFile:
+                    ingredient_1 = lines[0]
+                    ingredient_2 = lines[1]
 
-                id_ingredient_1 = self.get_id("ingredient", "ingredient_id", ingredient_1)
-                id_ingredient_2 = self.get_id("ingredient", "ingredient_id", ingredient_2)
+                    id_ingredient_1 = self.get_id("ingredient", "ingredient_id", ingredient_1)
+                    id_ingredient_2 = self.get_id("ingredient", "ingredient_id", ingredient_2)
 
-                if id_ingredient_1 is None or id_ingredient_2 is None:
-                    print(f"Missing ID for {id_ingredient_1} or {id_ingredient_2}")
-                    return
-                else:
-                    print(f"{ingredient_1} : {id_ingredient_1}")
-                    print(f"{ingredient_2} : {id_ingredient_2}")
-                    return f"DEFAULT,{id_ingredient_1},{id_ingredient_1}"
+                    if id_ingredient_1 is None or id_ingredient_2 is None:
+                        print(f"Missing ID for {id_ingredient_1} or {id_ingredient_2}")
+                        return
+                    else:
+                        print(f"{ingredient_1} : {id_ingredient_1}")
+                        print(f"{ingredient_2} : {id_ingredient_2}")
+                        substitutes_file.write(f"DEFAULT, {id_ingredient_1}, {id_ingredient_2}")
+
 
     def get_id(self, table_name, id_column, name):
         query = f"SELECT {id_column} FROM {table_name} WHERE name = %s"
