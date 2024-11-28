@@ -18,24 +18,22 @@ class TransformSubstitutes(object):
         # fetch the ingredients ids
         with open(self.substitutes_map, mode='r') as file:
             csvFile = csv.reader(file)
+            ingredient_1 = ''
+            ingredient_2 = ''
             for lines in csvFile:
+                ingredient_1 = lines[0]
+                ingredient_2 = lines[1]
 
+                id_ingredient_1 = self.get_id("ingredient", "ingredient_id", ingredient_1)
+                id_ingredient_2 = self.get_id("ingredient", "ingredient_id", ingredient_2)
 
-        ingredient_1 = self.get_id("ingredient", "ingredient_id", recipe_name)
-        ingredient_2 = self.get_id("ingredient", "ingredient_id", ingredient_name)
-
-        if recipe_id is None or ingredient_id is None:
-            print(f"Missing ID - Recipe ID: {recipe_id}, Ingredient ID: {ingredient_id}")
-            return None
-
-        # Extract quantity and unit from the measure
-        how_much = response.get(f'strMeasure{iterator + 1}', "")
-        quantity, unit = self.extract_quantity_and_unit(how_much)
-
-        # Prepare and return the transformed row
-        print(
-            f"Transformed Data - Quantity: {quantity}, Unit: {unit}, Recipe ID: {recipe_id}, Ingredient ID: {ingredient_id}")
-        return f"DEFAULT, {quantity}, '{unit}', {recipe_id}, {ingredient_id}"
+                if id_ingredient_1 is None or id_ingredient_2 is None:
+                    print(f"Missing ID for {id_ingredient_1} or {id_ingredient_2}")
+                    return
+                else:
+                    print(f"{ingredient_1} : {id_ingredient_1}")
+                    print(f"{ingredient_2} : {id_ingredient_2}")
+                    return f"DEFAULT,{id_ingredient_1},{id_ingredient_1}"
 
     def get_id(self, table_name, id_column, name):
         query = f"SELECT {id_column} FROM {table_name} WHERE name = %s"
