@@ -1,15 +1,18 @@
 import psycopg2
 import re
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 class TransformContains:
     def __init__(self):
         self.table_name = "contains"
         self.params = {
-            'dbname': 'postgres',
-            'user': 'postgres',
-            'password': 'postgres',
-            'host': 'localhost',
-            'port': '5432'
+            'dbname': os.getenv('DB_NAME'),
+            'user': os.getenv('DB_USER'),
+            'password': os.getenv('DB_PASSWORD'),
+            'host': os.getenv('DB_HOST'),
+            'port': os.getenv('DB_PORT')
         }
 
     def transform_data(self, response, iterator):
@@ -108,6 +111,6 @@ class TransformContains:
         # Parse the quantity and unit
         quantity = quantity_match.group('quantity').strip() if quantity_match else -1
         unit = unit_match.group('unit').strip() if unit_match else "N/A"
-        #map unit to grams
+        # map unit to grams
         unit_to_grams = unit_to_grams.get(unit)
         return quantity, unit_to_grams

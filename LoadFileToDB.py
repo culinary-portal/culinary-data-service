@@ -1,14 +1,16 @@
 import psycopg2
-
-FILE_NAME = 'Transformation/ClearData/dataFlagged'
-TABLE_NAME = 'testing'
+import os
+from dotenv import load_dotenv
+load_dotenv()
+FILE_NAME = 'Transformation/ClearData/general_recipe_data_0811.txt'
+TABLE_NAME = 'general_recipe'
 PARAMS = {
-    'dbname': 'postgres',
-    'user': 'postgres',
-    'password': 'postgres',
-    'host': 'localhost',
-    'port': '5432'
-}
+            'dbname': os.getenv('GCP_DB_NAME'),
+            'user': os.getenv('GCP_DB_USER'),
+            'password': os.getenv('GCP_DB_PASSWORD'),
+            'host': os.getenv('GCP_DB_HOST'),
+            'port': os.getenv('GCP_DB_PORT')
+        }
 
 
 def load_file_to_database(file_name, table_name):

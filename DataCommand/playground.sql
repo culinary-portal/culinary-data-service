@@ -15,3 +15,5 @@ is_keto INT
 );
 
 select * from testing where is_vegan = 0 or is_vegetarian = 0 or is_gluten_free = 0 or is_lactose_free = 0;
+
+select * from ingredient where ingredient_id = 854 or ingredient_id = 1454;

@@ -11,7 +11,7 @@ class Config:
     # Configuration flags for enabling/disabling specific parts of the code
     ENABLE_GENERAL_RECIPE = False
     ENABLE_RECIPE = False
-    ENABLE_INGREDIENTS = True
+    ENABLE_INGREDIENTS = False
     ENABLE_CONTAINS = False
     ENABLE_SUBSTITUTES = True
     MAX_ITERATOR = 300
@@ -49,19 +49,18 @@ def main():
                 if ingredient_row:
                     print(f"Writing Ingredient Row  {ingredient_row}")
                     ingredient_file.write(f"{ingredient_row}\n")
-
-        for iterator in range(Config.MAX_ITERATOR):
-            response = data_service.get_one(iterator)
-            if response is None:
-                print(f"No data returned for iterator {iterator}. Skipping...")
-                continue
-
-            # Transform and save the general recipe row
-            if Config.ENABLE_GENERAL_RECIPE:
-                row = general_recipe.transform_data(response)
-                if row:
-                    print(f"Writing General Recipe Row for Iterator {iterator}: {row}")
-                    general_recipe_file.write(f"{row}\n")
+        if Config.ENABLE_GENERAL_RECIPE:
+            for iterator in range(Config.MAX_ITERATOR):
+                response = data_service.get_one(iterator)
+                if response is None:
+                    print(f"No data returned for iterator {iterator}. Skipping...")
+                    continue
+                else:
+                    # Transform and save the general recipe row
+                    row = general_recipe.transform_data(response)
+                    if row:
+                        print(f"Writing General Recipe Row for Iterator {iterator}: {row}")
+                        general_recipe_file.write(f"{row}\n")
 
             # Transform and save the recipe row
             if Config.ENABLE_RECIPE:
@@ -81,8 +80,8 @@ def main():
                         contains_file.write(f"{contains_row}\n")
                     else:
                         print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
-        if Config.ENABLE_CONTAINS: # creates a new file with all combinations of ids from the substitutes_map
-            substitutes.transform_data()
+        if Config.ENABLE_SUBSTITUTES:  # creates a new file with all combinations of ids from the substitutes_map
+            substitutes = substitutes.transform_data()
 
 
 if __name__ == "__main__":

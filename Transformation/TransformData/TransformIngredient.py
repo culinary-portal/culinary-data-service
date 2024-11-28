@@ -2,6 +2,7 @@ import requests
 import json
 import time
 
+
 class TransformIngredient:
     def __init__(self):
         self.starting_id = 52767

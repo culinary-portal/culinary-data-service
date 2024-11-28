@@ -721,3 +721,209 @@ DEFAULT,'Tamarind Paste',0.6,2.8,62.5,239,1,1,1,1,0
 DEFAULT,'Brown Lentils',0.38,9.02,20.13,116,1,1,1,1,0
 DEFAULT,'Pink Food Colouring',0,0,0,0,1,1,1,1,0
 DEFAULT,'Bramley apples',0.17,0.26,13.81,52,1,1,1,1,0
+DEFAULT,'Tofu',4.8,8.1,1.9,85,1,1,1,1,0
+DEFAULT,'Zucchini Slices',0.3,1.2,4.2,17,1,1,1,1,0
+DEFAULT,'Aquafaba',0,1,1.5,10,1,1,1,1,0
+DEFAULT,'Gluten-Free Bread',3.2,10.1,42,250,1,1,1,1,0
+DEFAULT,'Gluten-Free Flatbread',4.9,8.2,48,280,1,1,1,1,0
+DEFAULT,'Rice Paper',0.1,0.7,6.2,28,1,1,1,1,0
+DEFAULT,'Gluten-Free Bun',3.5,9,48,270,1,1,1,1,0
+DEFAULT,'Lettuce Wrap',0.1,1.4,1.6,10,1,1,1,1,0
+DEFAULT,'Lentils',0.4,9,20,116,1,1,1,1,1
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Vegan Oyster Sauce',0.1,0.5,9,40,1,1,1,1,0
+DEFAULT,'Silken Tofu',4.8,5,2,55,1,1,1,1,1
+DEFAULT,'Gluten-Free Flour',0.5,7.8,70,320,1,1,1,1,0
+DEFAULT,'Dairy-Free White Chocolate',30,2.5,58,510,1,1,1,1,0
+DEFAULT,'Puffed Rice',1.8,5.5,84,370,1,1,1,1,0
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Rice Paper Rolls',0.2,1.5,6,30,1,1,1,1,0
+DEFAULT,'Coconut Whipped Cream',45,2,4,400,1,1,1,1,1
+DEFAULT,'Nutritional Yeast',2,4,1,35,1,1,1,1,1
+DEFAULT,'Soy Sauce',0,8,1,53,1,1,1,1,0
+DEFAULT,'Vegan Worcestershire Sauce',0,0,12,50,1,1,1,1,0
+DEFAULT,'Flaxseed Mixture',3,2,4,40,1,1,1,1,1
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Turmeric Chickpea Mixture',4,6.5,10,150,1,1,1,1,1
+DEFAULT,'Plant-Based Butter',78,1,1,700,1,1,1,1,1
+DEFAULT,'Chickpea Flour Patties',2.5,7,12,140,1,1,1,1,1
+DEFAULT,'Almond Yogurt',2,4,6,50,1,1,1,1,0
+DEFAULT,'Coconut Oil',80,1,1,720,1,1,1,1,1
+DEFAULT,'Maple Syrup',0,0,67,260,1,1,1,1,0
+DEFAULT,'Cashew Cheese',30,20,2,400,1,1,1,1,1
+DEFAULT,'Almond Flour',20,6,14,170,1,1,1,1,0
+DEFAULT,'Cashew Cream',30,5,4,280,1,1,1,1,1
+DEFAULT,'Mashed Cauliflower',0.1,1.8,3.2,30,1,1,1,1,0
+DEFAULT,'Gluten-Free Pita',2,8,54,260,1,1,1,1,0
+DEFAULT,'Almond Milk',2,1,2,30,1,1,1,1,0
+DEFAULT,'Chickpea Flour',4.5,22,60,340,1,1,1,1,0
+DEFAULT,'Mushroom Broth',0.1,0.8,2,10,1,1,1,1,0
+DEFAULT,'Coconut Yogurt',3,2,4,40,1,1,1,1,0
+DEFAULT,'Smoked Tempeh',4,15,10,195,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Cashew Cream',20,3,3,190,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Plant-Based Greek Yogurt',2,8,4,60,1,1,1,1,0
+DEFAULT,'Dairy-Free Chocolate Chips',29,3,60,450,1,1,1,1,0
+DEFAULT,'Roasted Eggplant Slices',0.1,1,5,30,1,1,1,1,1
+DEFAULT,'Gluten-Free Biscuits',20,4,65,470,1,1,1,1,0
+DEFAULT,'Plant-Based Chicken Pieces',2,18,2,110,1,1,1,1,1
+DEFAULT,'Coconut Creme Fraiche',42,3,3,390,1,1,1,1,1
+DEFAULT,'Gluten-Free Pretzels',2.5,9,78,360,1,1,1,1,0
+DEFAULT,'Almond Flour',20,6,14,170,1,1,1,1,0
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Cashew Cheese Balls',20,15,5,250,1,1,1,1,1
+DEFAULT,'Coconut Oil',80,1,1,720,1,1,1,1,1
+DEFAULT,'Plant-Based Butter',78,1,1,700,1,1,1,1,1
+DEFAULT,'Plant-Based Chicken Pieces',2,18,2,110,1,1,1,1,1
+DEFAULT,'Vegan Worcestershire Sauce',0,0,12,50,1,1,1,1,0
+DEFAULT,'Cashew Cheese Balls',20,15,5,250,1,1,1,1,1
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Gluten-Free Whole Wheat Flour',1.5,12,60,280,1,1,1,1,0
+DEFAULT,'Plant-Based Chicken Pieces',2,18,2,110,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,0
+DEFAULT,'Lentil Pasta',1.5,20,30,210,1,1,1,1,0
+DEFAULT,'Soy Sauce',0,8,1,53,1,1,1,1,0
+DEFAULT,'Coconut Oil',80,1,1,720,1,1,1,1,1
+DEFAULT,'Plant-Based Butter',78,1,1,700,1,1,1,1,1
+DEFAULT,'Almond Ricotta',7,10,4,120,1,1,1,1,0
+DEFAULT,'Quinoa',2,4.5,15,120,1,1,1,1,0
+DEFAULT,'Almond Flour',20,6,14,170,1,1,1,1,0
+DEFAULT,'Smoked Tempeh',4,15,10,195,1,1,1,1,1
+DEFAULT,'Cashew Cheese',30,20,2,400,1,1,1,1,1
+DEFAULT,'Nutritional Yeast',2,4,1,35,1,1,1,1,1
+DEFAULT,'Cashew Blue Cheese',25,20,2,350,1,1,1,1,1
+DEFAULT,'Smoked Tempeh',4,15,10,195,1,1,1,1,1
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Plant-Based Chicken Pieces',2,18,2,110,1,1,1,1,1
+DEFAULT,'Soy Sauce',0,8,1,53,1,1,1,1,0
+DEFAULT,'Vegetable Broth',0.5,2,2,15,1,1,1,1,0
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Gluten-Free Bread',3.2,10.1,42,250,1,1,1,1,0
+DEFAULT,'Gluten-Free Biscuits',20,4,65,450,1,1,1,1,0
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,0
+DEFAULT,'Dairy-Free Chocolate',28,5,60,450,1,1,1,1,0
+DEFAULT,'Cashew Feta',20,15,3,230,1,1,1,1,1
+DEFAULT,'Cashew Paneer',20,15,3,230,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Lettuce Wrap',0.1,1.4,1.6,10,1,1,1,1,0
+DEFAULT,'Smoked Tempeh',4,15,10,195,1,1,1,1,1
+DEFAULT,'Nutritional Yeast',2,4,1,35,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,0
+DEFAULT,'Dairy-Free Chocolate',28,5,60,450,1,1,1,1,0
+DEFAULT,'Lentil Pasta',1.5,20,30,210,1,1,1,1,0
+DEFAULT,'Flaxseed Mixture',3,2,4,40,1,1,1,1,1
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,0
+DEFAULT,'Potato Starch',0.1,1,80,330,1,1,1,1,0
+DEFAULT,'Cashew Brie',25,15,2,320,1,1,1,1,1
+DEFAULT,'Almond Flour',20,6,14,170,1,1,1,1,0
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Rice Paper',0.2,1.5,9,40,1,1,1,1,1
+DEFAULT,'Plant-Based Chicken Pieces',2,18,2,110,1,1,1,1,1
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Smoked Tempeh',4,15,10,195,1,1,1,1,1
+DEFAULT,'Cashew Cheese Curds',28,18,2,350,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Lentil Sausages',5,20,10,180,1,1,1,1,1
+DEFAULT,'Agar-Agar',0.1,0.1,0.1,5,1,1,1,1,0
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Plant-Based Sausages',8,20,10,200,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Dairy-Free Dark Chocolate',30,4,60,540,1,1,1,1,0
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,0
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Cashew Cheese',30,20,2,400,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Marinated Carrot Lox',1,2,10,50,1,1,1,1,1
+DEFAULT,'Almond Milk',2,1,2,30,1,1,1,1,0
+DEFAULT,'Vegetable Stock Cube',0.5,1,2,15,1,1,1,1,1
+DEFAULT,'Gluten-Free Breadcrumbs',4,12,70,350,1,1,1,1,0
+DEFAULT,'Coconut Oil',80,1,1,720,1,1,1,1,1
+DEFAULT,'Dairy-Free Ice Cream',8,2,20,150,1,1,1,1,0
+DEFAULT,'Cashew Pecorino',24,18,2,300,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Vegetable Stock',0.5,1,2,15,1,1,1,1,1
+DEFAULT,'Gluten-Free Burger Buns',4,8,48,280,1,1,1,1,1
+DEFAULT,'Almond Yogurt',2,4,6,50,1,1,1,1,0
+DEFAULT,'Nutritional Yeast',2,4,1,35,1,1,1,1,1
+DEFAULT,'Gluten-Free Pudding',3,1,20,120,1,1,1,1,0
+DEFAULT,'Almond Milk',2,1,2,30,1,1,1,1,0
+DEFAULT,'Smoked Tempeh',4,15,10,195,1,1,1,1,1
+DEFAULT,'Cashew Gouda',25,20,2,320,1,1,1,1,1
+DEFAULT,'Gluten-Free Baguette',3,9,50,250,1,1,1,1,0
+DEFAULT,'Cauliflower Rice',0.5,2,10,50,1,1,1,1,0
+DEFAULT,'Lentil Crumbles',2,15,10,150,1,1,1,1,1
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Plant-Based Chicken Legs',2,18,2,110,1,1,1,1,1
+DEFAULT,'Plant-Based Greek Yogurt',2,8,4,60,1,1,1,1,0
+DEFAULT,'Coconut Condensed Milk',7,5,50,300,1,1,1,1,0
+DEFAULT,'Cashew Goat Cheese',20,15,2,300,1,1,1,1,1
+DEFAULT,'Gluten-Free Self-Raising Flour',2,8,70,320,1,1,1,1,0
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Cashew Monterey Jack',25,18,2,320,1,1,1,1,1
+DEFAULT,'Vegetable Broth',0.1,0.8,2,10,1,1,1,1,1
+DEFAULT,'Gluten-Free Bread',3.2,10.1,42,250,1,1,1,1,0
+DEFAULT,'Cashew Mozzarella',22,18,3,280,1,1,1,1,1
+DEFAULT,'Gluten-Free Noodles',1,5,60,300,1,1,1,1,0
+DEFAULT,'Vegan Oyster Sauce',0.1,0.5,9,40,1,1,1,1,0
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,1
+DEFAULT,'Plant-Based Chicken Thighs',2,18,2,110,1,1,1,1,1
+DEFAULT,'Cashew Cheddar',30,20,2,350,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,0
+DEFAULT,'Zucchini Slices',0.3,1.2,4.2,17,1,1,1,1,0
+DEFAULT,'Mushroom Gravy',1,1.5,5,40,1,1,1,1,0
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Lentil Crumbles',2,15,10,150,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Almond Milk',2,1,2,30,1,1,1,1,1
+DEFAULT,'Vegetable Stock',0.5,1,2,15,1,1,1,1,0
+DEFAULT,'Dairy-Free Ice Cream',8,2,20,150,1,1,1,1,0
+DEFAULT,'Vegetable Broth',0.1,0.8,2,10,1,1,1,1,0
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Marinated Tofu',4,10,6,100,1,1,1,1,1
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Coconut Cream',35,2,3,330,1,1,1,1,1
+DEFAULT,'Almond Flour',20,6,14,170,1,1,1,1,0
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Lentil Sausages',5,20,10,180,1,1,1,1,1
+DEFAULT,'Seitan',2,25,2,120,1,1,1,1,1
+DEFAULT,'Rice Paper',0.1,1,10,40,1,1,1,1,0
+DEFAULT,'Lentil Pasta',1.5,20,30,210,1,1,1,1,0
+DEFAULT,'Cashew Cheese',30,20,2,350,1,1,1,1,1
+DEFAULT,'Cashew Parmesan',25,18,2,300,1,1,1,1,1
+DEFAULT,'Cashew Cream',20,15,2,280,1,1,1,1,1
+DEFAULT,'Textured Vegetable Protein (TVP)',1,50,20,280,1,1,1,1,1
+DEFAULT,'Plant-Based Sausages',8,20,10,200,1,1,1,1,1
+DEFAULT,'Gluten-Free Self-Raising Flour',2,8,70,320,1,1,1,1,0
+DEFAULT,'Dairy-Free Almond Yogurt',5,10,5,120,1,1,1,1,1
+DEFAULT,'Flaxseed Mixture',3,2,4,40,1,1,1,1,1
+DEFAULT,'Oven-Baked Potato Slices',8,3,35,200,1,1,1,1,1
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Spaghetti Squash',0.3,1,7,31,1,1,1,1,0
+DEFAULT,'Lentil Crumbles',2,15,10,150,1,1,1,1,1
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Sunflower Butter',52,18,20,550,1,1,1,1,1
+DEFAULT,'Plant-Based Chicken Thighs',2,18,2,110,1,1,1,1,1
+DEFAULT,'Jackfruit',0.1,1,20,95,1,1,1,1,1
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Gluten-Free Breadcrumbs',4,12,70,350,1,1,1,1,0
+DEFAULT,'Cashew Pecorino',24,18,2,300,1,1,1,1,1
+DEFAULT,'Zucchini Noodles',0.2,1.2,4,17,1,1,1,1,0
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
+DEFAULT,'Cashew Gruyere',30,20,2,350,1,1,1,1,1
+DEFAULT,'Marinated Mushrooms',0.2,1.5,3.5,25,1,1,1,1,1
