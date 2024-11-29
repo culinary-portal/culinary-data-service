@@ -10,10 +10,10 @@ import csv
 class Config:
     # Configuration flags for enabling/disabling specific parts of the code
     ENABLE_GENERAL_RECIPE = False
-    ENABLE_RECIPE = False
+    ENABLE_RECIPE = True
     ENABLE_INGREDIENTS = False
     ENABLE_CONTAINS = False
-    ENABLE_SUBSTITUTES = True
+    ENABLE_SUBSTITUTES = False
     MAX_ITERATOR = 300
     MAX_INGREDIENTS = 20
 
@@ -49,9 +49,10 @@ def main():
                 if ingredient_row:
                     print(f"Writing Ingredient Row  {ingredient_row}")
                     ingredient_file.write(f"{ingredient_row}\n")
-        if Config.ENABLE_GENERAL_RECIPE:
-            for iterator in range(Config.MAX_ITERATOR):
-                response = data_service.get_one(iterator)
+
+        for iterator in range(Config.MAX_ITERATOR):
+            response = data_service.get_one(iterator)
+            if Config.ENABLE_GENERAL_RECIPE:
                 if response is None:
                     print(f"No data returned for iterator {iterator}. Skipping...")
                     continue
@@ -61,8 +62,7 @@ def main():
                     if row:
                         print(f"Writing General Recipe Row for Iterator {iterator}: {row}")
                         general_recipe_file.write(f"{row}\n")
-
-            # Transform and save the recipe row
+                # Transform and save the recipe row
             if Config.ENABLE_RECIPE:
                 recipe_row = recipe.transform_data(response)
                 if recipe_row:
