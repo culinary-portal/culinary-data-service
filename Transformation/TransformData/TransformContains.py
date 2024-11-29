@@ -111,6 +111,7 @@ class TransformContains:
             "qt": 946,
             "yolk": 17,
             "yolkes": 17,
+            "topping": 10,
             "n/a": "n/a"
         }
         print(quantity_match, unit_match)
@@ -125,4 +126,6 @@ class TransformContains:
 
         # map unit to grams
         unit_to_grams = unit_to_grams.get(unit.lower(), "n/a")
+        if quantity == -1 and unit != 'n/a':
+            quantity = 1
         return quantity, unit_to_grams

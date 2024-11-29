@@ -82,7 +82,6 @@ CREATE TABLE IF NOT EXISTS substitute (
 substitute_id SERIAL PRIMARY KEY,
 ingredient1_id INTEGER,
 ingredient2_id INTEGER,
-proportion_i1_i2 FLOAT,
 CONSTRAINT fk_ingredient1 FOREIGN KEY (ingredient1_id) REFERENCES ingredient (ingredient_id),
 CONSTRAINT fk_ingredient2 FOREIGN KEY (ingredient2_id) REFERENCES ingredient (ingredient_id)
 );

@@ -12,8 +12,8 @@ class Config:
     ENABLE_GENERAL_RECIPE = False
     ENABLE_RECIPE = False
     ENABLE_INGREDIENTS = False
-    ENABLE_CONTAINS = True
-    ENABLE_SUBSTITUTES = False
+    ENABLE_CONTAINS = False
+    ENABLE_SUBSTITUTES = True
     MAX_ITERATOR = 300
     MAX_INGREDIENTS = 20
 
@@ -36,11 +36,13 @@ def main():
     contains = TransformContains()
     substitutes = TransformSubstitutes()
 
+    if Config.ENABLE_SUBSTITUTES:  # creates a new file with all combinations of ids from the substitutes_map
+        substitutes = substitutes.transform_data()
     # Open files for each table
     with open("Transformation/ClearData/general_recipe_data.txt", "w", encoding='utf-8') as general_recipe_file, \
             open("Transformation/ClearData/recipe_data.txt", "w", encoding='utf-8') as recipe_file, \
             open("ingredient_data.txt", "a", encoding='utf-8') as ingredient_file, \
-            open("contains_data.txt", "w", encoding='utf-8') as contains_file:
+            open("Transformation/ClearData/contains_data.txt", "w", encoding='utf-8') as contains_file:
 
         # Transform and save ingredient row
         if Config.ENABLE_INGREDIENTS:
@@ -78,8 +80,6 @@ def main():
                             print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
             else:
                 print("Response is none")
-        if Config.ENABLE_SUBSTITUTES:  # creates a new file with all combinations of ids from the substitutes_map
-            substitutes = substitutes.transform_data()
 
 
 if __name__ == "__main__":

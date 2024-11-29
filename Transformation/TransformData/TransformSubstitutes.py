@@ -28,8 +28,10 @@ class TransformSubstitutes(object):
             with open("substitutes.txt", "w", encoding='utf-8') as substitutes_file:
                 for lines in csvFile:
                     print(lines)
-                    ingredient_1 = lines[0]
-                    ingredient_2 = lines[1]
+                    ingredient_1 = lines[0].lower().replace("'", "") \
+                        .replace(",", "")
+                    ingredient_2 = lines[1].lower().replace("'", "") \
+                        .replace(",", "")
                     id_ingredient_1 = self.get_id("ingredient", "ingredient_id", ingredient_1.replace("'", ""))
                     id_ingredient_2 = self.get_id("ingredient", "ingredient_id", ingredient_2.replace("'", ""))
 
