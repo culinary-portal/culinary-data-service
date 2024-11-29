@@ -2,8 +2,8 @@ import psycopg2
 import os
 from dotenv import load_dotenv
 load_dotenv()
-FILE_NAME = 'Transformation/ClearData/general_recipe_data_0811.txt'
-TABLE_NAME = 'general_recipe'
+FILE_NAME = 'Transformation/ClearData/dataFlagged'
+TABLE_NAME = 'ingredient'
 PARAMS = {
             'dbname': os.getenv('GCP_DB_NAME'),
             'user': os.getenv('GCP_DB_USER'),

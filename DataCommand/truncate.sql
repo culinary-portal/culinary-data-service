@@ -12,4 +12,3 @@ truncate table users CASCADE;
 truncate table general_recipe CASCADE;
 truncate table diet_type CASCADE ;
 
-truncate table ingredient_empty;

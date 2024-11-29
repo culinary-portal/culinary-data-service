@@ -121,6 +121,3 @@ likes BOOLEAN,
 CONSTRAINT fk_specific_user FOREIGN KEY (user_id) REFERENCES users (user_id),
 CONSTRAINT fk_specific_ingredient FOREIGN KEY (id_ingredient) REFERENCES ingredient (ingredient_id)
 );
-
-ALTER TABLE general_recipe
-ADD CONSTRAINT fk_base_recipe FOREIGN KEY (base_recipe_id) REFERENCES recipe (recipe_id);

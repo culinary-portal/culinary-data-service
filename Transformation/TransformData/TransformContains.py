@@ -2,31 +2,36 @@ import psycopg2
 import re
 from dotenv import load_dotenv
 import os
+
 load_dotenv()
+
 
 class TransformContains:
     def __init__(self):
         self.table_name = "contains"
         self.params = {
-            'dbname': os.getenv('DB_NAME'),
-            'user': os.getenv('DB_USER'),
-            'password': os.getenv('DB_PASSWORD'),
-            'host': os.getenv('DB_HOST'),
-            'port': os.getenv('DB_PORT')
+            'dbname': os.getenv('GCP_DB_NAME'),
+            'user': os.getenv('GCP_DB_USER'),
+            'password': os.getenv('GCP_DB_PASSWORD'),
+            'host': os.getenv('GCP_DB_HOST'),
+            'port': os.getenv('GCP_DB_PORT')
         }
 
     def transform_data(self, response, iterator):
         # Fetch recipe and ingredient names
         recipe_name = response.get('strMeal', '').replace("'", "")
-        ingredient_name = response.get(f'strIngredient{iterator + 1}', '').replace("'", "")
+        ingredient_name = response.get(f'strIngredient{iterator + 1}', '').replace("'", "").replace(",", "").lower()
 
         # Fetch the IDs for recipe and ingredient
         recipe_id = self.get_id("recipe", "recipe_id", recipe_name)
         ingredient_id = self.get_id("ingredient", "ingredient_id", ingredient_name)
 
-        if recipe_id is None or ingredient_id is None:
-            print(f"Missing ID - Recipe ID: {recipe_id}, Ingredient ID: {ingredient_id}")
-            return None
+        if recipe_id is None:
+            print(f"Missing Recipe ID: {recipe_id} , {recipe_name}")
+            return False
+        elif ingredient_id is None:
+            print(f"Missing Ingredient ID: {ingredient_id}, {ingredient_name}")
+            return False
 
         # Extract quantity and unit from the measure
         how_much = response.get(f'strMeasure{iterator + 1}', "")
@@ -34,7 +39,8 @@ class TransformContains:
 
         # Prepare and return the transformed row
         print(
-            f"Transformed Data - Quantity: {quantity}, Unit: {unit}, Recipe ID: {recipe_id}, Ingredient ID: {ingredient_id}")
+            f"Transformed Data - Quantity: {quantity}, Unit: {unit}, Recipe ID: {recipe_id}, "
+            f"Ingredient ID: {ingredient_id}, recipe: {recipe_name}, ingredient_name: {ingredient_name}")
         return f"DEFAULT, {quantity}, '{unit}', {recipe_id}, {ingredient_id}"
 
     def get_id(self, table_name, id_column, name):
@@ -65,7 +71,7 @@ class TransformContains:
             "teaspoon": 5,
             "tblsp": 15,
             "tbsp": 15,
-            "Tbs": 15,
+            "tbs": 15,
             "tablespoon": 15,
             "cup": 240,
             "cups": 240,
@@ -78,7 +84,7 @@ class TransformContains:
             "pounds": 454,
             "oz": 28.35,
             "ounces": 28.35,
-            "L": 1000,
+            "l": 1000,
             "litre": 1000,
             "liter": 1000,
             "can": 400,
@@ -105,12 +111,18 @@ class TransformContains:
             "qt": 946,
             "yolk": 17,
             "yolkes": 17,
-            "N/A": 0
+            "n/a": "n/a"
         }
-
+        print(quantity_match, unit_match)
         # Parse the quantity and unit
-        quantity = quantity_match.group('quantity').strip() if quantity_match else -1
-        unit = unit_match.group('unit').strip() if unit_match else "N/A"
+        quantity = quantity_match.group('quantity').strip() if quantity_match is not None else None
+        unit = unit_match.group('unit').strip() if unit_match is not None else None
+        print(quantity, unit)
+        if quantity is None:
+            quantity = -1
+        if unit is None:
+            unit = "n/a"
+
         # map unit to grams
-        unit_to_grams = unit_to_grams.get(unit)
+        unit_to_grams = unit_to_grams.get(unit.lower(), "n/a")
         return quantity, unit_to_grams

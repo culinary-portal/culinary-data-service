@@ -9,20 +9,15 @@ class TransformIngredient:
         self.table_name = "ingredient"
         self.row = ""
 
-    def transform_data(self, response, iterator):
-        # ingredient = response.get(f'strIngredient{iterator + 1}', None)
-        # if ingredient is None or ingredient.strip() == "":  # Check for None or empty string
-        #     print(f"No ingredient found for iterator {iterator + 1}")
-        #     return None
-        # ingredient = ingredient.replace("'", "")
+    def transform_data(self, response):
         ingredient = response.replace("'", "")
         # Get the macronutrient data
-        fats, proteins, carbs, kcal = self.get_micro_elements(ingredient)
+        fats, proteins, carbs, kcal = self.get_macro_elements(ingredient)
 
-        self.row = f"DEFAULT, '{ingredient}', {fats}, {proteins}, {carbs}, {kcal}, NULL, NULL"
+        self.row = f"DEFAULT, '{ingredient}', {fats}, {proteins}, {carbs}, {kcal}, NULL, NULL, NULL, NULL, NULL"
         return self.row
 
-    def get_micro_elements(self, ingredient):
+    def get_macro_elements(self, ingredient):
         # headers = {
         #     'Content-Type': 'application/json',
         #     'x-app-id': 'df854fb1   ',
@@ -38,8 +33,8 @@ class TransformIngredient:
             "query": ingredient
         }
 
-        # Placeholder values for testing without API calls
-        dummy_values = ("5", "10", "15", "220")
+        # placeholder when response not valid
+        dummy_values = ("-1", "-1", "-1", "-1")
 
         try:
             response = requests.post(

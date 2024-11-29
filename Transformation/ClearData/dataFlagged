@@ -56,7 +56,7 @@ DEFAULT,'Stir-Fry Vegetables',4.58,2.54,6.47,71.71,1,1,1,1,0
 DEFAULT,'Maple Syrup',0.05,0.05,67.05,260,1,1,1,1,0
 DEFAULT,'Egg Rolls',11.94,8.28,27.29,250,0,1,0,1,0
 DEFAULT,'Custard Powder',4,3.99,17.6,122,1,1,1,1,0
-DEFAULT,'Free-Range Egg',Beaten,9.52,12.56,0.72,143,0,1,1,1
+DEFAULT,'Free-Range Egg beaten',9.52,12.56,0.72,143,0,1,1,1
 DEFAULT,'Meringue Nests',0.05,3.41,68.64,283,1,1,1,1,0
 DEFAULT,'Fajita Seasoning',0,4.56,58.07,321.93,1,1,1,1,0
 DEFAULT,'Clotted Cream',58.01,1.86,1.44,523.69,0,1,1,0,1
@@ -308,7 +308,7 @@ DEFAULT,'Carrots',0.17,0.76,8.22,35,1,1,1,1,0
 DEFAULT,'Fish Stock',0.81,2.26,0,16,0,0,1,1,0
 DEFAULT,'Cumin',22.38,17.62,44.29,375.24,1,1,1,1,1
 DEFAULT,'Bay Leaf',10,10,75,315,1,1,1,1,0
-DEFAULT,'Free-range eggs',beaten,9.52,12.56,0.72,143,0,1,1,0
+DEFAULT,'Free-range eggs beaten',9.52,12.56,0.72,143,0,1,1,0
 DEFAULT,'Yellow Pepper',0.21,1,6.32,27,1,1,1,1,0
 DEFAULT,'Black Olives',10.79,0.79,6.32,115,1,1,1,1,1
 DEFAULT,'Spaghetti',0.61,5.28,30.24,150.26,1,1,0,1,0
@@ -333,7 +333,7 @@ DEFAULT,'Mustard',3.4,3.8,5.8,60,1,1,1,1,0
 DEFAULT,'Milk Chocolate',29.66,7.66,59.41,535,0,1,1,0,0
 DEFAULT,'Sugar',0,0,100,386.9,1,1,1,1,0
 DEFAULT,'Feta',21.27,14.22,4.09,263.99,0,1,1,0,1
-DEFAULT,'Butter',softened,81.13,0.85,0.07,716.97,0,1,1,0
+DEFAULT,'Butter softened',81.13,0.85,0.07,716.97,0,1,1,0
 DEFAULT,'Little Gem Lettuce',0.3,1.23,3.29,17,1,1,1,1,0
 DEFAULT,'Paneer',23.82,18.09,2.98,299,0,1,1,0,1
 DEFAULT,'Pork',13.89,26.36,0,238,0,0,1,1,1
@@ -684,7 +684,7 @@ DEFAULT,'garam masala',12.93,10.88,57.82,315.65,1,1,1,1,0
 DEFAULT,'Minced Beef',17.36,27,0,272,0,0,1,1,1
 DEFAULT,'cacao',10,20,60,410,1,1,1,1,0
 DEFAULT,'Anchovy Fillet',9.75,29,0,210,0,0,1,1,1
-DEFAULT,'Free-range Egg',Beaten,9.52,12.56,0.72,143,0,1,1,0
+DEFAULT,'Free-range Egg beaten',9.52,12.56,0.72,143,0,1,1,0
 DEFAULT,'Tahini',53,17.4,21.53,592,0,1,1,1,1
 DEFAULT,'parsley',0.79,2.89,6.32,36.05,1,1,1,1,0
 DEFAULT,'beef stock',0.09,1.97,1.2,13,1,1,1,1,0
