@@ -43,7 +43,7 @@ class TransformGeneralRecipe:
         updated_rows = []
         print(f"File exists: {os.path.exists(main_file)}")
         with open(main_file, mode='r', newline='', encoding='utf-8') as main_csv:
-            reader_main = csv.reader(main_csv, quotechar='"', delimiter=',')
+            reader_main = csv.reader(main_csv, delimiter=',', quotechar='"')
             for row in reader_main:
                 if len(row) > 3:
                     name = row[1].strip("'")
