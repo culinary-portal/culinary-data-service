@@ -17,14 +17,12 @@ class TransformSubstitutes(object):
             'port': os.getenv('GCP_DB_PORT')
         }
         print(self.params)
-        self.substitutes_map = 'Transformation/ClearData/substitutes_map.txt'
+        self.substitutes_map = 'Transformation/mapping/substitutes_map.txt'
 
     def transform_data(self):
         # fetch the ingredients ids
         with open(self.substitutes_map, mode='r', encoding='utf-8') as file:
             csvFile = csv.reader(file)
-            ingredient_1 = ''
-            ingredient_2 = ''
             with open("substitutes_table.txt", "w", encoding='utf-8') as substitutes_file:
                 for lines in csvFile:
                     print(lines)
@@ -41,6 +39,7 @@ class TransformSubstitutes(object):
                     else:
                         print(f"{ingredient_1} : {id_ingredient_1}")
                         print(f"{ingredient_2} : {id_ingredient_2}")
+                        # saving to file
                         substitutes_file.write(f"DEFAULT, {id_ingredient_1}, {id_ingredient_2} \n")
                 return
 

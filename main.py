@@ -14,7 +14,7 @@ class Config:
     # fetching the ingredients result in having all the data apart from the flags
     ENABLE_INGREDIENTS = False
     ENABLE_CONTAINS = False
-    ENABLE_SUBSTITUTES = True
+    ENABLE_SUBSTITUTES = False
     MAX_ITERATOR = 300
     MAX_INGREDIENTS = 20
 
@@ -37,6 +37,8 @@ def main():
     contains = TransformContains()
     substitutes = TransformSubstitutes()
 
+    g = general_recipe.post_processing()
+
     if Config.ENABLE_SUBSTITUTES:  # creates a new file with all combinations of ids from the substitutes_map
         substitutes = substitutes.transform_data()
     # Open files for each table
@@ -52,11 +54,11 @@ def main():
                 if ingredient_row:
                     print(f"Writing Ingredient Row  {ingredient_row}")
                     ingredient_file.write(f"{ingredient_row}\n")
+        if Config.ENABLE_GENERAL_RECIPE:
+            for iterator in range(Config.MAX_ITERATOR):
+                response = data_service.get_one(iterator)
+                if response is not None:
 
-        for iterator in range(Config.MAX_ITERATOR):
-            response = data_service.get_one(iterator)
-            if response is not None:
-                if Config.ENABLE_GENERAL_RECIPE:
                     # Transform and save the general recipe row
                     row = general_recipe.transform_data(response)
                     if row:
@@ -70,7 +72,7 @@ def main():
                         recipe_file.write(f"{recipe_row}\n")
 
                 if Config.ENABLE_CONTAINS:
-                    max_ingredients_for_recipe = int( data_service.get_number_of_max_ingredients(response)) - 1
+                    max_ingredients_for_recipe = int(data_service.get_number_of_max_ingredients(response)) - 1
                     for i in range(max_ingredients_for_recipe):
                         # Transform and save "contains" row
                         contains_row = contains.transform_data(response, i)

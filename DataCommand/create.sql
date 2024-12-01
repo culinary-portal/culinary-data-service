@@ -54,8 +54,8 @@ kcal FLOAT,
 is_vegan INT,
 is_vegetarian INT,
 is_gluten_free INT,
-    is_lactose_free INT,
-    is_keto INT
+is_lactose_free INT,
+is_keto INT
 );
 
 CREATE TABLE IF NOT EXISTS recipe (

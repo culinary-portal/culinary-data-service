@@ -2,8 +2,8 @@ import psycopg2
 import os
 from dotenv import load_dotenv
 load_dotenv()
-FILE_NAME = 'Transformation/ClearData/substitutes_table.txt'
-TABLE_NAME = 'substitute'
+FILE_NAME = 'Transformation/ClearData/general_recipe_table_meal_typed.txt'
+TABLE_NAME = 'general_recipe'
 PARAMS = {
             'dbname': os.getenv('GCP_DB_NAME'),
             'user': os.getenv('GCP_DB_USER'),
@@ -18,7 +18,6 @@ def load_file_to_database(file_name, table_name):
         # connect to the PostgreSQL database and create a cursor
         connection = psycopg2.connect(**PARAMS)
         cursor = connection.cursor()
-
         # open the file and read lines
         with open(file_name, 'r', encoding='utf-8') as file:
             for line in file:
