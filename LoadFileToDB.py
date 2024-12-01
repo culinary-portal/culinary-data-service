@@ -2,7 +2,7 @@ import psycopg2
 import os
 from dotenv import load_dotenv
 load_dotenv()
-FILE_NAME = 'Transformation/ClearData/substitutes.txt'
+FILE_NAME = 'Transformation/ClearData/substitutes_table.txt'
 TABLE_NAME = 'substitute'
 PARAMS = {
             'dbname': os.getenv('GCP_DB_NAME'),

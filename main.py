@@ -11,6 +11,7 @@ class Config:
     # Configuration flags for enabling/disabling specific parts of the code
     ENABLE_GENERAL_RECIPE = False
     ENABLE_RECIPE = False
+    # fetching the ingredients result in having all the data apart from the flags
     ENABLE_INGREDIENTS = False
     ENABLE_CONTAINS = False
     ENABLE_SUBSTITUTES = True
@@ -39,14 +40,14 @@ def main():
     if Config.ENABLE_SUBSTITUTES:  # creates a new file with all combinations of ids from the substitutes_map
         substitutes = substitutes.transform_data()
     # Open files for each table
-    with open("Transformation/ClearData/general_recipe_data.txt", "w", encoding='utf-8') as general_recipe_file, \
-            open("Transformation/ClearData/recipe_data.txt", "w", encoding='utf-8') as recipe_file, \
+    with open("Transformation/ClearData/general_recipe_table.txt", "w", encoding='utf-8') as general_recipe_file, \
+            open("Transformation/ClearData/recipe_table.txt", "w", encoding='utf-8') as recipe_file, \
             open("ingredient_data.txt", "a", encoding='utf-8') as ingredient_file, \
             open("Transformation/ClearData/contains_data.txt", "w", encoding='utf-8') as contains_file:
 
         # Transform and save ingredient row
         if Config.ENABLE_INGREDIENTS:
-            for one_ingredient in get_ingredient_name_list('Transformation/ClearData/grouped_ingredients.csv'):
+            for one_ingredient in get_ingredient_name_list('Transformation/working_data/grouped_ingredients.txt'):
                 ingredient_row = ingredients.transform_data(one_ingredient)
                 if ingredient_row:
                     print(f"Writing Ingredient Row  {ingredient_row}")

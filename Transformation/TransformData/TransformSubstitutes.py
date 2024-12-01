@@ -25,7 +25,7 @@ class TransformSubstitutes(object):
             csvFile = csv.reader(file)
             ingredient_1 = ''
             ingredient_2 = ''
-            with open("substitutes.txt", "w", encoding='utf-8') as substitutes_file:
+            with open("substitutes_table.txt", "w", encoding='utf-8') as substitutes_file:
                 for lines in csvFile:
                     print(lines)
                     ingredient_1 = lines[0].lower().replace("'", "") \
