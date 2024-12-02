@@ -1,14 +1,10 @@
 --changing the naming to contain only lowercase letter
 update ingredient set name = lower(name);
-
-
---updating column igeneral_recipe.recipe_id with the id from base recipe
+--updating column general_recipe.recipe_id with the id from base recipe
 UPDATE general_recipe
 SET base_recipe_id = recipe.recipe_id
 FROM recipe
 WHERE general_recipe.name = recipe.name;
-
-
 -- flagging the recipe based on the flags of ingredients
 -- first, we create temp view to then create cases and populate column
 create temp view joined as
@@ -62,7 +58,6 @@ FROM (
     WHERE j.lactose_free = 1
 ) AS subquery
 WHERE recipe.recipe_id = subquery.recipe_id;
-
 -- check for duplicates inside the ingredients table (especially in after adding the substitues )
 WITH cte_duplicates AS (
     SELECT
@@ -75,4 +70,19 @@ DELETE FROM ingredient
 WHERE ingredient_id NOT IN (
     SELECT min_id FROM cte_duplicates
 );
-
+-- update NULL columns to "unknown" for smooth handling null values
+update general_recipe
+set description = 'NA'
+where true;
+--
+update recipe
+set description = 'NA'
+where true;
+-- if regular expression did not find any match, replace the value with "average" value
+update contains
+set amount = 1
+where amount in (0,-1,-2);
+--
+update contains
+set measure = 10
+where measure = 'n/a';

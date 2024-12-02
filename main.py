@@ -10,10 +10,10 @@ import csv
 class Config:
     # Configuration flags for enabling/disabling specific parts of the code
     ENABLE_GENERAL_RECIPE = False
-    ENABLE_RECIPE = True
+    ENABLE_RECIPE = False
     ENABLE_INGREDIENTS = False  # fetching the ingredients result in having all the data apart from the flags,
-                                # also keep in mind the 200 bound for API calls
-    ENABLE_CONTAINS = False
+    # also keep in mind the 200 bound for API calls
+    ENABLE_CONTAINS = True
     ENABLE_SUBSTITUTES = False
     POST_PROCESSING = False
     MAX_ITERATOR = 300
@@ -38,15 +38,13 @@ def main():
     contains = TransformContains()
     substitutes = TransformSubstitutes()
 
-
-
     if Config.ENABLE_SUBSTITUTES:  # creates a new file with all combinations of ids from the substitutes_map
         substitutes = substitutes.transform_data()
     # Open files for each table
     with open("Transformation/ClearData/general_recipe_table.txt", "w", encoding='utf-8') as general_recipe_file, \
             open("Transformation/ClearData/recipe_table.txt", "w", encoding='utf-8') as recipe_file, \
             open("ingredient_data.txt", "a", encoding='utf-8') as ingredient_file, \
-            open("Transformation/ClearData/contains_data.txt", "w", encoding='utf-8') as contains_file:
+            open("Transformation/ClearData/contains_table.txt", "w", encoding='utf-8') as contains_file:
 
         # Transform and save ingredient row
         if Config.ENABLE_INGREDIENTS:
@@ -77,18 +75,20 @@ def main():
         if Config.ENABLE_CONTAINS:
             for iterator in range(Config.MAX_ITERATOR):
                 response = data_service.get_one(iterator)
-                max_ingredients_for_recipe = int(data_service.get_number_of_max_ingredients(response)) - 1
-                for i in range(max_ingredients_for_recipe):
-                    # Transform and save "contains" row
-                    contains_row = contains.transform_data(response, i)
-                    if contains_row:
-                        print(f"Writing Contains Row (Iterator {iterator}, Ingredient {i}): {contains_row}")
-                        contains_file.write(f"{contains_row}\n")
-                    else:
-                        print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
+                if response is not None:
+                    max_ingredients_for_recipe = int(data_service.get_number_of_max_ingredients(response)) - 1
+                    for i in range(max_ingredients_for_recipe):
+                        # Transform and save "contains" row
+                        contains_row = contains.transform_data(response, i)
+                        if contains_row:
+                            print(f"Writing Contains Row (Iterator {iterator}, Ingredient {i}): {contains_row}")
+                            contains_file.write(f"{contains_row}\n")
+                        else:
+                            print(f"No valid 'Contains' data for Ingredient {i} in Iterator {iterator}")
 
         if Config.POST_PROCESSING:
             g = general_recipe.post_processing()
+
 
 if __name__ == "__main__":
     main()
