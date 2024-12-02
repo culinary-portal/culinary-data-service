@@ -62,3 +62,17 @@ FROM (
     WHERE j.lactose_free = 1
 ) AS subquery
 WHERE recipe.recipe_id = subquery.recipe_id;
+
+-- check for duplicates inside the ingredients table (especially in after adding the substitues )
+WITH cte_duplicates AS (
+    SELECT
+        MIN(ingredient_id) AS min_id,  -- keep the lowest id for contains table for mapping
+        name, fat, protein, carbohydrate, is_vegetarian, is_lactose_free, is_gluten_free, is_vegan, is_keto
+    FROM ingredient
+    GROUP BY name, fat, protein, carbohydrate, kcal,is_vegetarian, is_lactose_free, is_gluten_free, is_vegan, is_keto
+)
+DELETE FROM ingredient
+WHERE ingredient_id NOT IN (
+    SELECT min_id FROM cte_duplicates
+);
+

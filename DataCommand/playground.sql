@@ -14,24 +14,30 @@ is_lactose_free INT,
 is_keto INT
 );
 
-select * from testing where is_vegan = 0 or is_vegetarian = 0 or is_gluten_free = 0 or is_lactose_free = 0;
-
-select * from ingredient where ingredient_id = 854 or ingredient_id = 1454;
-
-select general_recipe_id, name, photo_url from general_recipe;
-
-UPDATE general_recipe
-SET base_recipe_id = recipe.recipe_id
-FROM recipe
-WHERE general_recipe.name = recipe.name;
+select  * from testing;
 
 
-select r.name, min(i.is_vegan) as vegan,  min(i.is_gluten_free) as gluten
-from recipe r join contains c
-on c.recipe_id = r.recipe_id
-join ingredient i on i.ingredient_id = c.ingredient_id
-group by r.name;
+WITH cte_duplicates AS (
+    SELECT
+        MIN(ingredient_id) AS min_id,  -- Keep the row with the smallest ID
+        name, fat, protein, carbohydrate, is_vegetarian, is_lactose_free, is_gluten_free, is_vegan, is_keto
+    FROM testing
+    GROUP BY name, fat, protein, carbohydrate, kcal,is_vegetarian, is_lactose_free, is_gluten_free, is_vegan, is_keto
+)
+DELETE FROM testing
+WHERE ingredient_id NOT IN (
+    SELECT min_id FROM cte_duplicates
+);
 
-select * from general_recipe;
 
 
+
+-- finding constaints on tables
+SELECT
+    conname AS constraint_name,
+    contype AS constraint_type,
+    conrelid::regclass AS table_name
+FROM
+    pg_constraint
+WHERE
+    conrelid = 'TABLEname'::regclass;
