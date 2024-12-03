@@ -22,26 +22,24 @@ class TransformSubstitutes(object):
     def transform_data(self):
         # fetch the ingredients ids
         with open(self.substitutes_map, mode='r', encoding='utf-8') as file:
-            csvFile = csv.reader(file)
-            with open("substitutes_table.txt", "w", encoding='utf-8') as substitutes_file:
-                for lines in csvFile:
-                    print(lines)
-                    ingredient_1 = lines[0].lower().replace("'", "") \
-                        .replace(",", "")
-                    ingredient_2 = lines[1].lower().replace("'", "") \
-                        .replace(",", "")
-                    id_ingredient_1 = self.get_id("ingredient", "ingredient_id", ingredient_1.replace("'", ""))
-                    id_ingredient_2 = self.get_id("ingredient", "ingredient_id", ingredient_2.replace("'", ""))
-
-                    if id_ingredient_1 is None or id_ingredient_2 is None:
-                        print(f"Missing ID for {id_ingredient_1} or {id_ingredient_2}")
-                        return
-                    else:
-                        print(f"{ingredient_1} : {id_ingredient_1}")
-                        print(f"{ingredient_2} : {id_ingredient_2}")
+            substitutes_map = csv.reader(file)
+            for lines in substitutes_map:
+                ingredient_1 = lines[0].lower().replace("'", "") \
+                    .replace(",", "")
+                ingredient_2 = lines[1].lower().replace("'", "") \
+                    .replace(",", "")
+                id_ingredient_1 = self.get_id("ingredient", "ingredient_id",
+                                              ingredient_1.replace("'", ""))
+                id_ingredient_2 = self.get_id("ingredient", "ingredient_id",
+                                              ingredient_2.replace("'", ""))
+                if id_ingredient_1 is None or id_ingredient_2 is None:
+                    print(f"Missing ID for {id_ingredient_1} or {id_ingredient_2}")
+                    return
+                else:
+                    with open("substitutes_table.txt", "w", encoding='utf-8') as sub_file:
                         # saving to file
-                        substitutes_file.write(f"DEFAULT, {id_ingredient_1}, {id_ingredient_2} \n")
-                return
+                        sub_file.write(f"DEFAULT, {id_ingredient_1}, {id_ingredient_2} \n")
+            return
 
     def get_id(self, table_name, id_column, name):
         query = f"SELECT {id_column} FROM {table_name} WHERE name = %s"

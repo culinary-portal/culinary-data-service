@@ -32,7 +32,7 @@ WHERE ingredient_id NOT IN (
 
 
 
--- finding constaints on tables
+-- finding constraints on tables
 SELECT
     conname AS constraint_name,
     contype AS constraint_type,
@@ -41,3 +41,9 @@ FROM
     pg_constraint
 WHERE
     conrelid = 'TABLEname'::regclass;
+
+-- or
+SELECT constraint_name, constraint_type
+FROM information_schema.table_constraints
+WHERE table_name = 'TABLEname'
+  AND table_schema = 'public';
