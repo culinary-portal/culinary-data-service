@@ -1,7 +1,9 @@
+import os
 import requests
 import json
-import time
+from dotenv import load_dotenv
 
+load_dotenv()
 
 class TransformIngredient:
     def __init__(self):
@@ -18,24 +20,14 @@ class TransformIngredient:
         return self.row
 
     def get_macro_elements(self, ingredient):
-        # headers = {
-        #     'Content-Type': 'application/json',
-        #     'x-app-id': 'df854fb1   ',
-        #     'x-app-key': '372bc7c57fb7fa88021e943b8a3e3ad2'
-        # }
         headers = {
-            'Content-Type': 'application/json',
-            'x-app-id': '02cd2118',
-            'x-app-key': '72b52f538fcc03c90ef4d9fa90ffd1b8'
+            'Content-Type': os.getenv('CONTENT_TYPE'),
+            'x-app-id': os.getenv('X_APP_ID'),
+            'x-app-key': os.getenv('X_APP_KEY')
         }
-
         body = {
             "query": ingredient
         }
-
-        # placeholder when response not valid
-        dummy_values = ("-1", "-1", "-1", "-1")
-
         try:
             response = requests.post(
                 'https://trackapi.nutritionix.com/v2/natural/nutrients',
@@ -45,7 +37,8 @@ class TransformIngredient:
 
             # Debugging output for the response
             print(response)
-
+            # placeholder when response not valid
+            dummy_values = ("-1", "-1", "-1", "-1")
             # Parse the response
             food_data = response.get("foods", [{}])[0]
             grams = food_data.get("serving_weight_grams", 100)  # Assume 100g if missing
@@ -55,7 +48,8 @@ class TransformIngredient:
             carbs = str(round(food_data.get("nf_total_carbohydrate", 0) * 100 / grams, 2))
 
             return fats, proteins, carbs, kcal
+        except requests.exceptions.RequestException as e:
+            print(f"Error while getting the data: {e}")
+            return dummy_values
 
-        except Exception as e:
-            print(f"Error fetching nutrient data for {ingredient}: {e}")
-            return dummy_values  # Use placeholder values on error
+
