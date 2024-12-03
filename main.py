@@ -43,7 +43,7 @@ def main():
     # Open files for each table
     with open("Transformation/ClearData/general_recipe_table.txt", "w", encoding='utf-8') as general_recipe_file, \
             open("Transformation/ClearData/recipe_table.txt", "w", encoding='utf-8') as recipe_file, \
-            open("ingredient_data.txt", "a", encoding='utf-8') as ingredient_file, \
+            open("Transformation/working_data/ingredient_data.txt", "a", encoding='utf-8') as ingredient_file, \
             open("Transformation/ClearData/contains_table.txt", "w", encoding='utf-8') as contains_file:
 
         # Transform and save ingredient row

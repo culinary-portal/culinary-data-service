@@ -11,18 +11,17 @@ class TransformGeneralRecipe:
         if not all(key in response for key in ['strMeal', 'strInstructions', 'strMealThumb']):
             return False
 
-        # Validate 'strMeal' existence and value
-        name = response.get('strMeal')
+        name = response.get('strMeal')  # Validate 'strMeal' existence and value
         if not name:
             return False
-
         # Extract and clean fields
         name = name.replace("'", "")
-        instructions = response.get('strInstructions', "").replace("'", "").replace("\n", " ").replace('\r', " ")
+        instructions = (response.get('strInstructions', "").replace("'", "")
+                        .replace("\n", " ").replace('\r', " "))
         pho_url = response.get('strMealThumb', "").replace("'", "")
 
         # Construct row with formatted string for better readability
-        row = f"DEFAULT, '{name}', '{pho_url}', 'BREAKFAST', NULL, '{instructions}', NULL"
+        row = f"DEFAULT, '{name}', '{pho_url}', 'NULL', NULL, '{instructions}', NULL"
         return row
 
     def post_processing(self):
