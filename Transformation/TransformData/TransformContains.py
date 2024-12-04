@@ -48,7 +48,7 @@ class TransformContains:
         try:
             with psycopg2.connect(**self.params) as connection:
                 with connection.cursor() as cursor:
-                    cursor.execute(query, (name,))
+                    cursor.execute(query, name)
                     result = cursor.fetchone()
                     return result[0] if result else None
         except psycopg2.Error as e:

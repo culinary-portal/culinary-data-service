@@ -22,11 +22,12 @@ def load_file_to_database(file_name, table_name):
         # open the file and read lines
         with open(file_name, 'r', encoding='utf-8') as file:
             for line in file:
-                row_data = line.strip()
-                # construct the SQL query
-                query = f"INSERT INTO {table_name} VALUES ({row_data});"
+                row_data = tuple(line.strip().split(','))  # convert line to a tuple
+                # construct the query with placeholders
+                placeholders = ', '.join(['%s'] * len(row_data))
+                query = f"INSERT INTO {table_name} VALUES ({placeholders});"
                 try:
-                    cursor.execute(query)
+                    cursor.execute(query, row_data)  # pass row_data as parameters
                 except (Exception, psycopg2.DatabaseError) as error:
                     print(f"Error while inserting row: {error}")
                     connection.rollback()  # roll back if there's an error for this row
