@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-FILE_NAME = 'Transformation/ClearData/ingredient_table'
+FILE_NAME = 'ingredient_table'
 TABLE_NAME = 'testing'
 PARAMS = {
     'dbname': os.getenv('GCP_DB_NAME'),
