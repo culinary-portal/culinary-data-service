@@ -1,0 +1,3261 @@
+DEFAULT, 'plain flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'chilled butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'cold water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'raspberry jam', 0.05, 0.35, 68.85, 278.0, NULL, NULL
+DEFAULT, 'butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'ground almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'free-range egg, beaten', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'almond extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'flaked almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'digestive biscuits', 22.47, 5.53, 67.47, 492.06, NULL, NULL
+DEFAULT, 'butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Bramley apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+DEFAULT, 'butter, softened', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'free-range eggs, beaten', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'ground almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'almond extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'flaked almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'Fries', 14.73, 3.43, 41.44, 312.0, NULL, NULL
+DEFAULT, 'Doner Meat', 10.09, 12.18, 10.96, 185.34, NULL, NULL
+DEFAULT, 'Garlic sauce', 7.36, 3.93, 13.64, 147.93, NULL, NULL
+DEFAULT, 'Hotsauce', 0.6, 0.93, 3.93, 21.0, NULL, NULL
+DEFAULT, 'Lettuce', 0.3, 1.23, 3.29, 17.0, NULL, NULL
+DEFAULT, 'Tomato', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.11, 0.65, 3.63, 15.0, NULL, NULL
+DEFAULT, 'Gouda cheese', 27.44, 24.94, 2.22, 356.01, NULL, NULL
+DEFAULT, 'onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'lean minced beef', 17.36, 27.0, 0.0, 272.0, NULL, NULL
+DEFAULT, 'mushrooms', 0.5, 2.17, 5.25, 28.0, NULL, NULL
+DEFAULT, 'dried oregano', 4.0, 9.0, 69.0, 265.0, NULL, NULL
+DEFAULT, 'tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'hot beef stock', 0.09, 1.97, 1.2, 13.0, NULL, NULL
+DEFAULT, 'tomato puree', 0.21, 1.65, 8.98, 38.0, NULL, NULL
+DEFAULT, 'worcestershire sauce', 0.0, 0.0, 19.47, 78.0, NULL, NULL
+DEFAULT, 'spaghetti', 0.61, 5.28, 30.24, 150.26, NULL, NULL
+DEFAULT, 'parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'penne rigate', 0.93, 5.8, 30.86, 158.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'chopped tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'red chilli flakes', 7.1, 7.53, 6.1, 118.0, NULL, NULL
+DEFAULT, 'italian seasoning', 8.79, 11.17, 61.36, 280.59, NULL, NULL
+DEFAULT, 'basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Parmigiano-Reggiano', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'soy sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'brown sugar', 0.0, 0.0, 98.0, 380.0, NULL, NULL
+DEFAULT, 'ground ginger', 4.44, 8.89, 71.67, 335.0, NULL, NULL
+DEFAULT, 'minced garlic', 0.36, 6.43, 33.21, 148.93, NULL, NULL
+DEFAULT, 'cornstarch', 0.0, 0.25, 91.25, 381.0, NULL, NULL
+DEFAULT, 'chicken breasts', 3.57, 31.02, 0.0, 165.0, NULL, NULL
+DEFAULT, 'stir-fry vegetables', 4.58, 2.54, 6.47, 71.71, NULL, NULL
+DEFAULT, 'brown rice', 0.83, 2.32, 23.51, 112.0, NULL, NULL
+DEFAULT, 'Salmon', 12.35, 22.1, 0.0, 206.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'Sake', 0.0, 0.5, 5.0, 134.0, NULL, NULL
+DEFAULT, 'Sesame Seed', 48.01, 16.97, 25.75, 565.01, NULL, NULL
+DEFAULT, 'rice stick noodles', 0.28, 2.69, 28.17, 130.0, NULL, NULL
+DEFAULT, 'dark soy sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'oyster sauce', 0.28, 1.33, 10.94, 51.0, NULL, NULL
+DEFAULT, 'soy sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'white vinegar', 0.0, 0.0, 0.07, 17.99, NULL, NULL
+DEFAULT, 'sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'peanut oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Chicken', 13.07, 23.96, 0.05, 220.0, NULL, NULL
+DEFAULT, 'Egg', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Chinese broccoli', 0.72, 1.14, 3.81, 22.0, NULL, NULL
+DEFAULT, 'green red lentils', 0.38, 9.02, 19.54, 114.0, NULL, NULL
+DEFAULT, 'carrot', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'zucchini', 0.36, 1.14, 2.69, 15.0, NULL, NULL
+DEFAULT, 'coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'spinach', 0.26, 2.97, 3.75, 23.0, NULL, NULL
+DEFAULT, 'lasagne sheets', 8.42, 11.4, 9.01, 156.41, NULL, NULL
+DEFAULT, 'vegan butter', 80.7, 0.14, 0.7, 716.97, NULL, NULL
+DEFAULT, 'flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'soya milk', 1.65, 2.88, 3.29, 41.0, NULL, NULL
+DEFAULT, 'mustard', 3.4, 3.8, 5.8, 60.0, NULL, NULL
+DEFAULT, 'vinegar', 0.0, 0.0, 0.07, 17.99, NULL, NULL
+DEFAULT, 'Plain chocolate', 29.71, 7.71, 59.43, 535.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Granulated Sugar', 0.0, 0.0, 100.0, 387.14, NULL, NULL
+DEFAULT, 'Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'mozzarella balls', 22.36, 22.19, 2.19, 300.0, NULL, NULL
+DEFAULT, 'baby plum tomatoes', 0.19, 0.89, 3.89, 18.0, NULL, NULL
+DEFAULT, 'fresh basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'farfalle', 0.93, 5.8, 30.86, 158.0, NULL, NULL
+DEFAULT, 'extra virgin olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Green Olives', 15.19, 1.11, 3.7, 145.19, NULL, NULL
+DEFAULT, 'tuna', 0.59, 29.15, 0.0, 130.0, NULL, NULL
+DEFAULT, 'salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'pepper', 3.04, 10.43, 63.91, 250.87, NULL, NULL
+DEFAULT, 'Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Egg', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheese', 33.32, 22.86, 3.11, 404.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Plum tomatoes', 0.19, 0.89, 3.89, 18.0, NULL, NULL
+DEFAULT, 'White Vinegar', 0.0, 0.0, 0.07, 17.99, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.29, 82.38, 304.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 1.2, 2.52, 3.53, 36.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 43.36, 2.36, 2.43, 400.5, NULL, NULL
+DEFAULT, 'Parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Chicken Breasts', 3.57, 31.02, 0.0, 165.0, NULL, NULL
+DEFAULT, 'Bacon', 35.1, 33.91, 1.71, 468.0, NULL, NULL
+DEFAULT, 'Spinach', 0.26, 2.97, 3.75, 23.0, NULL, NULL
+DEFAULT, 'Peas', 0.22, 5.36, 15.63, 84.0, NULL, NULL
+DEFAULT, 'whole wheat', 1.92, 15.4, 68.03, 329.0, NULL, NULL
+DEFAULT, 'lamb loin chops', 21.2, 28.48, 0.0, 305.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'shallots', 0.09, 2.49, 16.81, 72.0, NULL, NULL
+DEFAULT, 'carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'turnips', 0.08, 0.71, 5.06, 22.0, NULL, NULL
+DEFAULT, 'celeriac', 0.19, 0.96, 5.9, 27.0, NULL, NULL
+DEFAULT, 'charlotte potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'white wine', 0.0, 0.07, 2.6, 82.0, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'fresh thyme', 1.25, 5.0, 25.0, 101.25, NULL, NULL
+DEFAULT, 'oregano', 4.0, 9.0, 69.0, 265.0, NULL, NULL
+DEFAULT, 'chicken stock', 1.2, 2.52, 3.53, 36.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'ginger', 1.0, 2.0, 18.0, 80.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'lemon juice', 0.0, 0.4, 5.6, 17.0, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'vine leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'fennel bulb', 0.2, 1.24, 7.3, 31.0, NULL, NULL
+DEFAULT, 'lamb mince', 20.94, 24.52, 0.0, 294.0, NULL, NULL
+DEFAULT, 'onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'potato', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'basmati rice', 0.28, 2.69, 28.17, 130.0, NULL, NULL
+DEFAULT, 'chopped parsley', 0.79, 2.89, 6.32, 36.05, NULL, NULL
+DEFAULT, 'coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'lemon juice', 0.0, 0.4, 5.6, 17.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Italian fennel sausages', 0.2, 1.24, 7.3, 31.0, NULL, NULL
+DEFAULT, 'onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'fennel bulb', 0.2, 1.24, 7.3, 31.0, NULL, NULL
+DEFAULT, 'smoky paprika', 13.04, 14.35, 53.91, 282.17, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'fennel seeds', 15.0, 16.0, 52.5, 345.0, NULL, NULL
+DEFAULT, 'red wine', 0.0, 0.07, 2.61, 85.0, NULL, NULL
+DEFAULT, 'chopped tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'pitted black olives', 10.79, 0.79, 6.32, 115.0, NULL, NULL
+DEFAULT, 'rigatoni', 0.93, 5.8, 30.86, 158.0, NULL, NULL
+DEFAULT, 'pecorino', 26.95, 31.82, 3.63, 386.98, NULL, NULL
+DEFAULT, 'anchovy fillet', 9.75, 29.0, 0.0, 210.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'basil leaves', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Leek', 0.2, 0.81, 7.62, 31.0, NULL, NULL
+DEFAULT, 'Garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Cumin', 22.38, 17.62, 44.29, 375.24, NULL, NULL
+DEFAULT, 'Coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'Smoked Paprika', 13.04, 14.35, 53.91, 282.17, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Chili Powder', 14.44, 13.33, 49.63, 281.85, NULL, NULL
+DEFAULT, 'Cocoa', 10.0, 20.0, 60.0, 410.0, NULL, NULL
+DEFAULT, 'Dried Oregano', 4.0, 9.0, 69.0, 265.0, NULL, NULL
+DEFAULT, 'Diced Tomatoes', 0.25, 0.79, 3.47, 16.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'Brown Lentils', 0.38, 9.02, 20.13, 116.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Squash', 0.39, 1.04, 3.79, 23.0, NULL, NULL
+DEFAULT, 'Cashews', 46.5, 15.29, 32.48, 573.89, NULL, NULL
+DEFAULT, 'Apple Cider Vinegar', 0.0, 0.0, 0.94, 21.01, NULL, NULL
+DEFAULT, 'Toor dal', 1.95, 6.65, 15.84, 103.56, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 3.33, 9.67, 67.0, 312.0, NULL, NULL
+DEFAULT, 'Ghee', 99.45, 0.31, 0.0, 876.02, NULL, NULL
+DEFAULT, 'Chopped tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Cumin seeds', 22.38, 17.62, 44.29, 375.24, NULL, NULL
+DEFAULT, 'Mustard Seeds', 36.0, 26.0, 28.0, 508.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Green Chili', 0.2, 2.0, 9.47, 40.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cilantro', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Miniature Marshmallows', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chocolate Chips', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chocolate Chips', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Heavy Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Condensed Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Chocolate Chips', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Miniature Marshmallows', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'salted butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'dark soft brown sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'golden syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'rolled oats', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Christmas pudding', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'strawberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'double cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'meringue nests', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'ginger cordial', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sultanas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'double cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Medjool dates', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vanilla extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'self-raising flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'bicarbonate of soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'demerara sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'black treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'ice cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'muscovado sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'double cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'black treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'self raising flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'coco sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cacao', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'baking powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'flax eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'almond milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vanilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'fenugreek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garam masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Squash', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'red pepper flakes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'white wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'heavy cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'bowtie pasta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Small Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'olive oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rocket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Feta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pine nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Floury Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Semi-skimmed Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Fish Fillets', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Jerusalem Artichokes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gruyère', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'English Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Fillet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parma ham', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Gravy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheese Curds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cashew nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Khus khus', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger garlic paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cilantro', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ghee', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basmati rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Full fat yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin Seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Biryani masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'lemons', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'red onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chicken thighs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vegetable oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garam masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'ground cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chilli powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'turmeric', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Aubergine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Madras Paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cinnamon stick', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Purée', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mackerel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chili', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon stick', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind ball', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Veal', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange Zest', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Marjoram', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Zest', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Canned tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kale', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Wholegrain Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Brisket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'beef stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg White', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'onion salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chili powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'black pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'celery salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'oregano', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'marjoram', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'green beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sunflower oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thai green curry paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'coconut milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thai fish sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'French Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apple Cider Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pine nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'macaroni', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chicken stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'heavy cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'fajita seasoning', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chicken breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'olive oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'red pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cheddar cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cajun', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cayenne pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'white fish', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vegetable oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'flour tortilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'avocado', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'little gem lettuce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'spring onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'salsa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sour cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chicken breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'plain flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vegetable oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sunflower oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'carrot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'plain flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'curry powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chicken stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'soy sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'bay leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garam masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'red chili', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thai red curry paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vegetable stock cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'coconut milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'fish sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'rice noodles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'king prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vegetable oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'plain flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'horseradish', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cherry tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'white wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'vegetable stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'King Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'salmon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'asparagus', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'black pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'plain flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'sunflower oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chorizo', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'All spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon stick', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oregano', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ancho Chillies', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Balsamic Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plum Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Ketchup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Borlotti Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Massaman curry paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon stick', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fish Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Jasmine Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice Vermicelli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Rolls', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fish Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Macaroni', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kosher salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Whole Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Heavy Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Monterey Jack Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'garlic powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheddar Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Colby Jack Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breasts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinaigrette Dressing', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Refried Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hard Taco Shells', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shredded Mexican Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Grape Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Jalapeno', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Salsa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken thigh', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sake', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Granulated sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potato starch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Legs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Thighs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breasts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'tomato puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'bay leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'chestnut mushroom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'plain flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Digestive Biscuits', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pretzels', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caramel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caramel Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Toffee Popcorn', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pretzels', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Fillet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'English Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Clotted Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fettuccine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mussels', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vermicelli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Monkfish', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baby Squid', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fish Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spaghetti', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pilchards', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Olives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Duck Legs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paccheri Pasta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Linguine Pasta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar Snap Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'King Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lettuce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fromage Frais', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Clams', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Passata', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Whole Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Stilton Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Leg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apricot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butternut Squash', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Couscous', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lasagne Sheets', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella Balls', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turkey Mince', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Barbeque Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sweetcorn', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Goose Fat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel Seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Haricot Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'English Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mascarpone', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ricotta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Apricots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Couscous', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breasts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Capers', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tuna', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Banana', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cacao', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Blueberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Banana', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pecan Nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Maple Syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Light Brown Soft Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Brown Soft Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pecan Nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Chocolate Chips', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pumpkin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Digestive Biscuits', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Condensed Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Light Brown Soft Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cocoa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Cookies', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gelatine Leafs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ricotta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Golden Syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Light Brown Soft Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Brittle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peaches', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Blueberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chestnuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Wild Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lasagne Sheets', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Truffle Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paneer', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Naan Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butternut Squash', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Linguine Pasta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Roasted Vegetables', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kidney Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mixed Grain', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kidney Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basmati Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tahini', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kale', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Tortillas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Udon Noodles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shiitake Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mirin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baguette', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vine Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Swede', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Suet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ham', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Free-range Egg, Beaten', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cold Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Free-range Egg, Beaten', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Shoulder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Stout', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oysters', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tinned Tomatos', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Olives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gruyere cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Mince', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg White', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Kidney', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gruyère', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salmon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Haddock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked Haddock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bicarbonate Of Soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Kidney', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brussels Sprouts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Suet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Currants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Custard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked Haddock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Curry Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Currants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mixed Peel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Strawberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Blackberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Redcurrants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Suet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberry Jam', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Custard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hazlenuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Blackberrys', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Golden Syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemons', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Braeburn Apples', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Demerara Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Blackberrys', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ice Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almond Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almond Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pink Food Colouring', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apricot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Marzipan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pudding', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pudding', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baked Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bicarbonate Of Soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Walnuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Fruit', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apricot Jam', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Fruit', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Glace Cherry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mixed Peel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Fruit', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Golden Syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oatmeal', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gruyère', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Goose Fat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Shin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chestnut Mushroom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bouquet Garni', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celeriac', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Single Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg White', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheddar Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Duck Legs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Aubergine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Braeburn Apples', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Brown Soft Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Braeburn Apples', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Jelly', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'English Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gruyère', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Goats Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brie', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prosciutto', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tarragon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gruyère', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pears', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Star Anise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Chocolate Chips', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fish Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Star Anise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mussels', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Fish', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Legs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Passata', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Olives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rocket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tiger Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fish Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raisins', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Single Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Walnuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Custard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cocoa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Digestive Biscuits', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Desiccated Coconut', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Custard Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ham', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Frozen Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Brisket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'English Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper Flakes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creamed Corn', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Maple Syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Single Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chorizo', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sun-Dried Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basmati Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemons', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Olives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Canola Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Fillet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Heavy Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dijon Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tabasco Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt Cod', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ackee', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Curry Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Jerusalem Artichokes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hotsauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Suet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Thighs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basmati Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kidney Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Curry Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Ketchup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kale', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Banana', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kidney Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baby Aubergine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paella Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Frozen Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oxtail', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Scotch Bonnet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fresh Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broad Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Snapper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Scotch Bonnet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Malt Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sake', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water Chestnut', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water Chestnut', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tofu', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Doubanjiang', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fermented Black Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sichuan pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Scallions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Wonton Skin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Starch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg White', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Starch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cooking wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oyster Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hotsauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Starch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Duck Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Gochujang', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Starch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Starch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Noodles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bean Sprouts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oyster Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice Stick Noodles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bean Sprouts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cooking wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oyster Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Wood Ear Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tofu', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hotsauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger Cordial', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Strawberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Blackberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salmon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Olives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salmon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ricotta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemons', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Rum', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'English Muffins', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked Salmon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Unsalted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Feta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon Stick', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basmati Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked Haddock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Maple Syrup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mars Bar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice Krispies', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Goat Meat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chili Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ras el hanout', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pumpkin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Mince', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Macaroni', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Filo Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tuna', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hotsauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apricot Jam', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cashew Nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange Blossom Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper Flakes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli Flakes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kale', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celeriac', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spaghetti', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pecorino', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Oregano', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bramley Apples', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Candied Peel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raisins', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Demerara Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Grand Marnier', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Christmas Pudding', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Custard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mascarpone', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flaked Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dark Chocolate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sherry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Candied Peel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Glace Cherry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Raisins', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Currants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pecan Nuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mixed Spice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rose water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mincemeat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Scallions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Balsamic Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apples', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Zucchini', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Barbeque Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hotsauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Ketchup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breasts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Small Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Brisket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Small Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kale', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Italian Fennel Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shiitake Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Small Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kosher Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rhubarb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Strawberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cornstarch', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Unsalted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Aubergine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Digestive Biscuits', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Almonds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mascarpone', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fruit Mix', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Leg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pita Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bulgur Wheat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Mince', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bun', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Quinoa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Olives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Feta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Oregano', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Burger Buns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Iceberg Lettuce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill Pickles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mayonnaise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Passata', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oregano', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shortening', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Canola Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Boiling Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pickle Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed Burger Buns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Swede', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Brisket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Kielbasa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sauerkraut', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Marjoram', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caraway Seed', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Hotsauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Diced Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sauerkraut', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Legs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Herring', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Jam', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broad Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemons', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broad Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Lentils', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Macaroni', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Thighs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lettuce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pita Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mulukhiyah', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 5, 10, 15, 220, NULL, NULL
+DEFAULT, 'Unsalted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Noodles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pita Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork Chops', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Ketchup', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oyster Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sushi Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mirin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pickle Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mirin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sushi Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chives', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Floury Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ham', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg White', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bicarbonate Of Soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork Chops', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Swede', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cider', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dried Oregano', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beetroot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mayonnaise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin Seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Feta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sardines', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Fillet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ciabatta', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rocket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basil Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Jalapeno', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Haddock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin Seeds', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mayonnaise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plum Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cod', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Squid', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tiger Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Clams', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mussels', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baguette', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Zest', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Whole Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind Paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chinese Broccoli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tofu', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Noodles', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Unsalted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Thighs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind Paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger Paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Anchovy Fillet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Anchovy Fillet', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind Paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baguette', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mayonnaise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon Stick', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Star Anise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind Paste', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Aubergine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb Shoulder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chorizo', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Buckwheat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Filo Pastry', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Minced Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sardines', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Walnuts', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Brisket', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lettuce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ham', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fettuccine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Heavy Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sushi Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mayonnaise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice wine', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Quinoa', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sweetcorn', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Diced Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chili Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked Paprika', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Shredded Mexican Cheese', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cilantro', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Green Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli Powder', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock Concentrate', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sesame Seed', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Pork', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper Flakes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Unsalted Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beetroot', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock Cube', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Fish Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cod', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salmon', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Buckwheat', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine Vinegar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peas', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Mayonnaise', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Strawberries', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Grand Marnier', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sour Cream', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Prunes', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.0, 0.0, 0.0, 0.0, NULL, NULL

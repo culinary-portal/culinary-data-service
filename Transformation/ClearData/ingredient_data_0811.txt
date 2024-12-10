@@ -1,0 +1,1591 @@
+DEFAULT, 'plain flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'chilled butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'cold water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'raspberry jam', 0.05, 0.35, 68.85, 278.0, NULL, NULL
+DEFAULT, 'butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'ground almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'free-range egg, beaten', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'almond extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'flaked almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'digestive biscuits', 22.47, 5.53, 67.47, 492.06, NULL, NULL
+DEFAULT, 'butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Bramley apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+DEFAULT, 'butter, softened', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'free-range eggs, beaten', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'ground almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'almond extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'flaked almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'Fries', 14.73, 3.43, 41.44, 312.0, NULL, NULL
+DEFAULT, 'Doner Meat', 10.09, 12.18, 10.96, 185.34, NULL, NULL
+DEFAULT, 'Garlic sauce', 7.36, 3.93, 13.64, 147.93, NULL, NULL
+DEFAULT, 'Hotsauce', 0.6, 0.93, 3.93, 21.0, NULL, NULL
+DEFAULT, 'Lettuce', 0.3, 1.23, 3.29, 17.0, NULL, NULL
+DEFAULT, 'Tomato', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.11, 0.65, 3.63, 15.0, NULL, NULL
+DEFAULT, 'Gouda cheese', 27.44, 24.94, 2.22, 356.01, NULL, NULL
+DEFAULT, 'onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'lean minced beef', 17.36, 27.0, 0.0, 272.0, NULL, NULL
+DEFAULT, 'mushrooms', 0.5, 2.17, 5.25, 28.0, NULL, NULL
+DEFAULT, 'dried oregano', 4.0, 9.0, 69.0, 265.0, NULL, NULL
+DEFAULT, 'tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'hot beef stock', 0.09, 1.97, 1.2, 13.0, NULL, NULL
+DEFAULT, 'tomato puree', 0.21, 1.65, 8.98, 38.0, NULL, NULL
+DEFAULT, 'worcestershire sauce', 0.0, 0.0, 19.47, 78.0, NULL, NULL
+DEFAULT, 'spaghetti', 0.61, 5.28, 30.24, 150.26, NULL, NULL
+DEFAULT, 'parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'penne rigate', 0.93, 5.8, 30.86, 158.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'chopped tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'red chilli flakes', 7.1, 7.53, 6.1, 118.0, NULL, NULL
+DEFAULT, 'italian seasoning', 8.79, 11.17, 61.36, 280.59, NULL, NULL
+DEFAULT, 'basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Parmigiano-Reggiano', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'soy sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'brown sugar', 0.0, 0.0, 98.0, 380.0, NULL, NULL
+DEFAULT, 'ground ginger', 4.44, 8.89, 71.67, 335.0, NULL, NULL
+DEFAULT, 'minced garlic', 0.36, 6.43, 33.21, 148.93, NULL, NULL
+DEFAULT, 'cornstarch', 0.0, 0.25, 91.25, 381.0, NULL, NULL
+DEFAULT, 'chicken breasts', 3.57, 31.02, 0.0, 165.0, NULL, NULL
+DEFAULT, 'stir-fry vegetables', 4.58, 2.54, 6.47, 71.71, NULL, NULL
+DEFAULT, 'brown rice', 0.83, 2.32, 23.51, 112.0, NULL, NULL
+DEFAULT, 'Salmon', 12.35, 22.1, 0.0, 206.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'Sake', 0.0, 0.5, 5.0, 134.0, NULL, NULL
+DEFAULT, 'Sesame Seed', 48.01, 16.97, 25.75, 565.01, NULL, NULL
+DEFAULT, 'rice stick noodles', 0.28, 2.69, 28.17, 130.0, NULL, NULL
+DEFAULT, 'dark soy sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'oyster sauce', 0.28, 1.33, 10.94, 51.0, NULL, NULL
+DEFAULT, 'soy sauce', 0.56, 8.12, 4.94, 53.0, NULL, NULL
+DEFAULT, 'white vinegar', 0.0, 0.0, 0.07, 17.99, NULL, NULL
+DEFAULT, 'sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'peanut oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Chicken', 13.07, 23.96, 0.05, 220.0, NULL, NULL
+DEFAULT, 'Egg', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Chinese broccoli', 0.72, 1.14, 3.81, 22.0, NULL, NULL
+DEFAULT, 'green red lentils', 0.38, 9.02, 19.54, 114.0, NULL, NULL
+DEFAULT, 'carrot', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'zucchini', 0.36, 1.14, 2.69, 15.0, NULL, NULL
+DEFAULT, 'coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'spinach', 0.26, 2.97, 3.75, 23.0, NULL, NULL
+DEFAULT, 'lasagne sheets', 8.42, 11.4, 9.01, 156.41, NULL, NULL
+DEFAULT, 'vegan butter', 80.7, 0.14, 0.7, 716.97, NULL, NULL
+DEFAULT, 'flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'soya milk', 1.65, 2.88, 3.29, 41.0, NULL, NULL
+DEFAULT, 'mustard', 3.4, 3.8, 5.8, 60.0, NULL, NULL
+DEFAULT, 'vinegar', 0.0, 0.0, 0.07, 17.99, NULL, NULL
+DEFAULT, 'Plain chocolate', 29.71, 7.71, 59.43, 535.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Granulated Sugar', 0.0, 0.0, 100.0, 387.14, NULL, NULL
+DEFAULT, 'Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'mozzarella balls', 22.36, 22.19, 2.19, 300.0, NULL, NULL
+DEFAULT, 'baby plum tomatoes', 0.19, 0.89, 3.89, 18.0, NULL, NULL
+DEFAULT, 'fresh basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'farfalle', 0.93, 5.8, 30.86, 158.0, NULL, NULL
+DEFAULT, 'extra virgin olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Green Olives', 15.19, 1.11, 3.7, 145.19, NULL, NULL
+DEFAULT, 'tuna', 0.59, 29.15, 0.0, 130.0, NULL, NULL
+DEFAULT, 'salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'pepper', 3.04, 10.43, 63.91, 250.87, NULL, NULL
+DEFAULT, 'Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Egg', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cheese', 33.32, 22.86, 3.11, 404.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Plum tomatoes', 0.19, 0.89, 3.89, 18.0, NULL, NULL
+DEFAULT, 'White Vinegar', 0.0, 0.0, 0.07, 17.99, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.29, 82.38, 304.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 1.2, 2.52, 3.53, 36.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 43.36, 2.36, 2.43, 400.5, NULL, NULL
+DEFAULT, 'Parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Chicken Breasts', 3.57, 31.02, 0.0, 165.0, NULL, NULL
+DEFAULT, 'Bacon', 35.1, 33.91, 1.71, 468.0, NULL, NULL
+DEFAULT, 'Spinach', 0.26, 2.97, 3.75, 23.0, NULL, NULL
+DEFAULT, 'Peas', 0.22, 5.36, 15.63, 84.0, NULL, NULL
+DEFAULT, 'whole wheat', 1.92, 15.4, 68.03, 329.0, NULL, NULL
+DEFAULT, 'lamb loin chops', 21.2, 28.48, 0.0, 305.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'shallots', 0.09, 2.49, 16.81, 72.0, NULL, NULL
+DEFAULT, 'carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'turnips', 0.08, 0.71, 5.06, 22.0, NULL, NULL
+DEFAULT, 'celeriac', 0.19, 0.96, 5.9, 27.0, NULL, NULL
+DEFAULT, 'charlotte potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'white wine', 0.0, 0.07, 2.6, 82.0, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'fresh thyme', 1.25, 5.0, 25.0, 101.25, NULL, NULL
+DEFAULT, 'oregano', 4.0, 9.0, 69.0, 265.0, NULL, NULL
+DEFAULT, 'chicken stock', 1.2, 2.52, 3.53, 36.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'ginger', 1.0, 2.0, 18.0, 80.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'lemon juice', 0.0, 0.4, 5.6, 17.0, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'vine leaves', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'fennel bulb', 0.2, 1.24, 7.3, 31.0, NULL, NULL
+DEFAULT, 'lamb mince', 20.94, 24.52, 0.0, 294.0, NULL, NULL
+DEFAULT, 'onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'potato', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'basmati rice', 0.28, 2.69, 28.17, 130.0, NULL, NULL
+DEFAULT, 'chopped parsley', 0.79, 2.89, 6.32, 36.05, NULL, NULL
+DEFAULT, 'coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'lemon juice', 0.0, 0.4, 5.6, 17.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'clove', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Italian fennel sausages', 0.2, 1.24, 7.3, 31.0, NULL, NULL
+DEFAULT, 'onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'fennel bulb', 0.2, 1.24, 7.3, 31.0, NULL, NULL
+DEFAULT, 'smoky paprika', 13.04, 14.35, 53.91, 282.17, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'fennel seeds', 15.0, 16.0, 52.5, 345.0, NULL, NULL
+DEFAULT, 'red wine', 0.0, 0.07, 2.61, 85.0, NULL, NULL
+DEFAULT, 'chopped tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'caster sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'pitted black olives', 10.79, 0.79, 6.32, 115.0, NULL, NULL
+DEFAULT, 'rigatoni', 0.93, 5.8, 30.86, 158.0, NULL, NULL
+DEFAULT, 'pecorino', 26.95, 31.82, 3.63, 386.98, NULL, NULL
+DEFAULT, 'anchovy fillet', 9.75, 29.0, 0.0, 210.0, NULL, NULL
+DEFAULT, 'garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'olive oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'basil leaves', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Leek', 0.2, 0.81, 7.62, 31.0, NULL, NULL
+DEFAULT, 'Garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Cumin', 22.38, 17.62, 44.29, 375.24, NULL, NULL
+DEFAULT, 'Coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'Smoked Paprika', 13.04, 14.35, 53.91, 282.17, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Chili Powder', 14.44, 13.33, 49.63, 281.85, NULL, NULL
+DEFAULT, 'Cocoa', 10.0, 20.0, 60.0, 410.0, NULL, NULL
+DEFAULT, 'Dried Oregano', 4.0, 9.0, 69.0, 265.0, NULL, NULL
+DEFAULT, 'Diced Tomatoes', 0.25, 0.79, 3.47, 16.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'Brown Lentils', 0.38, 9.02, 20.13, 116.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Squash', 0.39, 1.04, 3.79, 23.0, NULL, NULL
+DEFAULT, 'Cashews', 46.5, 15.29, 32.48, 573.89, NULL, NULL
+DEFAULT, 'Apple Cider Vinegar', 0.0, 0.0, 0.94, 21.01, NULL, NULL
+DEFAULT, 'Toor dal', 1.95, 6.65, 15.84, 103.56, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 3.33, 9.67, 67.0, 312.0, NULL, NULL
+DEFAULT, 'Ghee', 99.45, 0.31, 0.0, 876.02, NULL, NULL
+DEFAULT, 'Chopped tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Cumin seeds', 22.38, 17.62, 44.29, 375.24, NULL, NULL
+DEFAULT, 'Mustard Seeds', 36.0, 26.0, 28.0, 508.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Green Chili', 0.2, 2.0, 9.47, 40.0, NULL, NULL
+DEFAULT, 'Ginger', 0.8, 1.8, 17.8, 0.0, NULL, NULL
+DEFAULT, 'Cilantro', 0.5, 2.1, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.3, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Miniature Marshmallows', 0.2, 0.8, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Chocolate Chips', 30.0, 5.0, 59.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut Butter', 50.0, 25.0, 20.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.1, 13.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 49.0, 26.0, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Chocolate Chips', 30.0, 5.0, 59.0, 0.0, NULL, NULL
+DEFAULT, 'Heavy Cream', 36.0, 2.1, 2.8, 0.0, NULL, NULL
+DEFAULT, 'Condensed Milk', 8.7, 7.9, 54.4, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.1, 13.0, 0.0, NULL, NULL
+DEFAULT, 'White Chocolate Chips', 33.0, 6.0, 59.0, 0.0, NULL, NULL
+DEFAULT, 'Miniature Marshmallows', 0.2, 0.8, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Salted Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Dark Soft Brown Sugar', 0.0, 0.0, 98.0, 0.0, NULL, NULL
+DEFAULT, 'Golden Syrup', 0.0, 0.0, 80.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.1, 1.2, 11.5, 0.0, NULL, NULL
+DEFAULT, 'Rolled Oats', 6.9, 13.2, 66.3, 0.0, NULL, NULL
+DEFAULT, 'Christmas Pudding', 7.0, 4.0, 50.0, 0.0, NULL, NULL
+DEFAULT, 'Strawberries', 0.3, 0.7, 7.7, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 48.0, 2.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Meringue Nests', 0.0, 2.0, 92.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger Cordial', 0.0, 0.0, 68.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.6, 3.8, 14.9, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Bread', 1.0, 9.0, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Sultanas', 0.5, 3.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 3.3, 3.4, 4.8, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 48.0, 2.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 10.0, 13.0, 1.1, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.0, 5.8, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Medjool Dates', 0.2, 2.0, 75.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.1, 13.0, 0.0, NULL, NULL
+DEFAULT, 'Self-Raising Flour', 1.5, 10.0, 75.0, 0.0, NULL, NULL
+DEFAULT, 'Bicarbonate of Soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 10.0, 13.0, 1.1, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Demerara Sugar', 0.0, 0.0, 99.4, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 3.3, 3.4, 4.8, 0.0, NULL, NULL
+DEFAULT, 'Ice Cream', 11.0, 4.0, 24.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 98.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 48.0, 2.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Self-Raising Flour', 1.5, 10.0, 75.0, 0.0, NULL, NULL
+DEFAULT, 'Coco Sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Cacao', 12.0, 20.0, 57.0, 0.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.0, 0.0, NULL, NULL
+DEFAULT, 'Flax Eggs', 4.3, 3.3, 8.0, 0.0, NULL, NULL
+DEFAULT, 'Almond Milk', 2.0, 1.0, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.1, 13.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 8.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 1.0, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger Paste', 0.7, 1.8, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin Seeds', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander Seeds', 9.0, 13.0, 55.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric Powder', 3.3, 7.8, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli Powder', 12.0, 12.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.2, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Yogurt', 3.3, 10.0, 4.7, 0.0, NULL, NULL
+DEFAULT, 'Cream', 45.0, 2.5, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Fenugreek', 6.0, 23.0, 58.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 8.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Squash', 0.1, 1.0, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.4, 2.8, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.3, 3.1, 3.3, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Red Pepper Flakes', 12.0, 12.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.1, 2.6, 0.0, NULL, NULL
+DEFAULT, 'Milk', 3.3, 3.4, 4.8, 0.0, NULL, NULL
+DEFAULT, 'Heavy Cream', 36.0, 2.1, 2.8, 0.0, NULL, NULL
+DEFAULT, 'Parmesan Cheese', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Bowtie Pasta', 1.5, 13.0, 75.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Small Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 10.0, 12.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Spring onions', 0.1, 1.8, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Rocket', 0.5, 2.6, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Feta', 21.5, 14.2, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.6, 3.8, 14.9, 0.0, NULL, NULL
+DEFAULT, 'Pine nuts', 68.4, 13.7, 9.4, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Floury Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Semi-skimmed Milk', 1.7, 3.4, 5.0, 0.0, NULL, NULL
+DEFAULT, 'White Fish Fillets', 1.0, 20.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.0, 5.8, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 48.0, 2.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Jerusalem Artichokes', 0.0, 2.0, 17.4, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.3, 1.5, 14.1, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.8, 20.3, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Dill', 0.2, 3.5, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Gruyère', 33.0, 27.0, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.3, 3.1, 3.3, 0.0, NULL, NULL
+DEFAULT, 'English Mustard', 10.5, 4.6, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Fillet', 6.5, 26.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Parma ham', 13.0, 26.0, 0.3, 0.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 30.0, 6.0, 50.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.5, 15.9, 1.2, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef Gravy', 1.5, 3.0, 1.5, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Cheese Curds', 27.0, 18.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Cashew nuts', 43.9, 18.2, 30.2, 0.0, NULL, NULL
+DEFAULT, 'Khus khus', 50.0, 18.0, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin seeds', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Ginger garlic paste', 0.4, 4.5, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.6, 3.8, 14.9, 0.0, NULL, NULL
+DEFAULT, 'Cilantro', 0.5, 2.1, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 5.9, 11.4, 65.4, 0.0, NULL, NULL
+DEFAULT, 'Ghee', 99.5, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Basmati rice', 0.6, 7.5, 77.2, 0.0, NULL, NULL
+DEFAULT, 'Full fat yogurt', 3.3, 5.0, 4.7, 0.0, NULL, NULL
+DEFAULT, 'Cumin Seeds', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Bay leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 13.0, 6.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 6.7, 10.8, 68.5, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 20.0, 25.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli powder', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Biryani masala', 10.0, 12.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Lemons', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 13.0, 14.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Red onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Chicken Thighs', 9.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 10.0, 10.0, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.8, 1.8, 17.8, 0.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Garam Masala', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Ground Cumin', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli powder', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 3.3, 7.8, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Aubergine', 0.2, 1.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 1.0, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.2, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chilli Powder', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander Leaves', 0.5, 2.1, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.8, 1.8, 17.8, 0.0, NULL, NULL
+DEFAULT, 'Madras Paste', 5.0, 2.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 13.0, 14.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon Stick', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 6.7, 10.8, 68.5, 0.0, NULL, NULL
+DEFAULT, 'Clove', 13.0, 6.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Tomato Purée', 0.2, 1.0, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb', 20.0, 25.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Greek Yogurt', 10.0, 10.0, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.5, 2.1, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Mackerel', 13.9, 19.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red Chili', 0.2, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.8, 1.8, 17.8, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Turmeric', 3.3, 7.8, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon stick', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Clove', 13.0, 6.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Cardamom', 6.7, 10.8, 68.5, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind ball', 0.6, 3.0, 67.0, 0.0, NULL, NULL
+DEFAULT, 'Vinegar', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Veal', 7.6, 19.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 2.5, 0.0, NULL, NULL
+DEFAULT, 'Fennel', 0.2, 1.1, 7.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Orange Zest', 0.2, 1.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Marjoram', 0.7, 3.7, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.1, 2.6, 0.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.1, 1.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 1.0, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon Zest', 0.2, 1.1, 11.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 2.5, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 1.0, 7.5, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Canned tomatoes', 0.0, 1.0, 4.5, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.5, 3.3, 20.7, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 1.7, 9.1, 24.5, 0.0, NULL, NULL
+DEFAULT, 'Kale', 0.9, 4.3, 8.8, 0.0, NULL, NULL
+DEFAULT, 'Wholegrain Bread', 4.0, 13.0, 41.0, 0.0, NULL, NULL
+DEFAULT, 'Red Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Beef Brisket', 19.0, 21.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 1.7, 9.1, 24.5, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.5, 3.3, 20.7, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.1, 3.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'Mustard', 10.5, 4.6, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 8.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg White', 0.1, 10.8, 0.7, 0.0, NULL, NULL
+DEFAULT, 'Flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 98.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 13.0, 14.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Onion Salt', 0.0, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Chili powder', 14.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Black Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Celery Salt', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Sage', 13.0, 4.0, 60.7, 0.0, NULL, NULL
+DEFAULT, 'Garlic Powder', 0.6, 17.0, 72.7, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 5.4, 6.1, 72.1, 0.0, NULL, NULL
+DEFAULT, 'Oregano', 4.3, 9.0, 68.9, 0.0, NULL, NULL
+DEFAULT, 'Basil', 4.0, 14.0, 60.0, 0.0, NULL, NULL
+DEFAULT, 'Marjoram', 0.7, 3.7, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.2, 2.0, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Thai Green Curry Paste', 13.0, 7.0, 8.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut Milk', 24.0, 2.3, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Thai Fish Sauce', 0.0, 5.5, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 8.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.2, 0.7, 8.4, 0.0, NULL, NULL
+DEFAULT, 'Basil', 4.0, 14.0, 60.0, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.4, 7.1, 80.0, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'French Lentils', 0.8, 9.0, 20.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 1.7, 9.1, 24.5, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 2.5, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 2.5, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Lentils', 0.9, 9.0, 20.1, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apple Cider Vinegar', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.2, 1.2, 6.5, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.5, 3.3, 20.7, 0.0, NULL, NULL
+DEFAULT, 'Pine nuts', 68.4, 13.7, 9.4, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Egg Plants', 0.2, 1.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa', 6.5, 2.5, 4.2, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 6.0, 19.0, 61.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry Tomatoes', 0.3, 0.9, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Greek yogurt', 10.0, 10.0, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Ground cumin', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Macaroni', 1.2, 5.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock', 0.1, 3.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Heavy cream', 36.1, 2.1, 2.8, 0.0, NULL, NULL
+DEFAULT, 'Fajita seasoning', 8.0, 12.0, 54.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken breast', 3.5, 20.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Red pepper', 0.3, 1.2, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Cheddar cheese', 33.0, 25.0, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Cajun', 10.5, 9.5, 45.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne pepper', 15.0, 12.0, 53.0, 0.0, NULL, NULL
+DEFAULT, 'White fish', 1.0, 20.3, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour tortilla', 9.0, 7.0, 51.0, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 15.0, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Little gem lettuce', 0.2, 1.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Spring onion', 0.1, 1.8, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Salsa', 0.1, 1.2, 4.5, 0.0, NULL, NULL
+DEFAULT, 'Sour cream', 20.0, 2.8, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken breast', 3.5, 20.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Egg', 9.5, 13.0, 1.1, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 6.0, 11.0, 68.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Carrot', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Curry powder', 10.0, 12.0, 60.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock', 0.1, 3.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 80.0, 0.0, NULL, NULL
+DEFAULT, 'Soy sauce', 0.0, 0.5, 5.5, 0.0, NULL, NULL
+DEFAULT, 'Bay leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Garam masala', 15.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red chili', 0.2, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Thai red curry paste', 8.0, 7.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable stock cube', 0.1, 1.1, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut milk', 24.0, 2.3, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Fish sauce', 0.0, 5.5, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Rice noodles', 0.5, 8.0, 77.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.2, 0.7, 8.4, 0.0, NULL, NULL
+DEFAULT, 'King prawns', 0.8, 20.3, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.5, 2.1, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 18.0, 16.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.5, 13.0, 1.1, 0.0, NULL, NULL
+DEFAULT, 'Horseradish', 0.3, 0.7, 10.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Cherry tomatoes', 0.3, 0.9, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Rice', 0.4, 7.1, 80.0, 0.0, NULL, NULL
+DEFAULT, 'White wine', 0.0, 0.1, 2.6, 0.0, NULL, NULL
+DEFAULT, 'Vegetable stock', 0.1, 1.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'King prawns', 0.8, 20.3, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Salmon', 13.5, 20.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Asparagus', 0.2, 1.9, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Black pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Beef', 10.0, 26.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.4, 3.0, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.5, 13.0, 1.1, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 10.0, 26.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chorizo', 26.7, 21.1, 2.6, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Allspice', 5.4, 6.1, 72.1, 0.0, NULL, NULL
+DEFAULT, 'Cloves', 13.0, 6.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon stick', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Bay leaves', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Oregano', 4.3, 9.0, 68.9, 0.0, NULL, NULL
+DEFAULT, 'Ancho chillies', 15.0, 12.0, 55.0, 0.0, NULL, NULL
+DEFAULT, 'Balsamic vinegar', 0.0, 0.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Plum tomatoes', 0.3, 1.1, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato ketchup', 0.2, 1.1, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Dark brown sugar', 0.0, 0.0, 98.0, 0.0, NULL, NULL
+DEFAULT, 'Borlotti beans', 1.2, 7.0, 20.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 49.0, 26.0, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Coconut cream', 37.0, 4.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Massaman curry paste', 8.0, 6.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 10.0, 26.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.1, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.2, 0.7, 8.4, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon stick', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Tamarind paste', 1.0, 0.6, 60.0, 0.0, NULL, NULL
+DEFAULT, 'Brown sugar', 0.0, 0.0, 98.0, 0.0, NULL, NULL
+DEFAULT, 'Fish sauce', 0.0, 5.5, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Chilli', 0.5, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Jasmine rice', 0.5, 7.1, 80.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 12.0, 19.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Rice vermicelli', 1.0, 8.0, 75.0, 0.0, NULL, NULL
+DEFAULT, 'Egg rolls', 12.0, 8.0, 40.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Fish sauce', 0.0, 5.5, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Soy sauce', 0.0, 0.5, 5.5, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cucumber', 0.1, 0.6, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Mint', 0.2, 3.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Peanuts', 49.0, 26.0, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Macaroni', 1.2, 5.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard powder', 4.0, 6.0, 21.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic powder', 0.6, 17.0, 72.7, 0.0, NULL, NULL
+DEFAULT, 'Kosher salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black pepper', 0.2, 1.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Cayenne pepper', 15.0, 12.0, 53.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Whole milk', 3.5, 3.3, 4.8, 0.0, NULL, NULL
+DEFAULT, 'Heavy cream', 36.1, 2.1, 2.8, 0.0, NULL, NULL
+DEFAULT, 'Monterey Jack cheese', 30.3, 24.0, 1.3, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Garlic powder', 0.6, 17.0, 72.7, 0.0, NULL, NULL
+DEFAULT, 'Bread', 1.3, 9.0, 50.0, 0.0, NULL, NULL
+DEFAULT, 'Cheddar cheese', 33.0, 25.0, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Colby Jack cheese', 32.1, 24.9, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Chicken breasts', 3.5, 20.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Vinaigrette dressing', 45.0, 0.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Smoked paprika', 13.0, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Refried beans', 4.0, 7.0, 15.0, 0.0, NULL, NULL
+DEFAULT, 'Hard taco shells', 15.0, 7.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Shredded Mexican cheese', 32.0, 25.0, 3.7, 0.0, NULL, NULL
+DEFAULT, 'Grape tomatoes', 0.3, 0.9, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Jalapeno', 0.1, 0.9, 6.5, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 15.0, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Green salsa', 0.2, 1.2, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Sour cream', 20.0, 2.8, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken thigh', 5.2, 21.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.2, 2.0, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Soy sauce', 0.0, 0.5, 5.5, 0.0, NULL, NULL
+DEFAULT, 'Sake', 0.0, 0.0, 0.5, 0.0, NULL, NULL
+DEFAULT, 'Granulated sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Potato starch', 0.0, 0.0, 85.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 45.0, 15.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Shallots', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken legs', 6.0, 17.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken thighs', 5.2, 21.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken breasts', 3.5, 20.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red wine', 0.0, 0.1, 3.2, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock', 0.1, 3.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Tomato puree', 0.3, 1.6, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 1.7, 9.1, 24.5, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.5, 3.3, 20.7, 0.0, NULL, NULL
+DEFAULT, 'Bay leaves', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Chestnut mushroom', 0.3, 2.3, 3.3, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Digestive biscuits', 21.0, 6.0, 69.0, 0.0, NULL, NULL
+DEFAULT, 'Pretzels', 7.0, 10.0, 70.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Cream cheese', 33.0, 7.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla extract', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Icing sugar', 0.0, 0.0, 99.9, 0.0, NULL, NULL
+DEFAULT, 'Caramel', 0.0, 0.0, 80.0, 0.0, NULL, NULL
+DEFAULT, 'Sea salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double cream', 36.0, 2.5, 2.8, 0.0, NULL, NULL
+DEFAULT, 'Caramel sauce', 5.0, 1.0, 70.0, 0.0, NULL, NULL
+DEFAULT, 'Toffee popcorn', 18.0, 3.0, 74.0, 0.0, NULL, NULL
+DEFAULT, 'Pretzels', 7.0, 10.0, 70.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.3, 2.3, 3.3, 0.0, NULL, NULL
+DEFAULT, 'Beef fillet', 10.0, 26.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Creme fraiche', 29.5, 2.7, 3.6, 0.0, NULL, NULL
+DEFAULT, 'English mustard', 6.7, 7.0, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Beef stock', 0.3, 7.5, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Clotted cream', 64.0, 2.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Corn flour', 0.0, 0.0, 85.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan cheese', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.0, 6.0, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Fettuccine', 1.2, 5.5, 78.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Mussels', 2.0, 11.0, 3.5, 0.0, NULL, NULL
+DEFAULT, 'Prawns', 0.8, 20.3, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 6.0, 12.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Vermicelli', 1.0, 8.0, 77.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Paprika', 10.5, 12.0, 56.0, 0.0, NULL, NULL
+DEFAULT, 'Monkfish', 1.9, 19.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Baby squid', 1.0, 17.0, 2.6, 0.0, NULL, NULL
+DEFAULT, 'Fish stock', 0.1, 3.1, 0.4, 0.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.3, 1.1, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Spaghetti', 1.2, 5.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Red chili', 0.2, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato puree', 0.3, 1.6, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Pilchards', 10.5, 19.5, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black olives', 11.0, 0.5, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Duck legs', 20.0, 16.0, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Red wine', 0.0, 0.1, 3.2, 0.0, NULL, NULL
+DEFAULT, 'Chopped tomatoes', 0.3, 1.1, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock cube', 0.1, 1.1, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.5, 3.3, 20.7, 0.0, NULL, NULL
+DEFAULT, 'Bay leaves', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Paccheri pasta', 1.2, 5.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan cheese', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Linguine pasta', 1.2, 5.0, 79.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar snap peas', 0.2, 2.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic clove', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Red chili', 0.2, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'King prawns', 0.8, 20.3, 0.2, 0.0, NULL, NULL
+DEFAULT, 'Cherry tomatoes', 0.3, 0.9, 3.9, 0.0, NULL, NULL
+DEFAULT, 'Basil leaves', 0.1, 2.0, 3.5, 0.0, NULL, NULL
+DEFAULT, 'Lettuce', 0.1, 1.0, 2.9, 0.0, NULL, NULL
+DEFAULT, 'Bread', 1.3, 9.0, 50.0, 0.0, NULL, NULL
+DEFAULT, 'Fromage frais', 5.0, 3.5, 4.7, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.2, 0.7, 8.4, 0.0, NULL, NULL
+DEFAULT, 'Caster sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Clams', 2.0, 12.0, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 45.0, 15.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Thyme', 1.7, 9.1, 24.5, 0.0, NULL, NULL
+DEFAULT, 'Bay leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Double cream', 36.0, 2.5, 2.8, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 10.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Bay leaf', 0.6, 7.6, 74.9, 0.0, NULL, NULL
+DEFAULT, 'Tomato puree', 0.3, 1.6, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'White vinegar', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Chopped tomatoes', 0.3, 1.1, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Passata', 0.2, 1.3, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable stock cube', 0.1, 0.8, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Whole milk', 3.5, 3.3, 4.8, 0.0, NULL, NULL
+DEFAULT, 'Rapeseed oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Leek', 0.3, 1.5, 14.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Vegetable stock', 0.1, 0.8, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.2, 2.8, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Stilton cheese', 35.0, 23.0, 2.3, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 10.0, 0.0, NULL, NULL
+DEFAULT, 'Lamb leg', 12.0, 24.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.2, 2.0, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Saffron', 6.0, 12.0, 65.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 82.0, 0.0, NULL, NULL
+DEFAULT, 'Apricot', 0.1, 0.5, 11.0, 0.0, NULL, NULL
+DEFAULT, 'Vegetable stock cube', 0.1, 0.8, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Butternut squash', 0.1, 1.0, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Couscous', 0.6, 12.0, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bacon', 45.0, 15.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 10.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Minced beef', 20.0, 26.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato puree', 0.3, 1.6, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Chopped tomatoes', 0.3, 1.1, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 82.0, 0.0, NULL, NULL
+DEFAULT, 'Lasagne sheets', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Creme fraiche', 29.5, 2.7, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella balls', 22.0, 17.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan cheese', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Basil leaves', 0.1, 2.0, 3.5, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Worcestershire sauce', 0.0, 0.0, 4.3, 0.0, NULL, NULL
+DEFAULT, 'Tomato puree', 0.3, 1.6, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Turkey mince', 6.0, 24.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 5.0, 9.0, 53.0, 0.0, NULL, NULL
+DEFAULT, 'Barbeque sauce', 0.1, 1.1, 24.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini beans', 0.5, 7.0, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.5, 3.6, 3.3, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock cube', 0.1, 1.1, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.0, 6.0, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Mustard powder', 8.5, 26.0, 28.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken', 3.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sweetcorn', 1.3, 3.2, 19.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Goose fat', 99.5, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pork', 8.0, 22.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 10.0, 0.0, NULL, NULL
+DEFAULT, 'Fennel seeds', 14.9, 15.0, 52.3, 0.0, NULL, NULL
+DEFAULT, 'Red wine vinegar', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Vegetable stock', 0.1, 0.8, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Tomato puree', 0.3, 1.6, 16.0, 0.0, NULL, NULL
+DEFAULT, 'Rosemary', 0.5, 3.3, 20.7, 0.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 0.0, NULL, NULL
+DEFAULT, 'Haricot beans', 0.5, 8.0, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 5.0, 9.0, 53.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bread', 1.3, 9.0, 50.0, 0.0, NULL, NULL
+DEFAULT, 'Broccoli', 0.2, 2.8, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Sausages', 31.0, 13.0, 1.5, 0.0, NULL, NULL
+DEFAULT, 'Tomato sauce', 0.2, 1.0, 24.0, 0.0, NULL, NULL
+DEFAULT, 'Butter beans', 0.5, 6.0, 20.0, 0.0, NULL, NULL
+DEFAULT, 'Black treacle', 0.0, 0.0, 77.0, 0.0, NULL, NULL
+DEFAULT, 'English mustard', 6.7, 7.0, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Caster sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Red wine vinegar', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Chopped tomatoes', 0.3, 1.1, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Basil leaves', 0.1, 2.0, 3.5, 0.0, NULL, NULL
+DEFAULT, 'Mascarpone', 41.0, 5.6, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Mozzarella', 22.0, 17.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.4, 2.9, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Parmesan', 27.0, 38.0, 4.1, 0.0, NULL, NULL
+DEFAULT, 'Ricotta', 13.0, 10.0, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.0, 6.0, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Cannellini beans', 0.5, 7.0, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 0.0, NULL, NULL
+DEFAULT, 'Chicken breast', 3.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ginger', 0.2, 2.0, 18.0, 0.0, NULL, NULL
+DEFAULT, 'Harissa spice', 13.0, 10.0, 26.0, 0.0, NULL, NULL
+DEFAULT, 'Dried apricots', 0.5, 1.4, 62.6, 0.0, NULL, NULL
+DEFAULT, 'Chickpeas', 6.0, 19.0, 61.0, 0.0, NULL, NULL
+DEFAULT, 'Couscous', 0.6, 12.0, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock', 0.1, 0.8, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.6, 3.1, 5.5, 0.0, NULL, NULL
+DEFAULT, 'Red chilli', 0.4, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.0, 33.0, 0.0, NULL, NULL
+DEFAULT, 'Coriander', 0.6, 3.1, 5.5, 0.0, NULL, NULL
+DEFAULT, 'Sunflower oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken breasts', 3.0, 27.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut butter', 50.0, 25.0, 20.0, 0.0, NULL, NULL
+DEFAULT, 'Chicken stock', 0.1, 0.8, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Greek yogurt', 10.0, 6.0, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 0.0, NULL, NULL
+DEFAULT, 'Olive oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Red wine vinegar', 0.0, 0.0, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Capers', 1.6, 2.4, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Red onions', 0.1, 1.2, 9.1, 0.0, NULL, NULL
+DEFAULT, 'Spinach', 0.4, 2.9, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Tuna', 6.0, 29.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Banana', 0.3, 1.3, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Cacao', 10.0, 25.0, 28.0, 0.0, NULL, NULL
+DEFAULT, 'Avocado', 15.0, 2.0, 9.0, 0.0, NULL, NULL
+DEFAULT, 'Honey', 0.0, 0.0, 82.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon juice', 0.0, 0.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.1, 0.1, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Sunflower oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.6, 1.2, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Blueberries', 0.3, 0.7, 14.0, 0.0, NULL, NULL
+DEFAULT, 'Banana', 0.3, 1.3, 23.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Baking powder', 0.0, 0.0, 28.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla extract', 0.0, 0.1, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Oil', 100.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pecan nuts', 72.0, 9.2, 14.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.6, 1.2, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Cream cheese', 33.0, 6.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Icing sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Maple syrup', 0.0, 0.0, 90.0, 0.0, NULL, NULL
+DEFAULT, 'Light brown soft sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Dark brown soft sugar', 0.0, 0.0, 98.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Vanilla extract', 0.0, 0.1, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Pecan nuts', 72.0, 9.2, 14.0, 0.0, NULL, NULL
+DEFAULT, 'Dark chocolate chips', 32.0, 5.0, 61.0, 0.0, NULL, NULL
+DEFAULT, 'Pumpkin', 0.1, 1.0, 7.0, 0.0, NULL, NULL
+DEFAULT, 'Shortcrust pastry', 28.0, 5.0, 55.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Caster sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.0, 6.0, 49.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.2, 4.0, 81.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Icing sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Sour cream', 20.0, 2.5, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Cream cheese', 33.0, 6.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Caster sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon juice', 0.0, 0.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Sour cream', 20.0, 2.5, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Sour cream', 20.0, 2.5, 4.0, 0.0, NULL, NULL
+DEFAULT, 'Caster sugar', 0.0, 0.0, 100.0, 0.0, NULL, NULL
+DEFAULT, 'Lemon juice', 0.0, 0.0, 6.0, 0.0, NULL, NULL
+DEFAULT, 'Digestive biscuits', 13.0, 7.0, 71.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Condensed milk', 9.0, 8.0, 55.0, 0.0, NULL, NULL
+DEFAULT, 'Egg yolks', 27.0, 16.0, 3.6, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.2, 0.7, 10.5, 0.0, NULL, NULL
+DEFAULT, 'Double cream', 50.0, 1.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Icing sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Lime', 0.2, 0.7, 10.5, 0.0, NULL, NULL
+DEFAULT, 'Dark chocolate', 35.0, 7.0, 53.0, 0.0, NULL, NULL
+DEFAULT, 'Milk chocolate', 31.0, 8.0, 57.0, 0.0, NULL, NULL
+DEFAULT, 'Salted butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Light brown soft sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Eggs', 9.0, 13.0, 1.0, 0.0, NULL, NULL
+DEFAULT, 'Plain flour', 1.0, 10.0, 76.0, 0.0, NULL, NULL
+DEFAULT, 'Cocoa', 21.0, 19.0, 10.0, 0.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.6, 1.2, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.0, 0.9, 0.1, 0.0, NULL, NULL
+DEFAULT, 'Peanut cookies', 27.0, 8.0, 63.0, 0.0, NULL, NULL
+DEFAULT, 'Gelatine leafs', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Ricotta', 13.0, 10.0, 3.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut butter', 50.0, 25.0, 20.0, 0.0, NULL, NULL
+DEFAULT, 'Golden syrup', 0.0, 0.0, 80.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.0, 5.0, 0.0, NULL, NULL
+DEFAULT, 'Double cream', 50.0, 1.0, 2.0, 0.0, NULL, NULL
+DEFAULT, 'Light brown soft sugar', 0.0, 0.0, 99.0, 0.0, NULL, NULL
+DEFAULT, 'Peanut brittle', 30.0, 4.0, 62.0, 0.0, NULL, NULL
+DEFAULT, 'Corn flour', 0.0, 0.0, 92.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.2, 0.9, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Orange', 0.2, 0.9, 12.0, 0.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 387.0, NULL, NULL
+DEFAULT, 'Peaches', 0.1, 0.9, 9.5, 39.0, NULL, NULL
+DEFAULT, 'Blueberries', 0.3, 0.7, 14.5, 57.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 98.0, 380.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.2, 4.0, 81.0, 247.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.4, 5.0, 42.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Paprika', 12.9, 14.1, 54.0, 282.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.2, 375.0, NULL, NULL
+DEFAULT, 'Thyme', 7.4, 9.1, 63.9, 276.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 41.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 3.0, 16.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.3, 1.0, 6.0, 31.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.3, 1.0, 6.3, 27.0, NULL, NULL
+DEFAULT, 'Tomato', 0.2, 0.9, 3.9, 18.0, NULL, NULL
+DEFAULT, 'Vegetable Stock Cube', 0.1, 0.2, 0.5, 5.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.3, 1.2, 3.1, 17.0, NULL, NULL
+DEFAULT, 'Thyme', 7.4, 9.1, 63.9, 276.0, NULL, NULL
+DEFAULT, 'Lentils', 0.4, 9.0, 20.1, 116.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.3, 3.1, 3.3, 22.0, NULL, NULL
+DEFAULT, 'Chestnuts', 2.2, 5.1, 53.0, 245.0, NULL, NULL
+DEFAULT, 'Challots', 0.1, 2.5, 16.8, 72.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Rosemary', 5.9, 3.3, 20.7, 131.0, NULL, NULL
+DEFAULT, 'Wild Mushrooms', 0.3, 3.1, 3.3, 22.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.1, 8.1, 4.9, 53.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.1, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Lasagne Sheets', 2.0, 12.0, 71.0, 354.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 5.0, 12.0, 70.0, 350.0, NULL, NULL
+DEFAULT, 'Sage', 12.8, 10.6, 60.7, 315.0, NULL, NULL
+DEFAULT, 'Truffle Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Sunflower Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Paneer', 25.0, 21.0, 4.8, 321.0, NULL, NULL
+DEFAULT, 'Ginger', 0.8, 1.8, 17.8, 80.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.2, 375.0, NULL, NULL
+DEFAULT, 'Turmeric', 3.3, 9.7, 67.1, 312.0, NULL, NULL
+DEFAULT, 'Coriander', 17.8, 12.4, 54.9, 298.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.4, 1.9, 8.9, 40.0, NULL, NULL
+DEFAULT, 'Tomato', 0.2, 0.9, 3.9, 18.0, NULL, NULL
+DEFAULT, 'Peas', 0.4, 5.4, 14.4, 81.0, NULL, NULL
+DEFAULT, 'Garam Masala', 12.0, 16.0, 58.0, 372.0, NULL, NULL
+DEFAULT, 'Coriander', 17.8, 12.4, 54.9, 298.0, NULL, NULL
+DEFAULT, 'Naan Bread', 7.0, 9.0, 50.0, 320.0, NULL, NULL
+DEFAULT, 'Butternut Squash', 0.1, 1.0, 11.7, 45.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Linguine Pasta', 1.4, 12.5, 70.0, 358.0, NULL, NULL
+DEFAULT, 'Sage', 12.8, 10.6, 60.7, 315.0, NULL, NULL
+DEFAULT, 'Roasted Vegetables', 0.2, 1.2, 11.8, 52.0, NULL, NULL
+DEFAULT, 'Kidney Beans', 0.5, 8.7, 22.8, 127.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.2, 0.9, 3.9, 18.0, NULL, NULL
+DEFAULT, 'Mixed Grain', 3.8, 12.2, 71.2, 361.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Ginger', 0.8, 1.8, 17.8, 80.0, NULL, NULL
+DEFAULT, 'Coriander', 17.8, 12.4, 54.9, 298.0, NULL, NULL
+DEFAULT, 'Cumin', 22.3, 18.0, 44.2, 375.0, NULL, NULL
+DEFAULT, 'Paprika', 12.9, 14.1, 54.0, 282.0, NULL, NULL
+DEFAULT, 'Garam Masala', 12.0, 16.0, 58.0, 372.0, NULL, NULL
+DEFAULT, 'Chopped Tomatoes', 0.2, 0.9, 3.9, 18.0, NULL, NULL
+DEFAULT, 'Kidney Beans', 0.5, 8.7, 22.8, 127.0, NULL, NULL
+DEFAULT, 'Basmati Rice', 0.5, 7.1, 77.0, 367.0, NULL, NULL
+DEFAULT, 'Tahini', 54.0, 17.0, 21.0, 595.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.3, 29.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.1, 1.0, 7.0, 40.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.3, 1.0, 6.3, 27.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.1, 1.8, 7.0, 31.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.3, 1.2, 3.1, 17.0, NULL, NULL
+DEFAULT, 'Kale', 0.5, 4.3, 8.8, 43.0, NULL, NULL
+DEFAULT, 'Lentils', 0.4, 9.0, 20.1, 116.0, NULL, NULL
+DEFAULT, 'Chickpeas', 2.6, 19.0, 27.4, 164.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Paprika', 12.9, 14.1, 54.0, 282.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 0.9, 3.9, 18.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.1, 1.0, 7.0, 40.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.0, 0.2, 6.0, NULL, NULL
+DEFAULT, 'Avocado', 15.0, 2.0, 9.0, 160.0, NULL, NULL
+DEFAULT, 'Lime', 0.1, 0.7, 10.5, 30.0, NULL, NULL
+DEFAULT, 'Lime', 0.1, 0.7, 10.5, 30.0, NULL, NULL
+DEFAULT, 'Sour Cream', 20.0, 2.8, 4.0, 197.0, NULL, NULL
+DEFAULT, 'Harissa Spice', 6.0, 12.0, 57.0, 312.0, NULL, NULL
+DEFAULT, 'Corn Tortillas', 3.5, 5.0, 55.0, 237.0, NULL, NULL
+DEFAULT, 'Coriander', 17.8, 12.4, 54.9, 298.0, NULL, NULL
+DEFAULT, 'Udon Noodles', 0.5, 6.0, 29.0, 142.0, NULL, NULL
+DEFAULT, 'Sesame Seed Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Cabbage', 0.1, 1.3, 5.8, 25.0, NULL, NULL
+DEFAULT, 'Shiitake Mushrooms', 0.5, 2.2, 7.5, 34.0, NULL, NULL
+DEFAULT, 'Spring Onions', 0.1, 1.8, 5.4, 32.0, NULL, NULL
+DEFAULT, 'Mirin', 0.0, 0.1, 16.0, 51.0, NULL, NULL
+DEFAULT, 'Soy Sauce', 0.1, 8.1, 4.9, 53.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 387.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.9, 3.3, 18.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 77.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Eggs', 10.0, 13.0, 1.0, 155.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 36.0, NULL, NULL
+DEFAULT, 'Baguette', 1.5, 8.0, 57.0, 270.0, NULL, NULL
+DEFAULT, 'Vine Tomatoes', 0.2, 1.0, 3.9, 18.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Beef', 15.0, 26.0, 0.0, 250.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Onions', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Celery', 0.2, 0.7, 3.0, 16.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 41.0, NULL, NULL
+DEFAULT, 'Leek', 0.2, 1.5, 14.5, 61.0, NULL, NULL
+DEFAULT, 'Swede', 0.1, 0.9, 9.6, 40.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.1, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.1, 5.0, 1.5, 15.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.5, 0.8, 6.0, 30.0, NULL, NULL
+DEFAULT, 'Thyme', 7.4, 9.1, 63.9, 276.0, NULL, NULL
+DEFAULT, 'Parsley', 0.8, 3.0, 6.3, 36.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 28.0, 53.0, NULL, NULL
+DEFAULT, 'Suet', 92.0, 1.5, 0.0, 820.0, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Beef', 15.0, 26.0, 0.0, 250.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.1, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.1, 5.0, 1.5, 15.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 41.0, NULL, NULL
+DEFAULT, 'Thyme', 7.4, 9.1, 63.9, 276.0, NULL, NULL
+DEFAULT, 'Mustard', 5.6, 7.0, 6.3, 66.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 27.4, 15.9, 0.2, 322.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 21.0, 5.8, 35.0, 406.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.1, 1.8, 7.0, 31.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.5, 1.0, 5.0, 20.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 0.1, 4.5, 0.5, 15.0, NULL, NULL
+DEFAULT, 'Chicken Breast', 3.6, 31.0, 0.0, 165.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Leek', 0.2, 1.5, 14.5, 61.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Milk', 1.0, 3.4, 5.0, 42.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.1, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Double Cream', 36.0, 2.0, 3.0, 340.0, NULL, NULL
+DEFAULT, 'Ham', 5.7, 20.0, 1.5, 145.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 0.5, 1.0, 5.0, 20.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Free-range Egg, Beaten', 10.0, 13.0, 1.0, 155.0, NULL, NULL
+DEFAULT, 'Cold Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Free-range Egg, Beaten', 10.0, 13.0, 1.0, 155.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Minced Beef', 15.0, 26.0, 0.0, 250.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.1, 4.4, 19.3, 82.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.3, 3.1, 3.3, 22.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.1, 5.0, 1.5, 15.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.9, 3.3, 18.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 22.0, 6.0, 37.0, 422.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 27.4, 15.9, 0.2, 322.0, NULL, NULL
+DEFAULT, 'Lamb Shoulder', 20.0, 16.0, 0.0, 250.0, NULL, NULL
+DEFAULT, 'Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.1, 1.1, 9.3, 40.0, NULL, NULL
+DEFAULT, 'Carrots', 0.2, 0.9, 9.6, 41.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.1, 0.5, 0.5, 5.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 77.0, NULL, NULL
+DEFAULT, 'Shortcrust Pastry', 22.0, 6.0, 37.0, 422.0, NULL, NULL
+DEFAULT, 'Eggs', 10.0, 13.0, 1.0, 155.0, NULL, NULL
+DEFAULT, 'Beef', 15.0, 26.0, 0.0, 250.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Shallots', 0.1, 2.5, 16.8, 72.0, NULL, NULL
+DEFAULT, 'Garlic', 0.5, 6.4, 33.1, 149.0, NULL, NULL
+DEFAULT, 'Bacon', 42.0, 37.0, 1.4, 541.0, NULL, NULL
+DEFAULT, 'Thyme', 7.4, 9.1, 63.9, 276.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 0.5, 0.8, 6.0, 30.0, NULL, NULL
+DEFAULT, 'Stout', 0.0, 0.3, 4.1, 50.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.1, 5.0, 1.5, 15.0, NULL, NULL
+DEFAULT, 'Corn Flour', 0.0, 0.3, 88.0, 381.0, NULL, NULL
+DEFAULT, 'Oysters', 2.5, 9.0, 3.5, 70.0, NULL, NULL
+DEFAULT, 'Plain Flour', 1.0, 10.3, 76.3, 364.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.1, 0.9, 0.1, 717.0, NULL, NULL
+DEFAULT, 'Eggs', 10.0, 13.0, 1.0, 155.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.1, 2.0, 17.0, 77.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.53, 15.88, 3.59, 322.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Shallots', 0.09, 2.49, 16.81, 72.0, NULL, NULL
+DEFAULT, 'Carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'Celery', 0.18, 0.7, 2.98, 16.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.07, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.21, 1.65, 8.98, 38.0, NULL, NULL
+DEFAULT, 'Tinned Tomatos', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 1.2, 2.52, 3.53, 36.0, NULL, NULL
+DEFAULT, 'Chicken', 13.07, 23.96, 0.05, 220.0, NULL, NULL
+DEFAULT, 'Black Olives', 10.79, 0.79, 6.32, 115.0, NULL, NULL
+DEFAULT, 'Parsley', 0.79, 2.89, 6.32, 36.05, NULL, NULL
+DEFAULT, 'Gruyere cheese', 32.34, 29.81, 0.36, 413.0, NULL, NULL
+DEFAULT, 'Cumin', 22.38, 17.62, 44.29, 375.24, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Red Onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Green Chilli', 0.36, 0.93, 6.5, 29.0, NULL, NULL
+DEFAULT, 'Red Pepper', 0.2, 0.92, 6.7, 28.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.36, 5.91, 49.09, 525.0, NULL, NULL
+DEFAULT, 'Coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'Lamb Mince', 20.94, 24.52, 0.0, 294.0, NULL, NULL
+DEFAULT, 'Pepper', 3.04, 10.43, 63.91, 250.87, NULL, NULL
+DEFAULT, 'Coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Lard', 100.0, 0.0, 0.0, 902.03, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.53, 15.88, 3.59, 322.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 38.48, 7.41, 45.71, 557.99, NULL, NULL
+DEFAULT, 'Egg White', 0.18, 10.91, 0.73, 52.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.53, 15.88, 3.59, 322.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 883.97, NULL, NULL
+DEFAULT, 'Beef', 16.59, 26.11, 0.0, 259.0, NULL, NULL
+DEFAULT, 'Lamb Kidney', 3.61, 23.64, 1.0, 137.0, NULL, NULL
+DEFAULT, 'Onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.09, 1.97, 1.2, 13.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Pepper', 3.04, 10.43, 63.91, 250.87, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 19.47, 78.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Gruyère', 32.34, 29.81, 0.36, 413.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Leek', 0.2, 0.81, 7.62, 31.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.07, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Parsley', 0.79, 2.89, 6.32, 36.05, NULL, NULL
+DEFAULT, 'Salmon', 12.35, 22.1, 0.0, 206.0, NULL, NULL
+DEFAULT, 'Haddock', 0.55, 19.99, 0.0, 90.0, NULL, NULL
+DEFAULT, 'Smoked Haddock', 0.95, 25.22, 0.0, 116.01, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.61, 53.04, NULL, NULL
+DEFAULT, 'Bicarbonate Of Soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Lamb', 20.94, 24.52, 0.0, 294.0, NULL, NULL
+DEFAULT, 'Lamb Kidney', 3.61, 23.64, 1.0, 137.0, NULL, NULL
+DEFAULT, 'Onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Worcestershire Sauce', 0.0, 0.0, 19.47, 78.0, NULL, NULL
+DEFAULT, 'Chicken Stock', 1.2, 2.52, 3.53, 36.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Bacon', 35.1, 33.91, 1.71, 468.0, NULL, NULL
+DEFAULT, 'Onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Brussels Sprouts', 0.5, 2.55, 7.1, 36.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Suet', 94.0, 1.52, 0.0, 854.0, NULL, NULL
+DEFAULT, 'Currants', 0.27, 4.08, 74.08, 283.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.32, 29.0, NULL, NULL
+DEFAULT, 'Orange', 0.15, 0.91, 12.54, 49.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Custard', 4.0, 3.99, 17.6, 122.0, NULL, NULL
+DEFAULT, 'Smoked Haddock', 0.95, 25.22, 0.0, 116.01, NULL, NULL
+DEFAULT, 'Bay Leaves', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Parsley', 0.79, 2.89, 6.32, 36.05, NULL, NULL
+DEFAULT, 'Coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 883.97, NULL, NULL
+DEFAULT, 'Onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Coriander', 5.0, 21.67, 51.67, 278.33, NULL, NULL
+DEFAULT, 'Curry Powder', 14.0, 14.5, 56.0, 325.0, NULL, NULL
+DEFAULT, 'Rice', 0.28, 2.69, 28.17, 130.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.32, 29.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Currants', 0.27, 4.08, 74.08, 283.0, NULL, NULL
+DEFAULT, 'Mixed Peel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Ginger', 1.0, 2.0, 18.0, 80.0, NULL, NULL
+DEFAULT, 'Allspice', 8.95, 6.32, 72.11, 263.16, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.32, 29.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Strawberries', 0.3, 0.67, 7.68, 32.0, NULL, NULL
+DEFAULT, 'Blackberries', 0.46, 1.38, 9.54, 43.08, NULL, NULL
+DEFAULT, 'Redcurrants', 0.2, 1.4, 13.8, 56.0, NULL, NULL
+DEFAULT, 'Raspberries', 0.5, 1.0, 12.0, 52.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Bread', 3.34, 8.86, 49.41, 266.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Suet', 94.0, 1.52, 0.0, 854.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Raspberry Jam', 0.05, 0.35, 68.85, 278.0, NULL, NULL
+DEFAULT, 'Custard', 4.0, 3.99, 17.6, 122.0, NULL, NULL
+DEFAULT, 'Hazlenuts', 60.75, 14.95, 16.7, 628.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.32, 29.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.61, 53.04, NULL, NULL
+DEFAULT, 'Blackberrys', 0.46, 1.38, 9.54, 43.08, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Lemon Juice', 0.0, 0.4, 5.6, 17.0, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Yogurt', 1.55, 5.25, 7.04, 63.0, NULL, NULL
+DEFAULT, 'Mint', 0.0, 0.0, 98.0, 394.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Golden Syrup', 0.1, 0.0, 69.6, 265.0, NULL, NULL
+DEFAULT, 'Breadcrumbs', 5.29, 13.33, 71.99, 394.99, NULL, NULL
+DEFAULT, 'Lemons', 0.3, 1.1, 9.32, 29.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Braeburn Apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Demerara Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Blackberrys', 0.46, 1.38, 9.54, 43.08, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Ice Cream', 11.0, 3.5, 23.6, 207.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.61, 53.04, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Almond Extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.61, 53.04, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Almond Extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Pink Food Colouring', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Apricot', 0.4, 1.4, 11.11, 48.0, NULL, NULL
+DEFAULT, 'Sausages', 28.24, 11.99, 0.94, 309.0, NULL, NULL
+DEFAULT, 'Bacon', 35.1, 33.91, 1.71, 468.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.5, 2.17, 5.25, 28.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Black Pudding', 34.5, 14.6, 1.29, 379.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Bread', 3.34, 8.86, 49.41, 266.0, NULL, NULL
+DEFAULT, 'Sausages', 28.24, 11.99, 0.94, 309.0, NULL, NULL
+DEFAULT, 'Bacon', 35.1, 33.91, 1.71, 468.0, NULL, NULL
+DEFAULT, 'Mushrooms', 0.5, 2.17, 5.25, 28.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Black Pudding', 34.5, 14.6, 1.29, 379.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Bread', 3.34, 8.86, 49.41, 266.0, NULL, NULL
+DEFAULT, 'Baked Beans', 0.37, 4.75, 21.14, 94.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 883.97, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Bicarbonate Of Soda', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Carrots', 0.17, 0.76, 8.22, 35.0, NULL, NULL
+DEFAULT, 'Walnuts', 65.02, 15.27, 13.79, 654.19, NULL, NULL
+DEFAULT, 'Cream Cheese', 34.45, 6.14, 5.52, 350.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'White Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Yeast', 7.5, 40.5, 41.25, 325.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Vegetable Oil', 100.0, 0.0, 0.0, 883.97, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 98.0, 380.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Dried Fruit', 0.51, 2.4, 64.69, 245.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Muscovado Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Orange', 0.15, 0.91, 12.54, 49.0, NULL, NULL
+DEFAULT, 'Apricot Jam', 0.2, 0.7, 64.4, 242.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.61, 53.04, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Ground Almonds', 52.71, 20.93, 20.93, 597.67, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Dried Fruit', 0.51, 2.4, 64.69, 245.0, NULL, NULL
+DEFAULT, 'Glace Cherry', 0.24, 1.1, 15.98, 63.05, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Lemon', 0.3, 1.1, 9.32, 29.0, NULL, NULL
+DEFAULT, 'Mixed Peel', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Baking Powder', 0.0, 0.0, 27.61, 53.04, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Dried Fruit', 0.51, 2.4, 64.69, 245.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Vanilla Extract', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Egg', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Golden Syrup', 0.1, 0.0, 69.6, 265.0, NULL, NULL
+DEFAULT, 'Black Treacle', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Brown Sugar', 0.0, 0.0, 98.0, 380.0, NULL, NULL
+DEFAULT, 'Oatmeal', 1.52, 2.54, 12.0, 71.0, NULL, NULL
+DEFAULT, 'Self-raising Flour', 0.97, 9.89, 74.22, 354.0, NULL, NULL
+DEFAULT, 'Ground Ginger', 4.44, 8.89, 71.67, 335.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Dry White Wine', 0.0, 0.07, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Beef Stock', 0.09, 1.97, 1.2, 13.0, NULL, NULL
+DEFAULT, 'Bread', 3.34, 8.86, 49.41, 266.0, NULL, NULL
+DEFAULT, 'Gruyère', 32.34, 29.81, 0.36, 413.0, NULL, NULL
+DEFAULT, 'Goose Fat', 21.92, 25.16, 0.0, 305.0, NULL, NULL
+DEFAULT, 'Beef Shin', 16.59, 26.11, 0.0, 259.0, NULL, NULL
+DEFAULT, 'Bacon', 35.1, 33.91, 1.71, 468.0, NULL, NULL
+DEFAULT, 'Challots', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Chestnut Mushroom', 0.1, 2.49, 4.3, 22.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Bouquet Garni', 4.32, 14.32, 43.24, 212.7, NULL, NULL
+DEFAULT, 'Tomato Puree', 0.21, 1.65, 8.98, 38.0, NULL, NULL
+DEFAULT, 'Red Wine', 0.0, 0.07, 2.61, 85.0, NULL, NULL
+DEFAULT, 'Celeriac', 0.19, 0.96, 5.9, 27.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Thyme', 1.25, 5.0, 25.0, 101.25, NULL, NULL
+DEFAULT, 'Rosemary', 15.0, 5.0, 64.17, 330.83, NULL, NULL
+DEFAULT, 'Bay Leaf', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Cardamom', 6.5, 11.0, 68.5, 311.0, NULL, NULL
+DEFAULT, 'Single Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Dark Chocolate', 31.29, 4.87, 61.16, 546.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Dark Chocolate', 31.29, 4.87, 61.16, 546.0, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.53, 15.88, 3.59, 322.0, NULL, NULL
+DEFAULT, 'Egg White', 0.18, 10.91, 0.73, 52.0, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 99.77, 389.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Leek', 0.2, 0.81, 7.62, 31.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 43.36, 2.36, 2.43, 400.5, NULL, NULL
+DEFAULT, 'Egg', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.53, 15.88, 3.59, 322.0, NULL, NULL
+DEFAULT, 'Nutmeg', 36.36, 5.91, 49.09, 525.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Lard', 100.0, 0.0, 0.0, 902.03, NULL, NULL
+DEFAULT, 'Cheddar Cheese', 33.3, 22.86, 3.1, 403.99, NULL, NULL
+DEFAULT, 'Water', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Sea Salt', 0.0, 0.0, 0.0, 0.0, NULL, NULL
+DEFAULT, 'Bay Leaf', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Garlic', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Thyme', 1.25, 5.0, 25.0, 101.25, NULL, NULL
+DEFAULT, 'Duck Legs', 11.4, 26.75, 0.0, 217.0, NULL, NULL
+DEFAULT, 'White Wine', 0.0, 0.07, 2.6, 82.0, NULL, NULL
+DEFAULT, 'Aubergine', 0.23, 0.83, 8.73, 35.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.36, 1.14, 2.69, 15.0, NULL, NULL
+DEFAULT, 'Yellow Pepper', 0.21, 1.0, 6.32, 27.0, NULL, NULL
+DEFAULT, 'Tomato', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Onion', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Red Wine Vinegar', 0.0, 0.07, 0.27, 18.99, NULL, NULL
+DEFAULT, 'Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Puff Pastry', 38.48, 7.41, 45.71, 557.99, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Braeburn Apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Creme Fraiche', 43.36, 2.36, 2.43, 400.5, NULL, NULL
+DEFAULT, 'Puff Pastry', 38.48, 7.41, 45.71, 557.99, NULL, NULL
+DEFAULT, 'Dark Brown Soft Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Braeburn Apples', 0.17, 0.26, 13.81, 52.0, NULL, NULL
+DEFAULT, 'Red Wine Jelly', 0.0, 0.07, 2.61, 85.0, NULL, NULL
+DEFAULT, 'Creme Fraiche', 43.36, 2.36, 2.43, 400.5, NULL, NULL
+DEFAULT, 'Icing Sugar', 0.0, 0.0, 99.77, 389.0, NULL, NULL
+DEFAULT, 'Cardamom', 6.5, 11.0, 68.5, 311.0, NULL, NULL
+DEFAULT, 'Rapeseed Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Leek', 0.2, 0.81, 7.62, 31.0, NULL, NULL
+DEFAULT, 'Courgettes', 0.36, 1.14, 2.69, 15.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.07, 0.23, 1.02, 6.0, NULL, NULL
+DEFAULT, 'Cannellini Beans', 0.35, 9.73, 25.09, 139.0, NULL, NULL
+DEFAULT, 'Green Beans', 0.28, 1.89, 7.88, 35.0, NULL, NULL
+DEFAULT, 'Tomatoes', 0.2, 0.88, 3.89, 18.0, NULL, NULL
+DEFAULT, 'Garlic Clove', 0.67, 6.33, 33.0, 149.0, NULL, NULL
+DEFAULT, 'Basil', 0.0, 4.0, 2.0, 24.0, NULL, NULL
+DEFAULT, 'Parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Bay Leaves', 10.0, 10.0, 75.0, 315.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'English Mustard', 3.4, 3.8, 5.8, 60.0, NULL, NULL
+DEFAULT, 'Cayenne Pepper', 17.22, 12.22, 56.67, 317.78, NULL, NULL
+DEFAULT, 'Gruyère', 32.34, 29.81, 0.36, 413.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Goats Cheese', 21.09, 18.52, 0.0, 263.99, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'Spinach', 0.26, 2.97, 3.75, 23.0, NULL, NULL
+DEFAULT, 'Plain Flour', 0.98, 10.33, 76.31, 364.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Yeast', 7.5, 40.5, 41.25, 325.0, NULL, NULL
+DEFAULT, 'Milk', 1.98, 3.3, 4.8, 50.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Brie', 27.69, 20.74, 0.46, 334.0, NULL, NULL
+DEFAULT, 'Prosciutto', 8.32, 27.8, 0.32, 194.99, NULL, NULL
+DEFAULT, 'Onions', 0.19, 1.36, 10.15, 44.0, NULL, NULL
+DEFAULT, 'Thyme', 1.25, 5.0, 25.0, 101.25, NULL, NULL
+DEFAULT, 'Olive Oil', 100.0, 0.0, 0.0, 884.0, NULL, NULL
+DEFAULT, 'Potatoes', 0.13, 2.5, 21.15, 93.0, NULL, NULL
+DEFAULT, 'Vegetable Stock', 0.07, 0.23, 1.02, 6.0, NULL, NULL
+DEFAULT, 'Eggs', 9.52, 12.56, 0.72, 143.0, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Parmesan', 27.8, 28.4, 14.0, 420.0, NULL, NULL
+DEFAULT, 'Tarragon', 7.22, 22.78, 50.0, 295.0, NULL, NULL
+DEFAULT, 'Parsley', 0.79, 2.89, 6.32, 36.05, NULL, NULL
+DEFAULT, 'Chives', 0.67, 3.33, 4.33, 30.0, NULL, NULL
+DEFAULT, 'Gruyère', 32.34, 29.81, 0.36, 413.0, NULL, NULL
+DEFAULT, 'Pears', 0.14, 0.36, 15.23, 57.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Butter', 81.13, 0.85, 0.07, 716.97, NULL, NULL
+DEFAULT, 'Star Anise', 15.0, 20.0, 50.0, 335.0, NULL, NULL
+DEFAULT, 'Cardamom', 6.5, 11.0, 68.5, 311.0, NULL, NULL
+DEFAULT, 'Cinnamon', 1.15, 3.85, 80.77, 246.92, NULL, NULL
+DEFAULT, 'Brandy', 0.0, 0.0, 0.0, 231.0, NULL, NULL
+DEFAULT, 'Puff Pastry', 38.48, 7.41, 45.71, 557.99, NULL, NULL
+DEFAULT, 'Double Cream', 36.07, 2.85, 2.75, 340.0, NULL, NULL
+DEFAULT, 'White Chocolate Chips', 32.1, 5.88, 59.24, 539.0, NULL, NULL
+DEFAULT, 'Vanilla', 0.0, 0.0, 12.62, 288.1, NULL, NULL
+DEFAULT, 'Egg Yolks', 26.53, 15.88, 3.59, 322.0, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Caster Sugar', 0.0, 0.0, 100.0, 386.9, NULL, NULL
+DEFAULT, 'Prawns', 1.8, 22.8, 1.6, 119.0, NULL, NULL
+
