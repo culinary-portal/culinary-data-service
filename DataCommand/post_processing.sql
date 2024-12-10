@@ -86,3 +86,9 @@ where amount in (0,-1,-2);
 update contains
 set measure = 10
 where measure = 'n/a';
+-- add column to enable future proportion
+alter table contains add proportion_i1_i2 float;
+-- populate 1 to make backend work without changes
+update contains
+set proportion_i1_i2 = 1
+where 1 = 1;
