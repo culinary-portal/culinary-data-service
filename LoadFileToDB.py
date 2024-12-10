@@ -1,39 +1,40 @@
 import psycopg2
-
-FILE_NAME = 'Transformation/ClearData/ingredient_empty.txt'
-TABLE_NAME = 'ingredient_empty'
+import os
+from dotenv import load_dotenv
+load_dotenv()
+FILE_NAME = 'Transformation/ClearData/substitutes_table.txt'
+TABLE_NAME = 'substitute'
 PARAMS = {
-    'dbname': 'postgres',
-    'user': 'postgres',
-    'password': 'postgres',
-    'host': 'localhost',
-    'port': '5432'
-}
+            'dbname': os.getenv('GCP_DB_NAME'),
+            'user': os.getenv('GCP_DB_USER'),
+            'password': os.getenv('GCP_DB_PASSWORD'),
+            'host': os.getenv('GCP_DB_HOST'),
+            'port': os.getenv('GCP_DB_PORT')
+        }
 
 
 def load_file_to_database(file_name, table_name):
     try:
-        # Connect to the PostgreSQL database and create a cursor
+        # connect to the PostgreSQL database and create a cursor
         connection = psycopg2.connect(**PARAMS)
         cursor = connection.cursor()
 
-        # Open the file and read lines
+        # open the file and read lines
         with open(file_name, 'r', encoding='utf-8') as file:
             for line in file:
-                # Remove any newline characters from the line
                 row_data = line.strip()
                 print(row_data)
-                # Construct the SQL query
+                # construct the SQL query
                 query = f"INSERT INTO {table_name} VALUES ({row_data});"
 
                 try:
-                    # Execute the query
+                    # execute the query
                     cursor.execute(query)
                 except (Exception, psycopg2.DatabaseError) as error:
                     print(f"Error while inserting row: {error}")
-                    connection.rollback()  # Roll back if there's an error for this row
+                    connection.rollback()  # roll back if there's an error for this row
                 else:
-                    connection.commit()  # Commit each row after successful insertion
+                    connection.commit()  # commit each row after successful insertion
 
         print("All rows inserted successfully")
 
@@ -41,12 +42,12 @@ def load_file_to_database(file_name, table_name):
         print(f"Error while connecting: {error}")
 
     finally:
-        # Close the cursor and connection
+        # close the cursor and connection
         if cursor:
             cursor.close()
         if connection:
             connection.close()
 
 
-# Run the function
+# run the function
 load_file_to_database(FILE_NAME, TABLE_NAME)

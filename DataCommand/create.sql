@@ -51,8 +51,11 @@ fat FLOAT,
 protein FLOAT,
 carbohydrate FLOAT,
 kcal FLOAT,
-is_vegan BOOLEAN,
-is_gluten_free BOOLEAN
+is_vegan INT,
+is_vegetarian INT,
+is_gluten_free INT,
+    is_lactose_free INT,
+    is_keto INT
 );
 
 CREATE TABLE IF NOT EXISTS recipe (
@@ -79,7 +82,6 @@ CREATE TABLE IF NOT EXISTS substitute (
 substitute_id SERIAL PRIMARY KEY,
 ingredient1_id INTEGER,
 ingredient2_id INTEGER,
-proportion_i1_i2 FLOAT,
 CONSTRAINT fk_ingredient1 FOREIGN KEY (ingredient1_id) REFERENCES ingredient (ingredient_id),
 CONSTRAINT fk_ingredient2 FOREIGN KEY (ingredient2_id) REFERENCES ingredient (ingredient_id)
 );
@@ -118,6 +120,3 @@ likes BOOLEAN,
 CONSTRAINT fk_specific_user FOREIGN KEY (user_id) REFERENCES users (user_id),
 CONSTRAINT fk_specific_ingredient FOREIGN KEY (id_ingredient) REFERENCES ingredient (ingredient_id)
 );
-
-ALTER TABLE general_recipe
-ADD CONSTRAINT fk_base_recipe FOREIGN KEY (base_recipe_id) REFERENCES recipe (recipe_id);
