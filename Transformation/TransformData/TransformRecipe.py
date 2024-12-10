@@ -18,6 +18,7 @@ class TransformRecipe:
         }
 
     def transform_data(self, response):
+        # map the fields
         if response is not None:
             print(response.get('strMeal'))
             name = response['strMeal'].replace("'", "")
@@ -29,10 +30,10 @@ class TransformRecipe:
 
     def get_id_recipe(self, recipe_name):
         query = "SELECT general_recipe_id FROM general_recipe WHERE name = %s"
-        result = self._fetch_single_result(query, (recipe_name,))
+        result = self.fetch_single_result(query, recipe_name)
         return result[0] if result else None
 
-    def _fetch_single_result(self, query, params):
+    def fetch_single_result(self, query, params):
         try:
             with psycopg2.connect(**self.params) as connection:
                 with connection.cursor() as cursor:
@@ -41,3 +42,5 @@ class TransformRecipe:
         except Error as e:
             print(f"Database error occurred: {e}")
             return None
+
+

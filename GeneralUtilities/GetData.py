@@ -8,7 +8,7 @@ class GetData:
         self.number_of_meals = 317
         #self.starting_id = 52918
         self.starting_id = 52767
-        self.file_name = 'mealdb_data'
+        self.file_name = '../Transformation/working_data/mealdb_data'
 
     def combine_url(self, endpoint):
         return f"{self.base_url}/{endpoint}"

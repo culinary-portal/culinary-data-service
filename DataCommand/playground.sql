@@ -14,8 +14,39 @@ is_lactose_free INT,
 is_keto INT
 );
 
-select * from testing where is_vegan = 0 or is_vegetarian = 0 or is_gluten_free = 0 or is_lactose_free = 0;
+select  * from testing;
 
-select * from ingredient where ingredient_id = 854 or ingredient_id = 1454;
 
-select general_recipe_id, name, photo_url from general_recipe;
+WITH cte_duplicates AS (
+    SELECT
+        MIN(ingredient_id) AS min_id,  -- Keep the row with the smallest ID
+        name, fat, protein, carbohydrate, is_vegetarian, is_lactose_free, is_gluten_free, is_vegan, is_keto
+    FROM testing
+    GROUP BY name, fat, protein, carbohydrate, kcal,is_vegetarian, is_lactose_free, is_gluten_free, is_vegan, is_keto
+)
+DELETE FROM testing
+WHERE ingredient_id NOT IN (
+    SELECT min_id FROM cte_duplicates
+);
+
+
+
+
+-- finding constraints on tables
+SELECT
+    conname AS constraint_name,
+    contype AS constraint_type,
+    conrelid::regclass AS table_name
+FROM
+    pg_constraint
+WHERE
+    conrelid = 'TABLEname'::regclass;
+
+-- or
+SELECT constraint_name, constraint_type
+FROM information_schema.table_constraints
+WHERE table_name = 'TABLEname'
+  AND table_schema = 'public';
+
+
+select * from recipe;
