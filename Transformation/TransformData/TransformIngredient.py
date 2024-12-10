@@ -13,7 +13,7 @@ class TransformIngredient:
 
     def transform_data(self, response):
         ingredient = response.replace("'", "")
-        # Get the macronutrient data
+        # get the macronutrient data
         fats, proteins, carbs, kcal = self.get_macro_elements(ingredient)
 
         self.row = f"DEFAULT, '{ingredient}', {fats}, {proteins}, {carbs}, {kcal}, NULL, NULL, NULL, NULL, NULL"
@@ -35,7 +35,7 @@ class TransformIngredient:
                 data=json.dumps(body)
             ).json()
 
-            # Debugging output for the response
+            # debugging output for the response
             print(response)
             # placeholder when response not valid
             dummy_values = ("-1", "-1", "-1", "-1")

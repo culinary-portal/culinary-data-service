@@ -18,11 +18,11 @@ class TransformContains:
         }
 
     def transform_data(self, response, iterator):
-        # Fetch recipe and ingredient names
+        # fetch recipe and ingredient names
         recipe_name = response.get('strMeal', '').replace("'", "")
         ingredient_name = response.get(f'strIngredient{iterator + 1}', '').replace("'", "").replace(",", "").lower()
 
-        # Fetch the IDs for recipe and ingredient
+        # fetch the IDs for recipe and ingredient
         recipe_id = self.get_id("recipe", "recipe_id", recipe_name)
         ingredient_id = self.get_id("ingredient", "ingredient_id", ingredient_name)
 
@@ -33,11 +33,10 @@ class TransformContains:
             print(f"Missing Ingredient ID: {ingredient_id}, {ingredient_name}")
             return False
 
-        # Extract quantity and unit from the measure
+        # extract quantity and unit from the measure
         how_much = response.get(f'strMeasure{iterator + 1}', "")
         quantity, unit = self.extract_quantity_and_unit(how_much)
 
-        # Prepare and return the transformed row
         print(
             f"Transformed Data - Quantity: {quantity}, Unit: {unit}, Recipe ID: {recipe_id}, "
             f"Ingredient ID: {ingredient_id}, recipe: {recipe_name}, ingredient_name: {ingredient_name}")
@@ -56,11 +55,11 @@ class TransformContains:
             return None
 
     def extract_quantity_and_unit(self, how_much):
-        # Regular expressions for quantity (including fractions) and units
+        # regular expressions for quantity (including fractions) and units
         quantity_pattern = re.compile(r"(?P<quantity>\d+[\d./¼¾½]*[-\d½]*)")
         unit_pattern = re.compile(r"(?P<unit>[a-zA-Z]+)")
 
-        # Match patterns for quantity and unit
+        # match patterns for quantity and unit
         quantity_match = quantity_pattern.match(how_much)
         unit_match = unit_pattern.search(how_much)
 
@@ -115,7 +114,7 @@ class TransformContains:
             "n/a": "n/a"
         }
         print(quantity_match, unit_match)
-        # Parse the quantity and unit
+        # parse the quantity and unit
         quantity = quantity_match.group('quantity').strip() if quantity_match is not None else None
         unit = unit_match.group('unit').strip() if unit_match is not None else None
         print(quantity, unit)

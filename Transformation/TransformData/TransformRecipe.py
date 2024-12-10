@@ -18,6 +18,7 @@ class TransformRecipe:
         }
 
     def transform_data(self, response):
+        # map the fields
         if response is not None:
             print(response.get('strMeal'))
             name = response['strMeal'].replace("'", "")
